@@ -17,10 +17,13 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
-    Component.ContentMeta({showReadingTime: false}),
+    Component.ContentMeta({ showReadingTime: false }),
     Component.TagList(),
     Component.ConditionalRender({
-      component: Component.FrontmatterTable({ whitelist: [], blacklist: ["title", "tags", "modified", "Prepared", "Spell Book"] }),
+      component: Component.FrontmatterTable({
+        whitelist: [],
+        blacklist: ["title", "tags", "modified", "Prepared", "Spell Book"],
+      }),
       condition: (page) => page.fileData.frontmatter?.tags?.includes("spell") === true,
     }),
   ],
@@ -33,15 +36,12 @@ export const defaultContentPageLayout: PageLayout = {
           Component: Component.Search(),
           grow: true,
         },
-        { Component: Component.Darkmode() }
+        { Component: Component.Darkmode() },
       ],
     }),
     Component.Explorer(),
   ],
-  right: [
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
-  ],
+  right: [Component.DesktopOnly(Component.TableOfContents()), Component.Backlinks()],
   pageBody: Component.Content(),
 }
 
@@ -57,7 +57,7 @@ export const defaultListPageLayout: PageLayout = {
           Component: Component.Search(),
           grow: true,
         },
-        { Component: Component.Darkmode() }
+        { Component: Component.Darkmode() },
       ],
     }),
     Component.Explorer(),
