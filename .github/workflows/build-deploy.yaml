@@ -1,18 +1,26 @@
-name: Build Preview Deployment
+name: Build and Deploy
 
 on:
   workflow_dispatch:
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
 jobs:
-  build-preview:
+  build:
     runs-on: ubuntu-latest
-    name: Build Preview
+    name: Build
     steps:
       - uses: actions/checkout@v5
         with:
           fetch-depth: 0
           submodules: true
           token: ${{ secrets.ALARIC_VOSS_PAT }}
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
 
       - name: Setup Node
         uses: actions/setup-node@v6
@@ -29,8 +37,8 @@ jobs:
 
       - run: npm ci
 
-      #      - name: Check types and style
-      #        run: npm run check
+      - name: Check types and style
+        run: npm run check
 
       - name: Build Quartz
         run: npx quartz build -v
@@ -39,4 +47,15 @@ jobs:
         uses: actions/upload-artifact@v5
         with:
           name: preview-build
-          path: public
+          path: public/
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
