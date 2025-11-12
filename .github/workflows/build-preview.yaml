@@ -12,6 +12,7 @@ jobs:
         with:
           fetch-depth: 0
           submodules: true
+          token: ${{ secrets.ALARIC_VOSS_PAT }}
 
       - name: Setup Node
         uses: actions/setup-node@v6
