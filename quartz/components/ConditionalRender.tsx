@@ -2,6 +2,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 
 type ConditionalRenderConfig = {
   component: QuartzComponent
+  else?: QuartzComponent
   condition: (props: QuartzComponentProps) => boolean
 }
 
@@ -11,7 +12,7 @@ export default ((config: ConditionalRenderConfig) => {
       return <config.component {...props} />
     }
 
-    return null
+    return config.else ? <config.else {...props} /> : null
   }
 
   ConditionalRender.afterDOMLoaded = config.component.afterDOMLoaded
