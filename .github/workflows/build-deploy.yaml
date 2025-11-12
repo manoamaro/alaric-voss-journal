@@ -46,7 +46,7 @@ jobs:
       - name: Upload build artifact
         uses: actions/upload-artifact@v5
         with:
-          name: preview-build
+          name: github-pages
           path: public/
 
   deploy:
