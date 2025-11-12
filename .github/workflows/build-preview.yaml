@@ -1,19 +1,17 @@
 name: Build Preview Deployment
 
 on:
-  pull_request:
-    types: [opened, synchronize]
   workflow_dispatch:
 
 jobs:
   build-preview:
-    if: ${{ github.repository == 'jackyzha0/quartz' }}
     runs-on: ubuntu-latest
     name: Build Preview
     steps:
       - uses: actions/checkout@v5
         with:
           fetch-depth: 0
+          submodules: true
 
       - name: Setup Node
         uses: actions/setup-node@v6
@@ -34,7 +32,7 @@ jobs:
         run: npm run check
 
       - name: Build Quartz
-        run: npx quartz build -d docs -v
+        run: npx quartz build -v
 
       - name: Upload build artifact
         uses: actions/upload-artifact@v5
