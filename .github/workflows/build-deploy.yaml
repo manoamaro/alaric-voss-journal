@@ -43,7 +43,10 @@ jobs:
       - name: Test
         run: npm test
 
-      - name: Check types and style
+      - name: Format
+        run: npm run format
+
+      - name: Check
         run: npm run check
 
       - name: Build Quartz
