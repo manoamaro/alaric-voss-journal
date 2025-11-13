@@ -1,10 +1,8 @@
 ---
-{"publish":true,"title":"Alaric Voss' Journal","created":"2025-11-13T20:13:36.340+01:00","modified":"2025-11-13T22:06:44.596+01:00","published":"2025-11-13T22:06:44.596+01:00","cssclasses":""}
+{"publish":true,"title":"Alaric Voss' Journal","created":"2025-11-13T20:13:36.340+01:00","modified":"2025-11-13T22:58:56.767+01:00","published":"2025-11-13T22:58:56.767+01:00","cssclasses":""}
 ---
 
 ![[media/alaric_voss_mist.jpg|500]]
-
-# Alaric Voss' Journal
 
 > "In the gloaming between one heartbeat and the next, the Mists remember everything. I intend to do the same."
 

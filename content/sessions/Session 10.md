@@ -1,11 +1,11 @@
 ---
-{"publish":true,"created":"2025-10-26","modified":"2025-11-13T22:46:32.747+01:00","published":"2025-10-26","tags":["session"],"cssclasses":"","date":"2025-10-26"}
+{"publish":true,"created":"2025-10-26","modified":"2025-11-13T23:03:25.195+01:00","published":"2025-10-26","tags":["session"],"cssclasses":"","date":"2025-10-26"}
 ---
 
 
 Alaric wakes early in [[compendium/characters/Madame Eva]]’s camp at [[compendium/locations/Tser Pool]], restless and unsettled by the previous night’s visions. Outside his tent, [[compendium/characters/Stanimir]] greets him again, asking about [[compendium/locations/Neverwinter]]—a place he claims never to have heard of. Still disoriented, Alaric recounts his meeting with [[compendium/characters/Madame Eva]]. [[compendium/characters/Stanimir]] advises, “Then follow her words.”
 
-After breakfast, Alaric sets off toward the crossroads, walking for several hours. There he finds the gallows—changed. Four bodies hang now where none stood before: an old man in armor smiling faintly, a second knight with silver trim and fury on his face, a blue-green tiefling woman, and a bronze dragonborn. Realizing it is another vision, Alaric approaches but collides with an invisible barrier that hurls him backward. Pain sears through him (–1 HP). When he rises, the bodies are gone.
+After breakfast, Alaric sets off toward the crossroads, walking for several hours. There he finds the gallows—changed. Four bodies hang now where none stood before: an old man in armor smiling faintly, a second knight with silver trim and fury on his face, a blue-green [[compendium/world/Tieflings\|tiefling]] woman, and a bronze [[compendium/world/Dragonborns\|dragonborn]]. Realizing it is another vision, Alaric approaches but collides with an invisible barrier that hurls him backward. Pain sears through him (–1 HP). When he rises, the bodies are gone.
 
 ![[media/session10/crossroads_gallows_vision.jpg]]
 
@@ -19,9 +19,9 @@ The streets are mud and silent. Many homes stand abandoned. In the village squar
 
 A sweet smell of pastries catches his attention from a nearby bakery. A woman named Bella offers him one. Suspicious, he refuses at first but accepts a few to examine later.
 
-Moments later, chaos echoes from within the church. Alaric opens the doors just as a group emerges from the basement: a paladin, a fighter, a tiefling druid, and a bronze dragonborn—the figures from his vision. The paladin, [[compendium/characters/Brennick]], grabs Alaric by the robe, shouting, “Show your teeth!” Alaric complies, and [[compendium/characters/Brennick]] releases him. [[compendium/characters/Van]], the fighter, demands his name. “I am Alaric. [[compendium/characters/Madame Eva]] told me to find answers here.”
+Moments later, chaos echoes from within the church. Alaric opens the doors just as a group emerges from the basement: a paladin, a fighter, a [[compendium/world/Tieflings\|tiefling]] druid, and a bronze [[compendium/world/Dragonborns\|dragonborn]]—the figures from his vision. The paladin, [[compendium/characters/Brennick]], grabs Alaric by the robe, shouting, “Show your teeth!” Alaric complies, and [[compendium/characters/Brennick]] releases him. [[compendium/characters/Van]], the fighter, demands his name. “I am Alaric. [[compendium/characters/Madame Eva]] told me to find answers here.”
 
-The dragonborn [[compendium/characters/Hugh]] holds a corpse. [[compendium/characters/Van]] mutters, “Another one of us, maybe. Stay close.” Inside, Alaric learns the dead man was [[compendium/characters/Doru]], son of [[compendium/characters/Father Donovich\|Priest Donavich]]. After the confrontation, the group introduces themselves. Alaric notes that [[compendium/characters/Ireena Kolyana\|Ireena]] and [[compendium/characters/Ismark Kolyanovich\|Ismark]]—two others with them—did not appear in his vision.
+The [[compendium/world/Dragonborns\|dragonborn]] [[compendium/characters/Hugh]] holds a corpse. [[compendium/characters/Van]] mutters, “Another one of us, maybe. Stay close.” Inside, Alaric learns the dead man was [[compendium/characters/Doru]], son of [[compendium/characters/Father Donovich\|Priest Donavich]]. After the confrontation, the group introduces themselves. Alaric notes that [[compendium/characters/Ireena Kolyana\|Ireena]] and [[compendium/characters/Ismark Kolyanovich\|Ismark]]—two others with them—did not appear in his vision.
 
 [[compendium/characters/Hugh]] asks for a pastry. Alaric warns it may not be safe, but he eats it anyway. He then gives Alaric a black orb, claiming it grants visions. Alaric senses no magic and begins to cast [[spells/Level 1/Detect Magic\|Detect Magic]], but [[compendium/characters/Van]] interrupts, insisting they move on. Alaric stores the orb.
 

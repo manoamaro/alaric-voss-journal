@@ -1,2 +1,3 @@
-![[media/compendium/stanimir_sketch.jpg]]
 #character 
+
+![[media/compendium/stanimir_sketch.jpg]]

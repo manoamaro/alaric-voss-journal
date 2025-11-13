@@ -1,3 +1,4 @@
+#character 
 ![[media/compendium/father_donovich_sketch.jpg|500]]
 
 Donovich is the local priest to the [[compendium/locations/Village of Barovia]] . He resides in the Church in [[compendium/locations/Village of Barovia]] with his son [[compendium/characters/Doru]] , now a [[compendium/study notes/Vampiric Entities\|Vampire]] spawn.
@@ -9,4 +10,3 @@ Father Donovich has been feeding his son his own blood since he was imprisoned, 
 Father Donovich is a priest of [[compendium/world/Morninglord Religion]].
 
 After the Party found [[compendium/characters/Doru]] they killed him in the Undercroft. That night Father Donovich took his own life by hanging himself from the bell tower only for [[compendium/characters/Count Strahd von Zarovich]] to force his spirit back into his body. [[compendium/characters/Count Strahd von Zarovich\|Strahd]] told Donovich that twice he had disobeyed his will and if he did again he would have [[compendium/characters/Count Strahd von Zarovich\|Strahd]]'s attention.
-#character 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-07","modified":"2025-11-13T22:56:48.445+01:00","published":"2025-11-07","tags":["session"],"cssclasses":"","date":"2025-11-07"}
+{"publish":true,"created":"2025-11-07","modified":"2025-11-13T22:59:55.638+01:00","published":"2025-11-07","tags":["session"],"cssclasses":"","date":"2025-11-07"}
 ---
 
 
@@ -39,7 +39,7 @@ The battle began. The construct advanced toward [[compendium/characters/Van]], t
 
 [[compendium/characters/Brennick]] hurled a firebomb, engulfing several ravens in flame.
 
-With a thunderous crack, the construct rose into the air. Its massive wooden wings beat against the mist, lifting it beyond reach. It hurled a spike toward [[compendium/characters/Van]], but [[Alaric Voss\|Alaric]] intervened, twisting fate itself—using his Portent to alter the outcome and spare his ally some harm. The second spike struck true, piercing Van’s shoulder.
+With a thunderous crack, the construct rose into the air. Its massive wooden wings beat against the mist, lifting it beyond reach. It hurled a spike toward [[compendium/characters/Van]], but [[Alaric Voss\|Alaric]] intervened, twisting fate itself—using his Portent to alter the outcome and spare his ally some harm. The second spike struck true, piercing [[compendium/characters/Van]]’s shoulder.
 
 [[compendium/characters/Orianna]] moved to heal him with a soft incantation.
 
@@ -59,7 +59,7 @@ Then [[compendium/characters/Hugh]] raised his hand, his focus sharp, and unleas
 
 # Aftermath
 
-[[compendium/characters/Van]] and [[Alaric Voss\|Alaric]] approached the fallen construct. Van noticed its clawed hands—each talon forged from silver—and considered harvesting them before turning his attention to [[compendium/characters/Orianna]]’s condition.
+[[compendium/characters/Van]] and [[Alaric Voss\|Alaric]] approached the fallen construct. [[compendium/characters/Van]] noticed its clawed hands—each talon forged from silver—and considered harvesting them before turning his attention to [[compendium/characters/Orianna]]’s condition.
 
 [[Alaric Voss\|Alaric]] lingered beside the body, feeling the lingering pulse of arcane energy. He placed his hand upon the head, sensing immense power emanating from within the Crown-Core. Drawing his dagger, he began carving through the hardened wood, the effort brutal and costly. Splinters tore his flesh, blood mixing with sap as he cut deeper (–9 HP). Finally, he reached the heart of the construct—a black, pulsing mass. With trembling hands, he extracted it and stored it carefully in his pouch.
 
