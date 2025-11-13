@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.425+01:00","modified":"2025-11-13T20:13:36.426+01:00","published":"2025-11-13T20:13:36.426+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Evocation","CastingTime":"Action","Range":"120 feet","Components":["V","S","M"],"Material":"a cube of granite","Concentration":true,"Duration":"up to 10 minutes","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Druid","Sorcerer","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.425+01:00","modified":"2025-11-13T21:02:37.630+01:00","published":"2025-11-13T21:02:37.630+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Evocation","CastingTime":"Action","Range":"120 feet","Components":["V","S","M"],"Material":"a cube of granite","Concentration":true,"Duration":"up to 10 minutes","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Druid","Sorcerer","Wizard"]}
 ---
 
 
@@ -8,4 +8,4 @@ If the wall cuts through a creature's space when it appears, the creature is pus
 The wall can have any shape you desire, though it can't occupy the same space as a creature or object. The wall doesn't need to be vertical or rest on a firm foundation. It must, however, merge with and be solidly supported by existing stone. Thus, you can use this spell to bridge a chasm or create a ramp.
 If you create a span greater than 20 feet in length, you must halve the size of each panel to create supports. You can crudely shape the wall to create battlements and the like.
 The wall is an object made of stone that can be damaged and thus breached. Each panel has AC 15 and 30 Hit Points per inch of thickness, and it has Immunity to Poison and Psychic damage. Reducing a panel to 0 Hit Points destroys it and might cause connected panels to collapse at the DM's discretion.
-If you maintain your #Concentration on this spell for its full duration, the wall becomes permanent and can't be dispelled. Otherwise, the wall disappears when the spell ends.
+If you maintain your Concentration on this spell for its full duration, the wall becomes permanent and can't be dispelled. Otherwise, the wall disappears when the spell ends.

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.420+01:00","modified":"2025-11-13T20:13:36.420+01:00","published":"2025-11-13T20:13:36.420+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Enchantment","CastingTime":"Action","Range":"60 feet","Components":["V","S"],"Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. Your #Concentration can last longer with a spell slot of level 6 (up to 10 minutes), 7 (up to 1 hour), or 8+ (up to 8 hours).","Spell Book":false,"Prepared":false,"Classes":["Bard","Sorcerer","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.420+01:00","modified":"2025-11-13T21:02:48.623+01:00","published":"2025-11-13T21:02:48.623+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Enchantment","CastingTime":"Action","Range":"60 feet","Components":["V","S"],"Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. Your #Concentration can last longer with a spell slot of level 6 (up to 10 minutes), 7 (up to 1 hour), or 8+ (up to 8 hours).","Spell Book":false,"Prepared":false,"Classes":["Bard","Sorcerer","Wizard"]}
 ---
 
 
@@ -7,4 +7,4 @@ One Humanoid you can see within range must succeed on a Wisdom saving throw or h
 You have a telepathic link with the Charmed target while the two of you are on the same plane of existence. On your turn, you can use this link to issue commands to the target (no action required), such as "Attack that creature," "Move over there," or "Fetch that object." The target does its best to obey on its turn. If it completes an order and doesn't receive further direction from you, it acts and moves as it likes, focusing on protecting itself.
 You can command the target to take a Reaction but must take your own Reaction to do so.
 
-Using a Higher-Level Spell Slot. Your #Concentration can last longer with a spell slot of level 6 (up to 10 minutes), 7 (up to 1 hour), or 8+ (up to 8 hours).
+Using a Higher-Level Spell Slot. Your Concentration can last longer with a spell slot of level 6 (up to 10 minutes), 7 (up to 1 hour), or 8+ (up to 8 hours).
