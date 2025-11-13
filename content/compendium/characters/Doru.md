@@ -1,9 +1,0 @@
-![[media/compendium/doru_sketch.jpg]]
-
-Doru, son of priest [[compendium/characters/Father Donovich]], was once a passionate, holy young man. When a wizard came to the [[compendium/locations/Village of Barovia]] from a far away land, Doru was entranced by the wizard’s bearing and power. Doru, like many of the villagers at the time, believed that this wizard had the power to finally defeat [[compendium/characters/Count Strahd von Zarovich]] and save them from their woes.
-
-The wizard led a mob of villagers, including Doru, to storm [[compendium/locations/Castle Ravenloft]] . Those that were not killed were turned into thralls of [[compendium/characters/Count Strahd von Zarovich\|Strahd]]. Such was the fate of Doru. He returned to his father as a [[compendium/study notes/Vampiric Entities\|Vampire]] spawn .
-
-[[compendium/characters/Father Donovich]], thinking quickly, managed to trap Doru within the undercroft of the church. [[compendium/characters/Father Donovich]] gave his son his own blood but it was never enough, his constant screams of hunger keeping his father company.
-
-Doru attempted to escape the church when the party explored the church. His escape was foiled, finally ending his cursed existence.

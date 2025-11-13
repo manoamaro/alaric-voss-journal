@@ -1,6 +1,0 @@
----
-{"publish":true,"aliases":"Escher","created":"2025-11-13T20:13:36.336+01:00","modified":"2025-11-13T20:13:36.336+01:00","cssclasses":""}
----
-
-
-![[media/compendium/escher_belasco_sketch.jpg]]
