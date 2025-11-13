@@ -1,0 +1,7 @@
+---
+{"publish":true,"created":"2025-11-13T20:13:36.395+01:00","modified":"2025-11-13T20:13:36.395+01:00","published":"2025-11-13T20:13:36.395+01:00","tags":["spell"],"cssclasses":"","Level":4,"School":"Divination","CastingTime":"Action or Ritual","Range":"Self","Components":["V","S","M"],"Material":"incense worth 25+ GP, which the spell consumes","Concentration":false,"Duration":"Instantaneous","Ritual":true,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric","Druid","Wizard"]}
+---
+
+
+This spell puts you in contact with a god or a god's servants. You ask one question about a specific goal, event, or activity to occur within 7 days. The DM offers a truthful reply, which might be a short phrase or cryptic rhyme. The spell doesn't account for circumstances that might change the answer, such as the casting of other spells.
+If you cast the spell more than once before finishing a Long Rest, there is a cumulative 25 percent chance for each casting after the first that you get no answer

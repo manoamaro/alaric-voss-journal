@@ -1,0 +1,8 @@
+---
+{"publish":true,"created":"2025-11-13T20:13:36.374+01:00","modified":"2025-11-13T20:13:36.374+01:00","published":"2025-11-13T20:13:36.374+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Transmutation","CastingTime":"Action","Range":"60 feet","Components":["V","S","M"],"Material":"a metal spring","Concentration":true,"Duration":"up to 10 minutes","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Sorcerer","Wizard"]}
+---
+
+
+One creature or loose object of your choice that you can see within range rises vertically up to 20 feet and remains suspended there for the duration. The spell can levitate an object that weighs up to 500 pounds. An unwilling creature that succeeds on a Constitution saving throw is unaffected.
+The target can move only by pushing or pulling against a fixed object or surface within reach (such as a wall or a ceiling), which allows it to move as if it were climbing. You can change the target's altitude by up to 20 feet in either direction on your turn. If you are the target, you can move up or down as part of your move. Otherwise, you can take a Magic action to move the target, which must remain within the spell's range.
+When the spell ends, the target floats gently to the ground if it is still aloft

@@ -1,0 +1,8 @@
+---
+{"publish":true,"created":"2025-11-13T20:13:36.357+01:00","modified":"2025-11-13T20:13:36.357+01:00","published":"2025-11-13T20:13:36.357+01:00","tags":["spell"],"cssclasses":"","Level":1,"School":"Abjuration","CastingTime":"1 minute or Ritual","Range":"30 feet","Components":["V","S","M"],"Material":"a bell and silver wire","Concentration":false,"Duration":"8 hours","Ritual":true,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":true,"Prepared":false,"Classes":["Ranger","Wizard"]}
+---
+
+
+You set an alarm against intrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot Cube. Until the spell ends, an alarm alerts you whenever a creature touches or enters the warded area. When you cast the spell, you can designate creatures that won't set off the alarm. You also choose whether the alarm is audible or mental:
+Audible Alarm. The alarm produces the sound of a handbell for 10 seconds within 60 feet of the warded area.
+Mental Alarm. You are alerted by a mental ping if you are within 1 mile of the warded area. This ping awakens you if you're asleep.

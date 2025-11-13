@@ -1,0 +1,8 @@
+---
+{"publish":true,"created":"2025-11-13T20:13:36.422+01:00","modified":"2025-11-13T20:13:36.422+01:00","published":"2025-11-13T20:13:36.422+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Illusion","CastingTime":"Action","Range":"Self","Components":["S"],"Concentration":true,"Duration":"up to 1 hour","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Warlock","Wizard"]}
+---
+
+
+You gain the Invisible condition at the same time that an illusory double of you appears where you are standing. The double lasts for the duration, but the invisibility ends immediately after you make an attack roll, deal damage, or cast a spell.
+As a Magic action, you can move the illusory double up to twice your Speed and make it gesture, speak, and behave in whatever way you choose. It is intangible and invulnerable.
+You can see through its eyes and hear through its ears as if you were located where it is.

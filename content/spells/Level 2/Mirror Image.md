@@ -1,0 +1,8 @@
+---
+{"publish":true,"created":"2025-11-13T20:13:36.375+01:00","modified":"2025-11-13T20:13:36.375+01:00","published":"2025-11-13T20:13:36.375+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Illusion","CastingTime":"Action","Range":"Self","Components":["V","S"],"Concentration":false,"Duration":"1 minute","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Sorcerer","Warlock","Wizard"]}
+---
+
+
+Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your actions, shifting position so it's impossible to track which image is real.
+Each time a creature hits you with an attack roll during the spell's duration, roll a d6 for each of your remaining duplicates. If any of the d6s rolls a 3 or higher, one of the duplicates is hit instead of you, and the duplicate is destroyed. The duplicates otherwise ignore all other damage and effects. The spell ends when all three duplicates are destroyed.
+A creature is unaffected by this spell if it has the Blinded condition, Blindsight, or Truesight.

@@ -1,0 +1,7 @@
+---
+{"publish":true,"created":"2025-11-13T20:13:36.394+01:00","modified":"2025-11-13T20:13:36.394+01:00","published":"2025-11-13T20:13:36.394+01:00","tags":["spell"],"cssclasses":"","Level":4,"School":"Abjuration","CastingTime":"Action","Range":"Touch","Components":["V","S"],"Concentration":false,"Duration":"8 hours","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric","Paladin"]}
+---
+
+
+You touch a creature and grant it a measure of protection from death. The first time the target would drop to 0 Hit Points before the spell ends, the target instead drops to 1 Hit Point, and the spell ends.
+If the spell is still in effect when the target is subjected to an effect that would kill it instantly without dealing damage, that effect is negated against the target, and the spell ends.

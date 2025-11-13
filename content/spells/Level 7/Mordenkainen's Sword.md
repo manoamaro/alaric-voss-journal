@@ -1,0 +1,8 @@
+---
+{"publish":true,"created":"2025-11-13T20:13:36.434+01:00","modified":"2025-11-13T20:13:36.434+01:00","published":"2025-11-13T20:13:36.434+01:00","tags":["spell"],"cssclasses":"","Level":7,"School":"Evocation","CastingTime":"Action","Range":"90 feet","Components":["V","S","M"],"Material":"a miniature sword worth 250+ GP","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Wizard"]}
+---
+
+
+You create a spectral sword that hovers within range. It lasts for the duration.
+When the sword appears, you make a melee spell attack against a target within 5 feet of the sword. On a hit, the target takes Force damage equal to 4d12 plus your spellcasting ability modifier.
+On your later turns, you can take a Bonus Action to move the sword up to 30 feet to a spot you can see and repeat the attack against the same target or a different one

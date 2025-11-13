@@ -1,0 +1,7 @@
+---
+{"publish":true,"created":"2025-11-13T20:13:36.379+01:00","modified":"2025-11-13T20:13:36.379+01:00","published":"2025-11-13T20:13:36.379+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Transmutation","CastingTime":"Action","Range":"150 feet","Components":["V","S","M"],"Material":"seven thorns","Concentration":true,"Duration":"up to 10 minutes","Ritual":false,"Damage":"2d4","Damage Type":"Piercing","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Druid","Ranger"]}
+---
+
+
+The ground in a 20-foot-radius Sphere centered on a point within range sprouts hard spikes and thorns. The area becomes Difficult Terrain for the duration. When a creature moves into or within the area, it takes 2d4 Piercing damage for every 5 feet it travels.
+The transformation of the ground is camouflaged to look natural. Any creature that can't see the area when the spell is cast must take a Search action and succeed on a Wisdom (Perception or Survival) check against your spell save DC to recognize the terrain as hazardous before entering it

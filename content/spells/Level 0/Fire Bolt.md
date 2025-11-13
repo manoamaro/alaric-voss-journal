@@ -1,0 +1,7 @@
+---
+{"publish":true,"created":"2025-11-13T20:13:36.354+01:00","modified":"2025-11-13T20:13:36.354+01:00","published":"2025-11-13T20:13:36.354+01:00","tags":["spell"],"cssclasses":"","Level":0,"School":"Evocation","CastingTime":"Action","Range":"120 feet","Components":["V","S"],"Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"1d10","Damage Type":"Fire","Upgrade":"Cantrip Upgrade. The damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), and 17 (4d10)","Spell Book":true,"Prepared":true,"Classes":["Sorcerer","Wizard"]}
+---
+
+
+You hurl a mote of fire at a creature or an object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 Fire damage. A flammable object hit by this spell starts burning if it isn't being worn or carried.
+**Cantrip Upgrade.** The damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), and 17 (4d10)

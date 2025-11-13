@@ -1,0 +1,6 @@
+---
+{"publish":true,"created":"2025-11-13T20:13:36.374+01:00","modified":"2025-11-13T20:13:36.374+01:00","published":"2025-11-13T20:13:36.374+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Divination","CastingTime":"Action or Ritual","Range":"Self","Components":["V","S","M"],"Material":"fur from a bloodhound","Concentration":false,"Duration":"Instantaneous","Ritual":true,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Druid","Ranger"]}
+---
+
+
+Describe or name a specific kind of Beast, Plant creature, or nonmagical plant. You learn the direction and distance to the closest creature or plant of that kind within 5 miles, if any are present

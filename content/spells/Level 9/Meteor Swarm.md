@@ -1,0 +1,7 @@
+---
+{"publish":true,"created":"2025-11-13T20:13:36.447+01:00","modified":"2025-11-13T20:13:36.447+01:00","published":"2025-11-13T20:13:36.447+01:00","tags":["spell"],"cssclasses":"","Level":9,"School":"Evocation","CastingTime":"Action","Range":"1 mile","Components":["V","S"],"Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"20d6","Damage Type":"Fire","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Sorcerer","Wizard"]}
+---
+
+
+Blazing orbs of fire plummet to the ground at four different points you can see within range. Each creature in a 40-foot-radius Sphere centered on each of those points makes a Dexterity saving throw. A creature takes 20d6 Fire damage and 20d6 Bludgeoning damage on a failed save or half as much damage on a successful one. A creature in the area of more than one fiery Sphere is affected only once.
+A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area, and the object starts burning if it's flammable.

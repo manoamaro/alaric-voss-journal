@@ -1,0 +1,8 @@
+---
+{"publish":true,"created":"2025-11-13T20:13:36.361+01:00","modified":"2025-11-13T20:13:36.361+01:00","published":"2025-11-13T20:13:36.361+01:00","tags":["spell"],"cssclasses":"","Level":1,"School":"Conjuration","CastingTime":"#BonusAction, which you take immediately after hitting a creature with a Ranged weapon","Range":"Self","Components":["V"],"Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"1d10","Damage Type":"Piercing","Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 1d10 for each spell slot level above 1.","Spell Book":false,"Prepared":false,"Classes":["Ranger"]}
+---
+
+
+As you hit the creature, this spell creates a rain of thorns that sprouts from your Ranged weapon or ammunition. The target of the attack and each creature within 5 feet of it make a Dexterity saving throw, taking 1d10 Piercing damage on a failed save or half as much damage on a successful one.
+
+Using a Higher-Level Spell Slot. The damage increases by 1d10 for each spell slot level above 1.

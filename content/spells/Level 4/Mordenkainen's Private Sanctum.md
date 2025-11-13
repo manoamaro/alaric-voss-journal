@@ -1,0 +1,15 @@
+---
+{"publish":true,"created":"2025-11-13T20:13:36.409+01:00","modified":"2025-11-13T20:13:36.410+01:00","published":"2025-11-13T20:13:36.410+01:00","tags":["spell"],"cssclasses":"","Level":4,"School":"Abjuration","CastingTime":"10 minutes","Range":"120 feet","Components":["V","S","M"],"Material":"a thin sheet of lead","Concentration":false,"Duration":"24 hours","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. You can increase the size of the Cube by 100 feet for each spell slot level above 4","Spell Book":false,"Prepared":false,"Classes":["Wizard"]}
+---
+
+
+You make an area within range magically secure. The area is a Cube that can be as small as 5 feet to as large as 100 feet on each side. The spell lasts for the duration.
+When you cast the spell, you decide what sort of security the spell provides, choosing any of the following properties:
+• Sound can't pass through the barrier at the edge of the warded area.
+• The barrier of the warded area appears dark and foggy, preventing vision (including Dark vision) through it.
+• Sensors created by Divination spells can't appear inside the protected area or pass through the barrier at its perimeter.
+• Creatures in the area can't be targeted by Divination spells.
+• Nothing can teleport into or out of the warded area.
+• Planar travel is blocked within the warded area. Casting this spell on the same spot every day for 365 days makes the spell last until dispelled.
+
+Using a Higher-Level Spell Slot. You can increase the size of the Cube by 100 feet for each spell slot level above 4

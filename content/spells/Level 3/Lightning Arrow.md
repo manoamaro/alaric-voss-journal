@@ -1,0 +1,9 @@
+---
+{"publish":true,"created":"2025-11-13T20:13:36.387+01:00","modified":"2025-11-13T20:13:36.387+01:00","published":"2025-11-13T20:13:36.387+01:00","tags":["spell"],"cssclasses":"","Level":3,"School":"Transmutation","CastingTime":"#BonusAction, which you can take immediately after hitting or missing a target with a ranged attack using a weapon","Range":"Self","Components":["V","S"],"Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"4d8","Damage Type":"Lightning","Upgrade":"Using a Higher-Level Spell Slot. The damage for both effects of the spell increases by 1d8 for each spell slot level above 3","Spell Book":false,"Prepared":false,"Classes":["Ranger"]}
+---
+
+
+As your attack hits or misses the target, the weapon or ammunition you're using transforms into a lightning bolt. Instead of taking any damage or other effects from the attack, the target takes 4d8 Lightning damage on a hit or half as much damage on a miss. Each creature within 10 feet of the target then makes a Dexterity saving throw, taking 2d8 Lightning damage on a failed save or half as much damage on a successful one.
+The weapon or ammunition then returns to its normal form.
+
+Using a Higher-Level Spell Slot. The damage for both effects of the spell increases by 1d8 for each spell slot level above 3

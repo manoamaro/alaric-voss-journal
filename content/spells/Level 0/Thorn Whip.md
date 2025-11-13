@@ -1,0 +1,8 @@
+---
+{"publish":true,"created":"2025-11-13T20:13:36.357+01:00","modified":"2025-11-13T20:13:36.357+01:00","published":"2025-11-13T20:13:36.357+01:00","tags":["spell"],"cssclasses":"","Level":0,"School":"Transmutation","CastingTime":"Action","Range":"30 feet","Components":["V","S","M"],"Material":"the stem of a thorny plant","Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"1d6","Damage Type":"Piercing","Upgrade":"Cantrip Upgrade. The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6)","Spell Book":false,"Prepared":false,"Classes":["Druid"]}
+---
+
+
+You create a vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. On a hit, the target takes 1d6 Piercing damage, and if it is Large or smaller, you can pull it up to 10 feet closer to you.
+
+Cantrip Upgrade. The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6)
