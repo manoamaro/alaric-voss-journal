@@ -22,7 +22,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ConditionalRender({
       component: Component.FrontmatterTable({
         whitelist: [],
-        blacklist: ["title", "tags", "modified", "Prepared", "Spell Book"],
+        blacklist: ["title", "tags", "modified", "Prepared", "Spell Book", "publish", "created", "published", "cssclasses"],
       }),
       condition: (page) => page.fileData.frontmatter?.tags?.includes("spell") === true,
     }),
