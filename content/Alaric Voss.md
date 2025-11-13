@@ -1,3 +1,7 @@
+---
+{"publish":true,"aliases":["Alaric"],"created":"2025-11-13T20:13:36.334+01:00","modified":"2025-11-13T22:41:37.947+01:00","published":"2025-11-13T22:41:37.947+01:00","cssclasses":""}
+---
+
 ![[media/alaric_voss_portrait_1.jpg|400]]
 
 # Backstory

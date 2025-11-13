@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-25","modified":"2025-11-13T20:13:36.353+01:00","published":"2025-10-25","tags":["session"],"cssclasses":"","date":"2025-10-25"}
+{"publish":true,"created":"2025-10-25","modified":"2025-11-13T22:45:50.284+01:00","published":"2025-10-25","tags":["session"],"cssclasses":"","date":"2025-10-25"}
 ---
 
 
@@ -21,9 +21,9 @@ He wakes once more, trembling. He resumes his daily work, but the man’s face a
 
 The next day, a man visits his shop seeking a lost possession. Alaric charges 5 gold pieces. The man claims he will pay later at the tavern and invites Alaric for drinks. The item is described as a small round token engraved with a raven.
 
-Using [[spells/Level 2/Detect Thoughts\|Detect Thoughts]], Alaric visualises it—a coin-like object of copper—and with Locate Object, he discovers it lies among the man’s own belongings at the tavern. The man laughs it off as forgetfulness and repeats his invitation.
+Using [[spells/Level 2/Detect Thoughts\|Detect Thoughts]], Alaric visualises it—a coin-like object of copper—and with [[spells/Level 2/Locate Object\|Locate Object]], he discovers it lies among the man’s own belongings at the tavern. The man laughs it off as forgetfulness and repeats his invitation.
 
-That evening, Alaric meets him again. The stranger introduces himself as Anton and asks, “Do you enjoy meddling in other people’s affairs?”. Alaric answers no. The man smiles faintly. “Good. I’m seeking someone to help a friend—a man beloved by his village, now imprisoned for dark magic. You might be perfect for it.” Guided by beliefs and principles, rearing the words “dark magic” makes Alaric reluctant, enough to be perceived by Anton. But some strange curiosity glances in his mind.
+That evening, Alaric meets him again. The stranger introduces himself as [[compendium/characters/Anton]] and asks, “Do you enjoy meddling in other people’s affairs?”. Alaric answers no. The man smiles faintly. “Good. I’m seeking someone to help a friend—a man beloved by his village, now imprisoned for dark magic. You might be perfect for it.” Guided by beliefs and principles, rearing the words “dark magic” makes Alaric reluctant, enough to be perceived by [[compendium/characters/Anton]]. But some strange curiosity glances in his mind.
 
 When Alaric presses for details, the man stands. “Better not to know. You said you don’t pry into others’ business.” He leaves.
 
@@ -35,6 +35,6 @@ He awakens at a crossroads. An empty gallows by the road, visible through the mo
 
 ![[media/session0/crossroad_gallows.jpg]]
 
-He recalls the name from his vision—the [[Vallaki]] with the tent. Feeling lost, he follows that road.
+He recalls the name from his vision—the [[compendium/locations/Village Vallaki]] with the tent. Feeling lost, he follows that road.
 
 Along the way, he meets another traveler named [[compendium/characters/Stanimir]], a big guy with a goatee, who recognizes his confusion and leads him to a camp. There, inside a large tent, he meets a woman named [[compendium/characters/Madame Eva]], who explains that others too have been drawn here by the mists. “You arrived earlier than expected,” she says. “Rest for now. In the morning, go to the [[compendium/locations/Village of Barovia]], maybe you will find your answers there.”

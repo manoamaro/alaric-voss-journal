@@ -7,3 +7,4 @@ The wizard led a mob of villagers, including Doru, to storm [[compendium/locatio
 [[compendium/characters/Father Donovich]], thinking quickly, managed to trap Doru within the undercroft of the church. [[compendium/characters/Father Donovich]] gave his son his own blood but it was never enough, his constant screams of hunger keeping his father company.
 
 Doru attempted to escape the church when the party explored the church. His escape was foiled, finally ending his cursed existence.
+#character 
