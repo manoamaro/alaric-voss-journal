@@ -1,4 +1,0 @@
-[submodule "content"]
-	path = content
-	url = git@github.com:manoamaro/alaric-voss.git
-	branch = main
