@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.429+01:00","modified":"2025-11-13T20:13:36.429+01:00","published":"2025-11-13T20:13:36.429+01:00","tags":["spell"],"cssclasses":"","Level":6,"School":"Transmutation","CastingTime":"Action","Range":"120 feet","Components":["V","S","M"],"Material":"an miniature showel","Concentration":true,"Duration":"up to 2 hours","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Druid","Sorcerer","Wizard"]}
+{"publish":true,"created":"2025-11-14T10:10:23.186+01:00","modified":"2025-11-14T10:10:23.186+01:00","published":"2025-11-14T10:10:23.186+01:00","tags":["spell"],"cssclasses":"","Level":6,"School":"Transmutation","CastingTime":"Action","Range":"120 feet","Components":["V","S","M"],"Material":"an miniature showel","Concentration":true,"Duration":"up to 2 hours","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Druid","Sorcerer","Wizard"]}
 ---
 
 

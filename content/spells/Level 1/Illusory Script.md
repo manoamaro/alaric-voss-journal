@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.362+01:00","modified":"2025-11-13T20:13:36.362+01:00","published":"2025-11-13T20:13:36.362+01:00","tags":["spell"],"cssclasses":"","Level":1,"School":"Illusion","CastingTime":"1 minute or Ritual","Range":"Touch","Components":["S","M"],"Material":"ink worth 10+ GP, which the spell consumes","Concentration":false,"Duration":"10 days","Ritual":true,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Warlock","Wizard"]}
+{"publish":true,"created":"2025-11-14T10:10:23.172+01:00","modified":"2025-11-14T10:10:23.172+01:00","published":"2025-11-14T10:10:23.172+01:00","tags":["spell"],"cssclasses":"","Level":1,"School":"Illusion","CastingTime":"1 minute or Ritual","Range":"Touch","Components":["S","M"],"Material":"ink worth 10+ GP, which the spell consumes","Concentration":false,"Duration":"10 days","Ritual":true,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Warlock","Wizard"]}
 ---
 
 

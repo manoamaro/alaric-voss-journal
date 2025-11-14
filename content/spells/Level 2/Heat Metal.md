@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.373+01:00","modified":"2025-11-13T20:13:36.373+01:00","published":"2025-11-13T20:13:36.373+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Transmutation","CastingTime":"Action","Range":"60 feet","Components":["V","S","M"],"Material":"a piece of iron and a flame","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":"2d8","Damage Type":"Fire","Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 1d8 for each spell slot level above 2.","Spell Book":false,"Prepared":false,"Classes":["Bard","Druid"]}
+{"publish":true,"created":"2025-11-14T10:10:23.175+01:00","modified":"2025-11-14T10:10:23.175+01:00","published":"2025-11-14T10:10:23.175+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Transmutation","CastingTime":"Action","Range":"60 feet","Components":["V","S","M"],"Material":"a piece of iron and a flame","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":"2d8","Damage Type":"Fire","Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 1d8 for each spell slot level above 2.","Spell Book":false,"Prepared":false,"Classes":["Bard","Druid"]}
 ---
 
 

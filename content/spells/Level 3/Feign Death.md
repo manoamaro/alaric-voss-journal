@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.385+01:00","modified":"2025-11-13T20:13:36.385+01:00","published":"2025-11-13T20:13:36.385+01:00","tags":["spell"],"cssclasses":"","Level":3,"School":"Necromancy","CastingTime":"Action or Ritual","Range":"Touch","Components":["V","S","M"],"Material":"a pinch of graveyard dirt","Concentration":false,"Duration":"1 hour","Ritual":true,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Cleric","Druid","Wizard"]}
+{"publish":true,"created":"2025-11-14T10:10:23.178+01:00","modified":"2025-11-14T10:10:23.178+01:00","published":"2025-11-14T10:10:23.178+01:00","tags":["spell"],"cssclasses":"","Level":3,"School":"Necromancy","CastingTime":"Action or Ritual","Range":"Touch","Components":["V","S","M"],"Material":"a pinch of graveyard dirt","Concentration":false,"Duration":"1 hour","Ritual":true,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Cleric","Druid","Wizard"]}
 ---
 
 

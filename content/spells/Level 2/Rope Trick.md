@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.377+01:00","modified":"2025-11-13T20:13:36.377+01:00","published":"2025-11-13T20:13:36.377+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Transmutation","CastingTime":"Action","Range":"Touch","Components":["V","S","M"],"Material":"a segment of rope","Concentration":false,"Duration":"1 hour","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Wizard"]}
+{"publish":true,"created":"2025-11-14T10:10:23.176+01:00","modified":"2025-11-14T10:10:23.176+01:00","published":"2025-11-14T10:10:23.176+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Transmutation","CastingTime":"Action","Range":"Touch","Components":["V","S","M"],"Material":"a segment of rope","Concentration":false,"Duration":"1 hour","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Wizard"]}
 ---
 
 

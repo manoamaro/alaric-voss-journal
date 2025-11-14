@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.355+01:00","modified":"2025-11-13T20:13:36.355+01:00","published":"2025-11-13T20:13:36.355+01:00","tags":["spell"],"cssclasses":"","Level":0,"School":"Evocation","CastingTime":"Action","Range":"Touch","Components":["V","M"],"Material":"a firefly or phosphorescent moss","Concentration":false,"Duration":"1 hour","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Cleric","Sorcerer","Wizard"]}
+{"publish":true,"created":"2025-11-14T10:10:23.167+01:00","modified":"2025-11-14T10:10:23.167+01:00","published":"2025-11-14T10:10:23.167+01:00","tags":["spell"],"cssclasses":"","Level":0,"School":"Evocation","CastingTime":"Action","Range":"Touch","Components":["V","M"],"Material":"a firefly or phosphorescent moss","Concentration":false,"Duration":"1 hour","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Cleric","Sorcerer","Wizard"]}
 ---
 
 

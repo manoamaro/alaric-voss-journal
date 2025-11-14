@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Escher"],"created":"2025-11-13T20:13:36.336+01:00","modified":"2025-11-13T23:06:51.045+01:00","published":"2025-11-13T23:06:51.045+01:00","cssclasses":""}
+{"publish":true,"aliases":["Escher"],"created":"2025-11-14T10:10:23.032+01:00","modified":"2025-11-14T10:10:23.033+01:00","published":"2025-11-14T10:10:23.033+01:00","cssclasses":""}
 ---
 
 #character 

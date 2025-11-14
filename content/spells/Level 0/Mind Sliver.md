@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.355+01:00","modified":"2025-11-13T20:13:36.355+01:00","published":"2025-11-13T20:13:36.355+01:00","tags":["spell"],"cssclasses":"","Level":0,"School":"Enchantment","CastingTime":"Action","Range":"60 feet","Components":["V"],"Concentration":false,"Duration":"1 round","Ritual":false,"Damage":"1d6","Damage Type":"Psychic","Upgrade":"Cantrip Upgrade. The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6)","Spell Book":false,"Prepared":false,"Classes":["Sorcerer","Warlock","Wizard"]}
+{"publish":true,"created":"2025-11-14T10:10:23.168+01:00","modified":"2025-11-14T10:10:23.168+01:00","published":"2025-11-14T10:10:23.168+01:00","tags":["spell"],"cssclasses":"","Level":0,"School":"Enchantment","CastingTime":"Action","Range":"60 feet","Components":["V"],"Concentration":false,"Duration":"1 round","Ritual":false,"Damage":"1d6","Damage Type":"Psychic","Upgrade":"Cantrip Upgrade. The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6)","Spell Book":false,"Prepared":false,"Classes":["Sorcerer","Warlock","Wizard"]}
 ---
 
 

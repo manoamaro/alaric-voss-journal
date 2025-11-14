@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.407+01:00","modified":"2025-11-13T20:13:36.407+01:00","published":"2025-11-13T20:13:36.407+01:00","tags":["spell"],"cssclasses":"","Level":4,"School":"Conjuration","CastingTime":"#BonusAction","Range":"60 feet","Components":["V","S"],"Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":"4d8","Damage Type":"Bludgeoning","Upgrade":"Using a Higher-Level Spell Slot. The number of creatures the vine can grapple increases by one for each spell slot level above 4.","Spell Book":false,"Prepared":false,"Classes":["Druid","Ranger"]}
+{"publish":true,"created":"2025-11-14T10:10:23.181+01:00","modified":"2025-11-14T10:10:23.181+01:00","published":"2025-11-14T10:10:23.181+01:00","tags":["spell"],"cssclasses":"","Level":4,"School":"Conjuration","CastingTime":"#BonusAction","Range":"60 feet","Components":["V","S"],"Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":"4d8","Damage Type":"Bludgeoning","Upgrade":"Using a Higher-Level Spell Slot. The number of creatures the vine can grapple increases by one for each spell slot level above 4.","Spell Book":false,"Prepared":false,"Classes":["Druid","Ranger"]}
 ---
 
 

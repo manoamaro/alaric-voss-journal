@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.408+01:00","modified":"2025-11-13T20:13:36.408+01:00","published":"2025-11-13T20:13:36.408+01:00","tags":["spell"],"cssclasses":"","Level":4,"School":"Illusion","CastingTime":"10 minutes","Range":"300 feet","Components":["V","S","M"],"Material":"a mushroom","Concentration":false,"Duration":"24 hours","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Druid","Warlock","Wizard"]}
+{"publish":true,"created":"2025-11-14T10:10:23.181+01:00","modified":"2025-11-14T10:10:23.181+01:00","published":"2025-11-14T10:10:23.181+01:00","tags":["spell"],"cssclasses":"","Level":4,"School":"Illusion","CastingTime":"10 minutes","Range":"300 feet","Components":["V","S","M"],"Material":"a mushroom","Concentration":false,"Duration":"24 hours","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Druid","Warlock","Wizard"]}
 ---
 
 

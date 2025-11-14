@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.379+01:00","modified":"2025-11-13T20:13:36.379+01:00","published":"2025-11-13T20:13:36.379+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Transmutation","CastingTime":"Action","Range":"150 feet","Components":["V","S","M"],"Material":"seven thorns","Concentration":true,"Duration":"up to 10 minutes","Ritual":false,"Damage":"2d4","Damage Type":"Piercing","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Druid","Ranger"]}
+{"publish":true,"created":"2025-11-14T10:10:23.176+01:00","modified":"2025-11-14T10:10:23.176+01:00","published":"2025-11-14T10:10:23.176+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Transmutation","CastingTime":"Action","Range":"150 feet","Components":["V","S","M"],"Material":"seven thorns","Concentration":true,"Duration":"up to 10 minutes","Ritual":false,"Damage":"2d4","Damage Type":"Piercing","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Druid","Ranger"]}
 ---
 
 

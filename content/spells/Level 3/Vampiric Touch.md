@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.391+01:00","modified":"2025-11-13T20:13:36.391+01:00","published":"2025-11-13T20:13:36.391+01:00","tags":["spell"],"cssclasses":"","Level":3,"School":"Necromancy","CastingTime":"Action","Range":"Self","Components":["V","S"],"Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":"3d6","Damage Type":"Necrotic","Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 1d6 for each spell slot level above 3.","Spell Book":false,"Prepared":false,"Classes":["Sorcerer","Warlock","Wizard"]}
+{"publish":true,"created":"2025-11-14T10:10:23.179+01:00","modified":"2025-11-14T10:10:23.179+01:00","published":"2025-11-14T10:10:23.179+01:00","tags":["spell"],"cssclasses":"","Level":3,"School":"Necromancy","CastingTime":"Action","Range":"Self","Components":["V","S"],"Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":"3d6","Damage Type":"Necrotic","Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 1d6 for each spell slot level above 3.","Spell Book":false,"Prepared":false,"Classes":["Sorcerer","Warlock","Wizard"]}
 ---
 
 

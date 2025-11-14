@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.416+01:00","modified":"2025-11-13T20:13:36.417+01:00","published":"2025-11-13T20:13:36.417+01:00","tags":["spell"],"cssclasses":"","Level":4,"School":"Evocation","CastingTime":"Action","Range":"120 feet","Components":["V","S","M"],"Material":"a piece of charcoal","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":"5d8","Damage Type":"Fire","Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 1d8 for each spell slot level above 4.","Spell Book":false,"Prepared":false,"Classes":["Druid","Sorcerer","Wizard"]}
+{"publish":true,"created":"2025-11-14T10:10:23.182+01:00","modified":"2025-11-14T10:10:23.182+01:00","published":"2025-11-14T10:10:23.182+01:00","tags":["spell"],"cssclasses":"","Level":4,"School":"Evocation","CastingTime":"Action","Range":"120 feet","Components":["V","S","M"],"Material":"a piece of charcoal","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":"5d8","Damage Type":"Fire","Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 1d8 for each spell slot level above 4.","Spell Book":false,"Prepared":false,"Classes":["Druid","Sorcerer","Wizard"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.416+01:00","modified":"2025-11-13T20:13:36.416+01:00","published":"2025-11-13T20:13:36.416+01:00","tags":["spell"],"cssclasses":"","Level":4,"School":"Evocation","CastingTime":"Action","Range":"150 feet","Components":["V","S","M"],"Material":"a drop of bile","Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"10d4","Damage Type":"Acid","Upgrade":"Using a Higher-Level Spell Slot. The initial damage increases by 2d4 for each spell slot level above 4","Spell Book":false,"Prepared":false,"Classes":["Sorcerer","Wizard"]}
+{"publish":true,"created":"2025-11-14T10:10:23.182+01:00","modified":"2025-11-14T10:10:23.182+01:00","published":"2025-11-14T10:10:23.182+01:00","tags":["spell"],"cssclasses":"","Level":4,"School":"Evocation","CastingTime":"Action","Range":"150 feet","Components":["V","S","M"],"Material":"a drop of bile","Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"10d4","Damage Type":"Acid","Upgrade":"Using a Higher-Level Spell Slot. The initial damage increases by 2d4 for each spell slot level above 4","Spell Book":false,"Prepared":false,"Classes":["Sorcerer","Wizard"]}
 ---
 
 

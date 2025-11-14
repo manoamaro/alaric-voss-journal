@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.406+01:00","modified":"2025-11-13T20:13:36.406+01:00","published":"2025-11-13T20:13:36.406+01:00","tags":["spell"],"cssclasses":"","Level":4,"School":"Evocation","CastingTime":"Action","Range":"Self","Components":["V","S","M"],"Material":"a bit of phosphorus or a firefly","Concentration":false,"Duration":"10 minutes","Ritual":false,"Damage":"2d8","Damage Type":"Fire","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Druid","Sorcerer","Wizard"]}
+{"publish":true,"created":"2025-11-14T10:10:23.181+01:00","modified":"2025-11-14T10:10:23.181+01:00","published":"2025-11-14T10:10:23.181+01:00","tags":["spell"],"cssclasses":"","Level":4,"School":"Evocation","CastingTime":"Action","Range":"Self","Components":["V","S","M"],"Material":"a bit of phosphorus or a firefly","Concentration":false,"Duration":"10 minutes","Ritual":false,"Damage":"2d8","Damage Type":"Fire","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Druid","Sorcerer","Wizard"]}
 ---
 
 

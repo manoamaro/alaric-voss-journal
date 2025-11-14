@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.419+01:00","modified":"2025-11-13T20:13:36.419+01:00","published":"2025-11-13T20:13:36.419+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Conjuration","CastingTime":"Action","Range":"150 feet","Components":["V","S","M"],"Material":"a Melee or Ranged weapon worth at least 1 CP","Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"8d8","Damage Type":"Force","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Ranger"]}
+{"publish":true,"created":"2025-11-14T10:10:23.182+01:00","modified":"2025-11-14T10:10:23.183+01:00","published":"2025-11-14T10:10:23.183+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Conjuration","CastingTime":"Action","Range":"150 feet","Components":["V","S","M"],"Material":"a Melee or Ranged weapon worth at least 1 CP","Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"8d8","Damage Type":"Force","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Ranger"]}
 ---
 
 

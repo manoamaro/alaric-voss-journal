@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.420+01:00","modified":"2025-11-13T20:13:36.420+01:00","published":"2025-11-13T20:13:36.420+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Illusion","CastingTime":"1 minute","Range":"Special","Components":["V","S","M"],"Material":"a handful of sand","Concentration":false,"Duration":"8 hours","Ritual":false,"Damage":"3d6","Damage Type":"Psychic","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Warlock","Wizard"]}
+{"publish":true,"created":"2025-11-14T10:10:23.183+01:00","modified":"2025-11-14T10:10:23.183+01:00","published":"2025-11-14T10:10:23.183+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Illusion","CastingTime":"1 minute","Range":"Special","Components":["V","S","M"],"Material":"a handful of sand","Concentration":false,"Duration":"8 hours","Ritual":false,"Damage":"3d6","Damage Type":"Psychic","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Warlock","Wizard"]}
 ---
 
 

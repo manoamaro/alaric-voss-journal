@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.418+01:00","modified":"2025-11-13T20:13:36.418+01:00","published":"2025-11-13T20:13:36.418+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Conjuration","CastingTime":"Action","Range":"120 feet","Components":["V","S"],"Concentration":true,"Duration":"up to 10 minutes","Ritual":false,"Damage":"5d8","Damage Type":"Poison","Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 1d8 for each spell slot level above 5","Spell Book":false,"Prepared":false,"Classes":["Sorcerer","Wizard"]}
+{"publish":true,"created":"2025-11-14T10:10:23.182+01:00","modified":"2025-11-14T10:10:23.182+01:00","published":"2025-11-14T10:10:23.182+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Conjuration","CastingTime":"Action","Range":"120 feet","Components":["V","S"],"Concentration":true,"Duration":"up to 10 minutes","Ritual":false,"Damage":"5d8","Damage Type":"Poison","Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 1d8 for each spell slot level above 5","Spell Book":false,"Prepared":false,"Classes":["Sorcerer","Wizard"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.376+01:00","modified":"2025-11-13T20:13:36.376+01:00","published":"2025-11-13T20:13:36.376+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Abjuration","CastingTime":"Action","Range":"Self","Components":["V","S","M"],"Material":"ashes from a burned mistletoe","Concentration":true,"Duration":"up to 1 hour","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Druid","Ranger"]}
+{"publish":true,"created":"2025-11-14T10:10:23.176+01:00","modified":"2025-11-14T10:10:23.176+01:00","published":"2025-11-14T10:10:23.176+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Abjuration","CastingTime":"Action","Range":"Self","Components":["V","S","M"],"Material":"ashes from a burned mistletoe","Concentration":true,"Duration":"up to 1 hour","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Druid","Ranger"]}
 ---
 
 

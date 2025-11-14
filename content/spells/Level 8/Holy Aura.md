@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.444+01:00","modified":"2025-11-13T20:13:36.444+01:00","published":"2025-11-13T20:13:36.444+01:00","tags":["spell"],"cssclasses":"","Level":8,"School":"Abjuration","CastingTime":"Action","Range":"Self","Components":["V","S","M"],"Material":"a reliquary worth 1,000+ GP","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric"]}
+{"publish":true,"created":"2025-11-14T10:10:23.188+01:00","modified":"2025-11-14T10:10:23.188+01:00","published":"2025-11-14T10:10:23.188+01:00","tags":["spell"],"cssclasses":"","Level":8,"School":"Abjuration","CastingTime":"Action","Range":"Self","Components":["V","S","M"],"Material":"a reliquary worth 1,000+ GP","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.422+01:00","modified":"2025-11-13T20:13:36.422+01:00","published":"2025-11-13T20:13:36.422+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Divination","CastingTime":"10 minutes","Range":"Self","Components":["V","S","M"],"Material":"incense worth 250+ GP, which the spell consumes, and four ivory strips worth 50+ GP each","Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Cleric","Wizard"]}
+{"publish":true,"created":"2025-11-14T10:10:23.183+01:00","modified":"2025-11-14T10:10:23.183+01:00","published":"2025-11-14T10:10:23.183+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Divination","CastingTime":"10 minutes","Range":"Self","Components":["V","S","M"],"Material":"incense worth 250+ GP, which the spell consumes, and four ivory strips worth 50+ GP each","Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Cleric","Wizard"]}
 ---
 
 

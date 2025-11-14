@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.440+01:00","modified":"2025-11-13T20:13:36.440+01:00","published":"2025-11-13T20:13:36.440+01:00","tags":["spell"],"cssclasses":"","Level":7,"School":"Transmutation","CastingTime":"1 minute","Range":"Touch","Components":["V","S","M"],"Material":"a prayer wheel","Concentration":false,"Duration":"1 hour","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Cleric","Druid"]}
+{"publish":true,"created":"2025-11-14T10:10:23.187+01:00","modified":"2025-11-14T10:10:23.187+01:00","published":"2025-11-14T10:10:23.187+01:00","tags":["spell"],"cssclasses":"","Level":7,"School":"Transmutation","CastingTime":"1 minute","Range":"Touch","Components":["V","S","M"],"Material":"a prayer wheel","Concentration":false,"Duration":"1 hour","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Cleric","Druid"]}
 ---
 
 

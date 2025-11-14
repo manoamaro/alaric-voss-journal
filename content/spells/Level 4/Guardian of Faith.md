@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.407+01:00","modified":"2025-11-13T20:13:36.408+01:00","published":"2025-11-13T20:13:36.408+01:00","tags":["spell"],"cssclasses":"","Level":4,"School":"Conjuration","CastingTime":"Action","Range":"30 feet","Components":["V"],"Concentration":false,"Duration":"8 hours","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric"]}
+{"publish":true,"created":"2025-11-14T10:10:23.181+01:00","modified":"2025-11-14T10:10:23.181+01:00","published":"2025-11-14T10:10:23.181+01:00","tags":["spell"],"cssclasses":"","Level":4,"School":"Conjuration","CastingTime":"Action","Range":"30 feet","Components":["V"],"Concentration":false,"Duration":"8 hours","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric"]}
 ---
 
 

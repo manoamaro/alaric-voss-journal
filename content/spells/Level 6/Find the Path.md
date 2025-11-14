@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.428+01:00","modified":"2025-11-13T20:13:36.428+01:00","published":"2025-11-13T20:13:36.428+01:00","tags":["spell"],"cssclasses":"","Level":6,"School":"Divination","CastingTime":"1 minute","Range":"Self","Components":["V","S","M"],"Material":"a set of divination tools-such as cards or runes-worth 100+ GP","Concentration":true,"Duration":"up to 1 day","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Cleric","Druid"]}
+{"publish":true,"created":"2025-11-14T10:10:23.185+01:00","modified":"2025-11-14T10:10:23.185+01:00","published":"2025-11-14T10:10:23.185+01:00","tags":["spell"],"cssclasses":"","Level":6,"School":"Divination","CastingTime":"1 minute","Range":"Self","Components":["V","S","M"],"Material":"a set of divination tools-such as cards or runes-worth 100+ GP","Concentration":true,"Duration":"up to 1 day","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Cleric","Druid"]}
 ---
 
 

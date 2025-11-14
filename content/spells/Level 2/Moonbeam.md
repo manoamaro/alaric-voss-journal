@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.375+01:00","modified":"2025-11-13T20:13:36.375+01:00","published":"2025-11-13T20:13:36.375+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Evocation","CastingTime":"Action","Range":"120 feet","Components":["V","S","M"],"Material":"a moonseed leaf","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":"2d10","Damage Type":"Radiant","Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 1d10 for each spell slot level above 2.","Spell Book":false,"Prepared":false,"Classes":["Druid"]}
+{"publish":true,"created":"2025-11-14T10:10:23.176+01:00","modified":"2025-11-14T10:10:23.176+01:00","published":"2025-11-14T10:10:23.176+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Evocation","CastingTime":"Action","Range":"120 feet","Components":["V","S","M"],"Material":"a moonseed leaf","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":"2d10","Damage Type":"Radiant","Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 1d10 for each spell slot level above 2.","Spell Book":false,"Prepared":false,"Classes":["Druid"]}
 ---
 
 

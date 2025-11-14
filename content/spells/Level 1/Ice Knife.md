@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.362+01:00","modified":"2025-11-13T20:13:36.362+01:00","published":"2025-11-13T20:13:36.362+01:00","tags":["spell"],"cssclasses":"","Level":1,"School":"Conjuration","CastingTime":"Action","Range":"60 feet","Components":["S","M"],"Material":"a drop of water or a piece of ice","Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"1d10","Damage Type":"Piercing","Upgrade":"Using a Higher-Level Spell Slot. The Cold damage increases by 1d6 for each spell slot level above 1","Spell Book":false,"Prepared":false,"Classes":["Druid","Sorcerer","Wizard"]}
+{"publish":true,"created":"2025-11-14T10:10:23.171+01:00","modified":"2025-11-14T10:10:23.171+01:00","published":"2025-11-14T10:10:23.171+01:00","tags":["spell"],"cssclasses":"","Level":1,"School":"Conjuration","CastingTime":"Action","Range":"60 feet","Components":["S","M"],"Material":"a drop of water or a piece of ice","Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"1d10","Damage Type":"Piercing","Upgrade":"Using a Higher-Level Spell Slot. The Cold damage increases by 1d6 for each spell slot level above 1","Spell Book":false,"Prepared":false,"Classes":["Druid","Sorcerer","Wizard"]}
 ---
 
 

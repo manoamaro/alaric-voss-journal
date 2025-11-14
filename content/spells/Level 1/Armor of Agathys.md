@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.358+01:00","modified":"2025-11-13T20:13:36.358+01:00","published":"2025-11-13T20:13:36.358+01:00","tags":["spell"],"cssclasses":"","Level":1,"School":"Abjuration","CastingTime":"#BonusAction","Range":"Self","Components":["V","S","M"],"Material":"a shard of blue glass","Concentration":false,"Duration":"1 hour","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. The Temporary Hit Points and the Cold damage both increase by 5 for cach spell slot level above 1.","Spell Book":false,"Prepared":false,"Classes":["Warlock"]}
+{"publish":true,"created":"2025-11-14T10:10:23.169+01:00","modified":"2025-11-14T10:10:23.169+01:00","published":"2025-11-14T10:10:23.169+01:00","tags":["spell"],"cssclasses":"","Level":1,"School":"Abjuration","CastingTime":"#BonusAction","Range":"Self","Components":["V","S","M"],"Material":"a shard of blue glass","Concentration":false,"Duration":"1 hour","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. The Temporary Hit Points and the Cold damage both increase by 5 for cach spell slot level above 1.","Spell Book":false,"Prepared":false,"Classes":["Warlock"]}
 ---
 
 

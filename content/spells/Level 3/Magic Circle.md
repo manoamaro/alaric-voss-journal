@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.387+01:00","modified":"2025-11-13T20:13:36.387+01:00","published":"2025-11-13T20:13:36.387+01:00","tags":["spell"],"cssclasses":"","Level":3,"School":"Abjuration","CastingTime":"1 minute","Range":"10 feet","Components":["V","S","M"],"Material":"salt and powdered silver worth 100+ GP, which the spell consumes","Concentration":false,"Duration":"1 hour","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. The duration increases by 1 hour for each spell slot level above 3","Spell Book":false,"Prepared":false,"Classes":["Cleric","Paladin","Warlock","Wizard"]}
+{"publish":true,"created":"2025-11-14T10:10:23.178+01:00","modified":"2025-11-14T10:10:23.178+01:00","published":"2025-11-14T10:10:23.178+01:00","tags":["spell"],"cssclasses":"","Level":3,"School":"Abjuration","CastingTime":"1 minute","Range":"10 feet","Components":["V","S","M"],"Material":"salt and powdered silver worth 100+ GP, which the spell consumes","Concentration":false,"Duration":"1 hour","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. The duration increases by 1 hour for each spell slot level above 3","Spell Book":false,"Prepared":false,"Classes":["Cleric","Paladin","Warlock","Wizard"]}
 ---
 
 

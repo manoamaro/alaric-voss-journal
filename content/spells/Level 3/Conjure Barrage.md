@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.383+01:00","modified":"2025-11-13T20:13:36.383+01:00","published":"2025-11-13T20:13:36.383+01:00","tags":["spell"],"cssclasses":"","Level":3,"School":"Conjuration","CastingTime":"Action","Range":"Self","Components":["V","S","M"],"Material":"a Melee or Ranged weapon worth at least 1 CP","Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"5d8","Damage Type":"Force","Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 1d8 for each spell slot level above 3.","Spell Book":false,"Prepared":false,"Classes":["Ranger"]}
+{"publish":true,"created":"2025-11-14T10:10:23.177+01:00","modified":"2025-11-14T10:10:23.177+01:00","published":"2025-11-14T10:10:23.177+01:00","tags":["spell"],"cssclasses":"","Level":3,"School":"Conjuration","CastingTime":"Action","Range":"Self","Components":["V","S","M"],"Material":"a Melee or Ranged weapon worth at least 1 CP","Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"5d8","Damage Type":"Force","Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 1d8 for each spell slot level above 3.","Spell Book":false,"Prepared":false,"Classes":["Ranger"]}
 ---
 
 

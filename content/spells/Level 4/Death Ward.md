@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.394+01:00","modified":"2025-11-13T20:13:36.394+01:00","published":"2025-11-13T20:13:36.394+01:00","tags":["spell"],"cssclasses":"","Level":4,"School":"Abjuration","CastingTime":"Action","Range":"Touch","Components":["V","S"],"Concentration":false,"Duration":"8 hours","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric","Paladin"]}
+{"publish":true,"created":"2025-11-14T10:10:23.180+01:00","modified":"2025-11-14T10:10:23.180+01:00","published":"2025-11-14T10:10:23.180+01:00","tags":["spell"],"cssclasses":"","Level":4,"School":"Abjuration","CastingTime":"Action","Range":"Touch","Components":["V","S"],"Concentration":false,"Duration":"8 hours","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric","Paladin"]}
 ---
 
 

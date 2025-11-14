@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.361+01:00","modified":"2025-11-13T20:13:36.361+01:00","published":"2025-11-13T20:13:36.361+01:00","tags":["spell"],"cssclasses":"","Level":1,"School":"Conjuration","CastingTime":"Action","Range":"Self","Components":["V","S","M"],"Material":"a sprig of mistletoe","Concentration":false,"Duration":"24 hours","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Druid","Ranger"]}
+{"publish":true,"created":"2025-11-14T10:10:23.171+01:00","modified":"2025-11-14T10:10:23.171+01:00","published":"2025-11-14T10:10:23.171+01:00","tags":["spell"],"cssclasses":"","Level":1,"School":"Conjuration","CastingTime":"Action","Range":"Self","Components":["V","S","M"],"Material":"a sprig of mistletoe","Concentration":false,"Duration":"24 hours","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Druid","Ranger"]}
 ---
 
 

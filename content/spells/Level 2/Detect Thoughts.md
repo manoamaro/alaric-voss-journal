@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.371+01:00","modified":"2025-11-13T20:13:36.371+01:00","published":"2025-11-13T20:13:36.371+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Divination","CastingTime":"Action","Range":"Self","Components":["V","S","M"],"Material":"a copper piece","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":true,"Prepared":true,"Classes":["Bard","Sorcerer","Wizard"]}
+{"publish":true,"created":"2025-11-14T10:10:23.174+01:00","modified":"2025-11-14T10:10:23.174+01:00","published":"2025-11-14T10:10:23.174+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Divination","CastingTime":"Action","Range":"Self","Components":["V","S","M"],"Material":"a copper piece","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":true,"Prepared":true,"Classes":["Bard","Sorcerer","Wizard"]}
 ---
 
 

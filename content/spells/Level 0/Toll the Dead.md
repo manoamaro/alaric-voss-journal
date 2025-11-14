@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.357+01:00","modified":"2025-11-13T20:13:36.357+01:00","published":"2025-11-13T20:13:36.357+01:00","tags":["spell"],"cssclasses":"","Level":0,"School":"Necromancy","CastingTime":"Action","Range":"60 feet","Components":["V","S"],"Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"1d8","Damage Type":"Necrotic","Upgrade":"Cantrip Upgrade. The damage increases by one die when you reach levels 5 (2d8 or 2d12), 11 (3d8 or 3d12), and 17 (4d8 or 4d12)","Spell Book":false,"Prepared":false,"Classes":["Cleric","Warlock","Wizard"]}
+{"publish":true,"created":"2025-11-14T10:10:23.169+01:00","modified":"2025-11-14T10:10:23.169+01:00","published":"2025-11-14T10:10:23.169+01:00","tags":["spell"],"cssclasses":"","Level":0,"School":"Necromancy","CastingTime":"Action","Range":"60 feet","Components":["V","S"],"Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"1d8","Damage Type":"Necrotic","Upgrade":"Cantrip Upgrade. The damage increases by one die when you reach levels 5 (2d8 or 2d12), 11 (3d8 or 3d12), and 17 (4d8 or 4d12)","Spell Book":false,"Prepared":false,"Classes":["Cleric","Warlock","Wizard"]}
 ---
 
 

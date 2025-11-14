@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.443+01:00","modified":"2025-11-13T20:13:36.443+01:00","published":"2025-11-13T20:13:36.443+01:00","tags":["spell"],"cssclasses":"","Level":8,"School":"Necromancy","CastingTime":"1 hour","Range":"Touch","Components":["V","S","M"],"Material":"a diamond worth 1,000+ GP, which the spell consumes, and a vessel worth 2,000+ GP that is large enough to hold the creature being cloned","Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Wizard"]}
+{"publish":true,"created":"2025-11-14T10:10:23.188+01:00","modified":"2025-11-14T10:10:23.188+01:00","published":"2025-11-14T10:10:23.188+01:00","tags":["spell"],"cssclasses":"","Level":8,"School":"Necromancy","CastingTime":"1 hour","Range":"Touch","Components":["V","S","M"],"Material":"a diamond worth 1,000+ GP, which the spell consumes, and a vessel worth 2,000+ GP that is large enough to hold the creature being cloned","Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Wizard"]}
 ---
 
 

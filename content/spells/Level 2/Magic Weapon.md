@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.375+01:00","modified":"2025-11-13T20:13:36.375+01:00","published":"2025-11-13T20:13:36.375+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Transmutation","CastingTime":"#BonusAction","Range":"Touch","Components":["V","S"],"Concentration":false,"Duration":"1 hour","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. The bonus increases to +2 with a level 3–5 spell slot. The bonus increases to +3 with a level 6+ spell slot.","Spell Book":false,"Prepared":false,"Classes":["Paladin","Ranger","Sorcerer","Wizard"]}
+{"publish":true,"created":"2025-11-14T10:10:23.175+01:00","modified":"2025-11-14T10:10:23.175+01:00","published":"2025-11-14T10:10:23.175+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Transmutation","CastingTime":"#BonusAction","Range":"Touch","Components":["V","S"],"Concentration":false,"Duration":"1 hour","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. The bonus increases to +2 with a level 3–5 spell slot. The bonus increases to +3 with a level 6+ spell slot.","Spell Book":false,"Prepared":false,"Classes":["Paladin","Ranger","Sorcerer","Wizard"]}
 ---
 
 

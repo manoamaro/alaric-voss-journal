@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.372+01:00","modified":"2025-11-13T20:13:36.372+01:00","published":"2025-11-13T20:13:36.372+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Evocation","CastingTime":"#BonusAction","Range":"Self","Components":["V","S","M"],"Material":"a sumac leaf","Concentration":true,"Duration":"up to 10 minutes","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 1d6 for each spell slot level above 2.","Spell Book":false,"Prepared":false,"Classes":["Druid","Sorcerer"]}
+{"publish":true,"created":"2025-11-14T10:10:23.175+01:00","modified":"2025-11-14T10:10:23.175+01:00","published":"2025-11-14T10:10:23.175+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Evocation","CastingTime":"#BonusAction","Range":"Self","Components":["V","S","M"],"Material":"a sumac leaf","Concentration":true,"Duration":"up to 10 minutes","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 1d6 for each spell slot level above 2.","Spell Book":false,"Prepared":false,"Classes":["Druid","Sorcerer"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.420+01:00","modified":"2025-11-13T20:13:36.420+01:00","published":"2025-11-13T20:13:36.420+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Evocation","CastingTime":"Action","Range":"60 feet","Components":["V","S","M"],"Material":"a pinch of sulfur","Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"5d6","Damage Type":"Fire","Upgrade":"Using a Higher-Level Spell Slot. The Fire damage and the Radiant damage increase by 1d6 for each spell slot level above 5","Spell Book":false,"Prepared":false,"Classes":["Cleric"]}
+{"publish":true,"created":"2025-11-14T10:10:23.183+01:00","modified":"2025-11-14T10:10:23.183+01:00","published":"2025-11-14T10:10:23.183+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Evocation","CastingTime":"Action","Range":"60 feet","Components":["V","S","M"],"Material":"a pinch of sulfur","Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"5d6","Damage Type":"Fire","Upgrade":"Using a Higher-Level Spell Slot. The Fire damage and the Radiant damage increase by 1d6 for each spell slot level above 5","Spell Book":false,"Prepared":false,"Classes":["Cleric"]}
 ---
 
 

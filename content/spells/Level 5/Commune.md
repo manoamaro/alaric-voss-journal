@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.418+01:00","modified":"2025-11-13T20:13:36.418+01:00","published":"2025-11-13T20:13:36.418+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Divination","CastingTime":"1 minute or Ritual","Range":"Self","Components":["V","S","M"],"Material":"incense","Concentration":false,"Duration":"1 minute","Ritual":true,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric"]}
+{"publish":true,"created":"2025-11-14T10:10:23.182+01:00","modified":"2025-11-14T10:10:23.182+01:00","published":"2025-11-14T10:10:23.182+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Divination","CastingTime":"1 minute or Ritual","Range":"Self","Components":["V","S","M"],"Material":"incense","Concentration":false,"Duration":"1 minute","Ritual":true,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric"]}
 ---
 
 

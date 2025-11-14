@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.384+01:00","modified":"2025-11-13T20:13:36.384+01:00","published":"2025-11-13T20:13:36.384+01:00","tags":["spell"],"cssclasses":"","Level":3,"School":"Abjuration","CastingTime":"Action","Range":"120 feet","Components":["V","S"],"Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. You automatically end a spell on the target if the spell's level is equal to or less than the level of the spell slot you use","Spell Book":false,"Prepared":false,"Classes":["Bard","Cleric","Druid","Paladin","Ranger","Sorcerer","Warlock","Wizard"]}
+{"publish":true,"created":"2025-11-14T10:10:23.177+01:00","modified":"2025-11-14T10:10:23.178+01:00","published":"2025-11-14T10:10:23.178+01:00","tags":["spell"],"cssclasses":"","Level":3,"School":"Abjuration","CastingTime":"Action","Range":"120 feet","Components":["V","S"],"Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. You automatically end a spell on the target if the spell's level is equal to or less than the level of the spell slot you use","Spell Book":false,"Prepared":false,"Classes":["Bard","Cleric","Druid","Paladin","Ranger","Sorcerer","Warlock","Wizard"]}
 ---
 
 

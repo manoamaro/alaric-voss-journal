@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.432+01:00","modified":"2025-11-13T20:13:36.432+01:00","published":"2025-11-13T20:13:36.432+01:00","tags":["spell"],"cssclasses":"","Level":6,"School":"Transmutation","CastingTime":"1 minute","Range":"30 feet","Components":["V","S","M"],"Material":"a candle","Concentration":false,"Duration":"8 hours","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Druid"]}
+{"publish":true,"created":"2025-11-14T10:10:23.186+01:00","modified":"2025-11-14T10:10:23.186+01:00","published":"2025-11-14T10:10:23.186+01:00","tags":["spell"],"cssclasses":"","Level":6,"School":"Transmutation","CastingTime":"1 minute","Range":"30 feet","Components":["V","S","M"],"Material":"a candle","Concentration":false,"Duration":"8 hours","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Druid"]}
 ---
 
 

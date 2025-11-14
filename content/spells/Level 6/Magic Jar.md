@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.429+01:00","modified":"2025-11-13T20:13:36.429+01:00","published":"2025-11-13T20:13:36.429+01:00","tags":["spell"],"cssclasses":"","Level":6,"School":"Necromancy","CastingTime":"1 minute","Range":"Self","Components":["V","S","M"],"Material":"a gem, crystal, or reliquary worth 500+ GP","Concentration":false,"Duration":"Until dispelled","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Wizard"]}
+{"publish":true,"created":"2025-11-14T10:10:23.185+01:00","modified":"2025-11-14T10:10:23.186+01:00","published":"2025-11-14T10:10:23.186+01:00","tags":["spell"],"cssclasses":"","Level":6,"School":"Necromancy","CastingTime":"1 minute","Range":"Self","Components":["V","S","M"],"Material":"a gem, crystal, or reliquary worth 500+ GP","Concentration":false,"Duration":"Until dispelled","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Wizard"]}
 ---
 
 

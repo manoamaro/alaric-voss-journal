@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.390+01:00","modified":"2025-11-13T20:13:36.390+01:00","published":"2025-11-13T20:13:36.390+01:00","tags":["spell"],"cssclasses":"","Level":3,"School":"Conjuration","CastingTime":"Action","Range":"Self","Components":["V","S","M"],"Material":"a prayer scroll","Concentration":true,"Duration":"up to 10 minutes","Ritual":false,"Damage":"3d8","Damage Type":"Radiant","Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 1d8 for each spell slot level above 3","Spell Book":false,"Prepared":false,"Classes":["Cleric"]}
+{"publish":true,"created":"2025-11-14T10:10:23.179+01:00","modified":"2025-11-14T10:10:23.179+01:00","published":"2025-11-14T10:10:23.179+01:00","tags":["spell"],"cssclasses":"","Level":3,"School":"Conjuration","CastingTime":"Action","Range":"Self","Components":["V","S","M"],"Material":"a prayer scroll","Concentration":true,"Duration":"up to 10 minutes","Ritual":false,"Damage":"3d8","Damage Type":"Radiant","Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 1d8 for each spell slot level above 3","Spell Book":false,"Prepared":false,"Classes":["Cleric"]}
 ---
 
 

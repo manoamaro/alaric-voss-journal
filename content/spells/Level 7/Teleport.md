@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.442+01:00","modified":"2025-11-13T20:13:36.442+01:00","published":"2025-11-13T20:13:36.442+01:00","tags":["spell"],"cssclasses":"","Level":7,"School":"Conjuration","CastingTime":"Action","Range":"10 feet","Components":["V"],"Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"3d10","Damage Type":"Force","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Sorcerer","Wizard"]}
+{"publish":true,"created":"2025-11-14T10:10:23.188+01:00","modified":"2025-11-14T10:10:23.188+01:00","published":"2025-11-14T10:10:23.188+01:00","tags":["spell"],"cssclasses":"","Level":7,"School":"Conjuration","CastingTime":"Action","Range":"10 feet","Components":["V"],"Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"3d10","Damage Type":"Force","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Sorcerer","Wizard"]}
 ---
 
 

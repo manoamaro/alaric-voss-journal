@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.394+01:00","modified":"2025-11-13T20:13:36.394+01:00","published":"2025-11-13T20:13:36.394+01:00","tags":["spell"],"cssclasses":"","Level":4,"School":"Enchantment","CastingTime":"Action","Range":"90 feet","Components":["V","S","M"],"Material":"three nut shells","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. The Sphere's radius increases by 5 feet for each spell slot level above 4.","Spell Book":false,"Prepared":false,"Classes":["Bard","Druid","Sorcerer","Wizard"]}
+{"publish":true,"created":"2025-11-14T10:10:23.180+01:00","modified":"2025-11-14T10:10:23.180+01:00","published":"2025-11-14T10:10:23.180+01:00","tags":["spell"],"cssclasses":"","Level":4,"School":"Enchantment","CastingTime":"Action","Range":"90 feet","Components":["V","S","M"],"Material":"three nut shells","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. The Sphere's radius increases by 5 feet for each spell slot level above 4.","Spell Book":false,"Prepared":false,"Classes":["Bard","Druid","Sorcerer","Wizard"]}
 ---
 
 

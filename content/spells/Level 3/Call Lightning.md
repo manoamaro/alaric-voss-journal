@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.382+01:00","modified":"2025-11-13T20:13:36.382+01:00","published":"2025-11-13T20:13:36.382+01:00","tags":["spell"],"cssclasses":"","Level":3,"School":"Conjuration","CastingTime":"Action","Range":"120 feet","Components":["V","S"],"Concentration":true,"Duration":"up to 10 minutes","Ritual":false,"Damage":"3d10","Damage Type":"Lightning","Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 1d10 for each spell slot level above 3","Spell Book":false,"Prepared":false,"Classes":["Druid"]}
+{"publish":true,"created":"2025-11-14T10:10:23.177+01:00","modified":"2025-11-14T10:10:23.177+01:00","published":"2025-11-14T10:10:23.177+01:00","tags":["spell"],"cssclasses":"","Level":3,"School":"Conjuration","CastingTime":"Action","Range":"120 feet","Components":["V","S"],"Concentration":true,"Duration":"up to 10 minutes","Ritual":false,"Damage":"3d10","Damage Type":"Lightning","Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 1d10 for each spell slot level above 3","Spell Book":false,"Prepared":false,"Classes":["Druid"]}
 ---
 
 

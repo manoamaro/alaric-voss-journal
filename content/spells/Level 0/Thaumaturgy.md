@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.357+01:00","modified":"2025-11-13T20:13:36.357+01:00","published":"2025-11-13T20:13:36.357+01:00","tags":["spell"],"cssclasses":"","Level":0,"School":"Transmutation","CastingTime":"Action","Range":"30 feet","Components":["V"],"Concentration":false,"Duration":"Up to 1 minute","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric"]}
+{"publish":true,"created":"2025-11-14T10:10:23.169+01:00","modified":"2025-11-14T10:10:23.169+01:00","published":"2025-11-14T10:10:23.169+01:00","tags":["spell"],"cssclasses":"","Level":0,"School":"Transmutation","CastingTime":"Action","Range":"30 feet","Components":["V"],"Concentration":false,"Duration":"Up to 1 minute","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric"]}
 ---
 
 

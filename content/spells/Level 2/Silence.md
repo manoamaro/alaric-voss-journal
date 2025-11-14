@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.378+01:00","modified":"2025-11-13T20:13:36.378+01:00","published":"2025-11-13T20:13:36.378+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Illusion","CastingTime":"Action or Ritual","Range":"120 feet","Components":["V","S"],"Concentration":true,"Duration":"up to 10 minutes","Ritual":true,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Cleric","Ranger"]}
+{"publish":true,"created":"2025-11-14T10:10:23.176+01:00","modified":"2025-11-14T10:10:23.176+01:00","published":"2025-11-14T10:10:23.176+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Illusion","CastingTime":"Action or Ritual","Range":"120 feet","Components":["V","S"],"Concentration":true,"Duration":"up to 10 minutes","Ritual":true,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Cleric","Ranger"]}
 ---
 
 

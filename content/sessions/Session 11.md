@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-07","modified":"2025-11-13T22:59:55.638+01:00","published":"2025-11-07","tags":["session"],"cssclasses":"","date":"2025-11-07"}
+{"publish":true,"created":"2025-11-07","modified":"2025-11-14T13:36:33.205+01:00","published":"2025-11-07","tags":["session"],"cssclasses":"","date":"2025-11-07"}
 ---
 
 
@@ -22,6 +22,8 @@ The construct reacted instantly. Its wooden form groaned as it turned toward the
 ![[media/Session11/construct_2.jpg|600]]
 
 # Encounter begins
+
+
 
 Initiative Order: Construct, [[compendium/characters/Orianna]], [[compendium/characters/Hugh]], [[compendium/characters/Van]], [[Alaric Voss\|Alaric]], [[compendium/characters/Ireena Kolyana\|Ireena]], Flock 1, Flock 2, [[compendium/characters/Brennick]].
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.417+01:00","modified":"2025-11-13T20:13:36.417+01:00","published":"2025-11-13T20:13:36.417+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Conjuration","CastingTime":"#BonusAction, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike","Range":"Self","Components":["V"],"Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":"5d10","Damage Type":"Force","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Paladin"]}
+{"publish":true,"created":"2025-11-14T10:10:23.182+01:00","modified":"2025-11-14T10:10:23.182+01:00","published":"2025-11-14T10:10:23.182+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Conjuration","CastingTime":"#BonusAction, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike","Range":"Self","Components":["V"],"Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":"5d10","Damage Type":"Force","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Paladin"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.366+01:00","modified":"2025-11-13T20:13:36.366+01:00","published":"2025-11-13T20:13:36.366+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Abjuration","CastingTime":"Action","Range":"Touch","Components":["V","S","M"],"Material":"gold dust worth 25+ GP, which the spell consumes","Concentration":false,"Duration":"Until dispelled","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Wizard"]}
+{"publish":true,"created":"2025-11-14T10:10:23.173+01:00","modified":"2025-11-14T10:10:23.173+01:00","published":"2025-11-14T10:10:23.173+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Abjuration","CastingTime":"Action","Range":"Touch","Components":["V","S","M"],"Material":"gold dust worth 25+ GP, which the spell consumes","Concentration":false,"Duration":"Until dispelled","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Wizard"]}
 ---
 
 

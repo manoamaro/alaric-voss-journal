@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.431+01:00","modified":"2025-11-13T20:13:36.431+01:00","published":"2025-11-13T20:13:36.431+01:00","tags":["spell"],"cssclasses":"","Level":6,"School":"Evocation","CastingTime":"Action","Range":"Self","Components":["V","S","M"],"Material":"a magnifying glass","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":"6d8","Damage Type":"Radiant","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric","Druid","Sorcerer","Wizard"]}
+{"publish":true,"created":"2025-11-14T10:10:23.186+01:00","modified":"2025-11-14T10:10:23.186+01:00","published":"2025-11-14T10:10:23.186+01:00","tags":["spell"],"cssclasses":"","Level":6,"School":"Evocation","CastingTime":"Action","Range":"Self","Components":["V","S","M"],"Material":"a magnifying glass","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":"6d8","Damage Type":"Radiant","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric","Druid","Sorcerer","Wizard"]}
 ---
 
 

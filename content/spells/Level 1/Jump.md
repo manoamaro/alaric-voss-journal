@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.363+01:00","modified":"2025-11-13T20:13:36.363+01:00","published":"2025-11-13T20:13:36.363+01:00","tags":["spell"],"cssclasses":"","Level":1,"School":"Transmutation","CastingTime":"#BonusAction","Range":"Touch","Components":["V","S","M"],"Material":"a grasshopper's hind leg","Concentration":false,"Duration":"1 minute","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. You can target one additional creature for each spell slot level above 1","Spell Book":false,"Prepared":false,"Classes":["Druid","Ranger","Sorcerer","Wizard"]}
+{"publish":true,"created":"2025-11-14T10:10:23.172+01:00","modified":"2025-11-14T10:10:23.172+01:00","published":"2025-11-14T10:10:23.172+01:00","tags":["spell"],"cssclasses":"","Level":1,"School":"Transmutation","CastingTime":"#BonusAction","Range":"Touch","Components":["V","S","M"],"Material":"a grasshopper's hind leg","Concentration":false,"Duration":"1 minute","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. You can target one additional creature for each spell slot level above 1","Spell Book":false,"Prepared":false,"Classes":["Druid","Ranger","Sorcerer","Wizard"]}
 ---
 
 

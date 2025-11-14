@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.360+01:00","modified":"2025-11-13T20:13:36.360+01:00","published":"2025-11-13T20:13:36.360+01:00","tags":["spell"],"cssclasses":"","Level":1,"School":"Enchantment","CastingTime":"Action","Range":"60 feet","Components":["V"],"Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"3d6","Damage Type":"Psychic","Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 1d6 for each spell slot level above 1","Spell Book":false,"Prepared":false,"Classes":["Bard"]}
+{"publish":true,"created":"2025-11-14T10:10:23.170+01:00","modified":"2025-11-14T10:10:23.170+01:00","published":"2025-11-14T10:10:23.170+01:00","tags":["spell"],"cssclasses":"","Level":1,"School":"Enchantment","CastingTime":"Action","Range":"60 feet","Components":["V"],"Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"3d6","Damage Type":"Psychic","Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 1d6 for each spell slot level above 1","Spell Book":false,"Prepared":false,"Classes":["Bard"]}
 ---
 
 

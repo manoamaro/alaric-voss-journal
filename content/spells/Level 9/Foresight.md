@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.446+01:00","modified":"2025-11-13T20:13:36.447+01:00","published":"2025-11-13T20:13:36.447+01:00","tags":["spell"],"cssclasses":"","Level":9,"School":"Divination","CastingTime":"1 minute","Range":"Touch","Components":["V","S","M"],"Material":"a hummingbird feather","Concentration":false,"Duration":"8 hours","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Druid","Warlock","Wizard"]}
+{"publish":true,"created":"2025-11-14T10:10:23.189+01:00","modified":"2025-11-14T10:10:23.189+01:00","published":"2025-11-14T10:10:23.189+01:00","tags":["spell"],"cssclasses":"","Level":9,"School":"Divination","CastingTime":"1 minute","Range":"Touch","Components":["V","S","M"],"Material":"a hummingbird feather","Concentration":false,"Duration":"8 hours","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Druid","Warlock","Wizard"]}
 ---
 
 

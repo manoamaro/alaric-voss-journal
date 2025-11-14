@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.390+01:00","modified":"2025-11-13T20:13:36.390+01:00","published":"2025-11-13T20:13:36.390+01:00","tags":["spell"],"cssclasses":"","Level":3,"School":"Necromancy","CastingTime":"Action","Range":"90 feet","Components":["V","S","M"],"Material":"a gilded skull worth 300+ GP","Concentration":true,"Duration":"up to 1 hour","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. Use the spell slot's level for the spell's level in the stat block","Spell Book":false,"Prepared":false,"Classes":["Warlock","Wizard"]}
+{"publish":true,"created":"2025-11-14T10:10:23.179+01:00","modified":"2025-11-14T10:10:23.179+01:00","published":"2025-11-14T10:10:23.179+01:00","tags":["spell"],"cssclasses":"","Level":3,"School":"Necromancy","CastingTime":"Action","Range":"90 feet","Components":["V","S","M"],"Material":"a gilded skull worth 300+ GP","Concentration":true,"Duration":"up to 1 hour","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. Use the spell slot's level for the spell's level in the stat block","Spell Book":false,"Prepared":false,"Classes":["Warlock","Wizard"]}
 ---
 
 

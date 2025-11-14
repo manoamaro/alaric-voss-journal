@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.392+01:00","modified":"2025-11-13T20:13:36.392+01:00","published":"2025-11-13T20:13:36.392+01:00","tags":["spell"],"cssclasses":"","Level":4,"School":"Abjuration","CastingTime":"Action","Range":"30 feet","Components":["V","S","M"],"Material":"a pentacle","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. You can target one additional creature for each spell slot level above 4","Spell Book":false,"Prepared":false,"Classes":["Cleric","Paladin","Sorcerer","Warlock","Wizard"]}
+{"publish":true,"created":"2025-11-14T10:10:23.180+01:00","modified":"2025-11-14T10:10:23.180+01:00","published":"2025-11-14T10:10:23.180+01:00","tags":["spell"],"cssclasses":"","Level":4,"School":"Abjuration","CastingTime":"Action","Range":"30 feet","Components":["V","S","M"],"Material":"a pentacle","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. You can target one additional creature for each spell slot level above 4","Spell Book":false,"Prepared":false,"Classes":["Cleric","Paladin","Sorcerer","Warlock","Wizard"]}
 ---
 
 
