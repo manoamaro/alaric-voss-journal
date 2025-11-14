@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.171+01:00","modified":"2025-11-14T10:10:23.171+01:00","published":"2025-11-14T10:10:23.171+01:00","tags":["spell"],"cssclasses":"","Level":1,"School":"Conjuration","CastingTime":"Action","Range":"60 feet","Components":["V","S","M"],"Material":"a bit of pork rind or butter","Concentration":false,"Duration":"1 minute","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Sorcerer","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.361+01:00","modified":"2025-11-13T20:13:36.361+01:00","published":"2025-11-13T20:13:36.361+01:00","tags":["spell"],"cssclasses":"","Level":1,"School":"Conjuration","CastingTime":"Action","Range":"60 feet","Components":["V","S","M"],"Material":"a bit of pork rind or butter","Concentration":false,"Duration":"1 minute","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Sorcerer","Wizard"]}
 ---
 
 

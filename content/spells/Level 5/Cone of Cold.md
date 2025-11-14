@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.182+01:00","modified":"2025-11-14T10:10:23.182+01:00","published":"2025-11-14T10:10:23.182+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Evocation","CastingTime":"Action","Range":"Self","Components":["V","S","M"],"Material":"a small crystal or glass cone","Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"8d8","Damage Type":"Cold","Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 1d8 for each spell slot level above 5","Spell Book":false,"Prepared":false,"Classes":["Druid","Sorcerer","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.418+01:00","modified":"2025-11-13T20:13:36.419+01:00","published":"2025-11-13T20:13:36.419+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Evocation","CastingTime":"Action","Range":"Self","Components":["V","S","M"],"Material":"a small crystal or glass cone","Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"8d8","Damage Type":"Cold","Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 1d8 for each spell slot level above 5","Spell Book":false,"Prepared":false,"Classes":["Druid","Sorcerer","Wizard"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.185+01:00","modified":"2025-11-14T10:10:23.185+01:00","published":"2025-11-14T10:10:23.185+01:00","tags":["spell"],"cssclasses":"","Level":6,"School":"Abjuration","CastingTime":"10 minutes or Ritual","Range":"Touch","Components":["V","S","M"],"Material":"ruby dust worth 1,000+ GP","Concentration":false,"Duration":"1 day","Ritual":true,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric"]}
+{"publish":true,"created":"2025-11-13T20:13:36.428+01:00","modified":"2025-11-13T20:13:36.428+01:00","published":"2025-11-13T20:13:36.428+01:00","tags":["spell"],"cssclasses":"","Level":6,"School":"Abjuration","CastingTime":"10 minutes or Ritual","Range":"Touch","Components":["V","S","M"],"Material":"ruby dust worth 1,000+ GP","Concentration":false,"Duration":"1 day","Ritual":true,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.183+01:00","modified":"2025-11-14T10:10:23.183+01:00","published":"2025-11-14T10:10:23.183+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Divination","CastingTime":"1 minute or Ritual","Range":"Self","Components":["V"],"Concentration":false,"Duration":"1 minute","Ritual":true,"Damage":"6d6","Damage Type":"Psychic","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Warlock","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.419+01:00","modified":"2025-11-13T20:13:36.419+01:00","published":"2025-11-13T20:13:36.419+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Divination","CastingTime":"1 minute or Ritual","Range":"Self","Components":["V"],"Concentration":false,"Duration":"1 minute","Ritual":true,"Damage":"6d6","Damage Type":"Psychic","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Warlock","Wizard"]}
 ---
 
 

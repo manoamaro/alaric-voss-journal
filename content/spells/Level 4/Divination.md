@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.180+01:00","modified":"2025-11-14T10:10:23.180+01:00","published":"2025-11-14T10:10:23.180+01:00","tags":["spell"],"cssclasses":"","Level":4,"School":"Divination","CastingTime":"Action or Ritual","Range":"Self","Components":["V","S","M"],"Material":"incense worth 25+ GP, which the spell consumes","Concentration":false,"Duration":"Instantaneous","Ritual":true,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric","Druid","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.395+01:00","modified":"2025-11-13T20:13:36.395+01:00","published":"2025-11-13T20:13:36.395+01:00","tags":["spell"],"cssclasses":"","Level":4,"School":"Divination","CastingTime":"Action or Ritual","Range":"Self","Components":["V","S","M"],"Material":"incense worth 25+ GP, which the spell consumes","Concentration":false,"Duration":"Instantaneous","Ritual":true,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric","Druid","Wizard"]}
 ---
 
 

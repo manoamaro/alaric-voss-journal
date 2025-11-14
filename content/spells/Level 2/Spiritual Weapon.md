@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.176+01:00","modified":"2025-11-14T10:10:23.176+01:00","published":"2025-11-14T10:10:23.176+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Evocation","CastingTime":"#BonusAction","Range":"60 feet","Components":["V","S"],"Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 1d8 for every slot level above 2.","Spell Book":false,"Prepared":false,"Classes":["Cleric"]}
+{"publish":true,"created":"2025-11-13T20:13:36.379+01:00","modified":"2025-11-13T20:13:36.379+01:00","published":"2025-11-13T20:13:36.379+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Evocation","CastingTime":"#BonusAction","Range":"60 feet","Components":["V","S"],"Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 1d8 for every slot level above 2.","Spell Book":false,"Prepared":false,"Classes":["Cleric"]}
 ---
 
 

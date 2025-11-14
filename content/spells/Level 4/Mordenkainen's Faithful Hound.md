@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.181+01:00","modified":"2025-11-14T10:10:23.181+01:00","published":"2025-11-14T10:10:23.181+01:00","tags":["spell"],"cssclasses":"","Level":4,"School":"Conjuration","CastingTime":"Action","Range":"30 feet","Components":["V","S","M"],"Material":"a silver whistle","Concentration":false,"Duration":"8 hours","Ritual":false,"Damage":"4d8","Damage Type":"Force","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.408+01:00","modified":"2025-11-13T20:13:36.409+01:00","published":"2025-11-13T20:13:36.409+01:00","tags":["spell"],"cssclasses":"","Level":4,"School":"Conjuration","CastingTime":"Action","Range":"30 feet","Components":["V","S","M"],"Material":"a silver whistle","Concentration":false,"Duration":"8 hours","Ritual":false,"Damage":"4d8","Damage Type":"Force","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Wizard"]}
 ---
 
 

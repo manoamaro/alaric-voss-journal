@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.181+01:00","modified":"2025-11-14T10:10:23.181+01:00","published":"2025-11-14T10:10:23.181+01:00","tags":["spell"],"cssclasses":"","Level":4,"School":"Transmutation","CastingTime":"Action","Range":"60 feet","Components":["V","S","M"],"Material":"a caterpillar cocoon","Concentration":true,"Duration":"up to 1 hour","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Druid","Sorcerer","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.410+01:00","modified":"2025-11-13T20:13:36.411+01:00","published":"2025-11-13T20:13:36.411+01:00","tags":["spell"],"cssclasses":"","Level":4,"School":"Transmutation","CastingTime":"Action","Range":"60 feet","Components":["V","S","M"],"Material":"a caterpillar cocoon","Concentration":true,"Duration":"up to 1 hour","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Druid","Sorcerer","Wizard"]}
 ---
 
 

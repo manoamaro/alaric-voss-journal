@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.175+01:00","modified":"2025-11-14T10:10:23.175+01:00","published":"2025-11-14T10:10:23.175+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Illusion","CastingTime":"1 minute or Ritual","Range":"30 feet","Components":["V","S","M"],"Material":"jade dust worth 10+ GP, which the spell consumes","Concentration":false,"Duration":"Until dispelled","Ritual":true,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.374+01:00","modified":"2025-11-13T20:13:36.374+01:00","published":"2025-11-13T20:13:36.374+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Illusion","CastingTime":"1 minute or Ritual","Range":"30 feet","Components":["V","S","M"],"Material":"jade dust worth 10+ GP, which the spell consumes","Concentration":false,"Duration":"Until dispelled","Ritual":true,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Wizard"]}
 ---
 
 

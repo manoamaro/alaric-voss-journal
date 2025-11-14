@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.188+01:00","modified":"2025-11-14T10:10:23.188+01:00","published":"2025-11-14T10:10:23.188+01:00","tags":["spell"],"cssclasses":"","Level":8,"School":"Transmutation","CastingTime":"10 minutes","Range":"Self","Components":["V","S","M"],"Material":"burning incense","Concentration":true,"Duration":"up to 8 hours","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric","Druid","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.443+01:00","modified":"2025-11-13T20:13:36.443+01:00","published":"2025-11-13T20:13:36.443+01:00","tags":["spell"],"cssclasses":"","Level":8,"School":"Transmutation","CastingTime":"10 minutes","Range":"Self","Components":["V","S","M"],"Material":"burning incense","Concentration":true,"Duration":"up to 8 hours","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric","Druid","Wizard"]}
 ---
 
 

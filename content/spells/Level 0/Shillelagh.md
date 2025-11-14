@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.168+01:00","modified":"2025-11-14T10:10:23.168+01:00","published":"2025-11-14T10:10:23.168+01:00","tags":["spell"],"cssclasses":"","Level":0,"School":"Transmutation","CastingTime":"#BonusAction","Range":"Self","Components":["V","S","M"],"Material":"mistletoe","Concentration":false,"Duration":"1 minute","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Cantrip Upgrade. The weapon's damage die changes when you reach levels 5 (d10), 11 (d12), and 17 (2d6)","Spell Book":false,"Prepared":false,"Classes":["Druid"]}
+{"publish":true,"created":"2025-11-13T20:13:36.356+01:00","modified":"2025-11-13T20:13:36.356+01:00","published":"2025-11-13T20:13:36.356+01:00","tags":["spell"],"cssclasses":"","Level":0,"School":"Transmutation","CastingTime":"#BonusAction","Range":"Self","Components":["V","S","M"],"Material":"mistletoe","Concentration":false,"Duration":"1 minute","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Cantrip Upgrade. The weapon's damage die changes when you reach levels 5 (d10), 11 (d12), and 17 (2d6)","Spell Book":false,"Prepared":false,"Classes":["Druid"]}
 ---
 
 

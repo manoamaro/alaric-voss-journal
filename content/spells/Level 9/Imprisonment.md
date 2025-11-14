@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.189+01:00","modified":"2025-11-14T10:10:23.189+01:00","published":"2025-11-14T10:10:23.189+01:00","tags":["spell"],"cssclasses":"","Level":9,"School":"Abjuration","CastingTime":"1 minute","Range":"30 feet","Components":["V","S","M"],"Material":"a statuette of the target worth 5,000+ GP","Concentration":false,"Duration":"Until dispelled","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Warlock","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.447+01:00","modified":"2025-11-13T20:13:36.447+01:00","published":"2025-11-13T20:13:36.447+01:00","tags":["spell"],"cssclasses":"","Level":9,"School":"Abjuration","CastingTime":"1 minute","Range":"30 feet","Components":["V","S","M"],"Material":"a statuette of the target worth 5,000+ GP","Concentration":false,"Duration":"Until dispelled","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Warlock","Wizard"]}
 ---
 
 

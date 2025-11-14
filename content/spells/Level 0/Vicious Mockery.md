@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.169+01:00","modified":"2025-11-14T10:10:23.169+01:00","published":"2025-11-14T10:10:23.169+01:00","tags":["spell"],"cssclasses":"","Level":0,"School":"Enchantment","CastingTime":"Action","Range":"60 feet","Components":["V"],"Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"1d6","Damage Type":"Psychic","Upgrade":"Cantrip Upgrade. The damage increases by 1d6 when you reach level 5 (2d6), level 11 (3d6), and level 17 (4d6).","Spell Book":false,"Prepared":false,"Classes":["Bard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.357+01:00","modified":"2025-11-13T20:13:36.357+01:00","published":"2025-11-13T20:13:36.357+01:00","tags":["spell"],"cssclasses":"","Level":0,"School":"Enchantment","CastingTime":"Action","Range":"60 feet","Components":["V"],"Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"1d6","Damage Type":"Psychic","Upgrade":"Cantrip Upgrade. The damage increases by 1d6 when you reach level 5 (2d6), level 11 (3d6), and level 17 (4d6).","Spell Book":false,"Prepared":false,"Classes":["Bard"]}
 ---
 
 

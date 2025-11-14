@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.181+01:00","modified":"2025-11-14T10:10:23.181+01:00","published":"2025-11-14T10:10:23.181+01:00","tags":["spell"],"cssclasses":"","Level":4,"School":"Enchantment","CastingTime":"#BonusAction, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike","Range":"Self","Components":["V"],"Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"4d6","Damage Type":"Psychic","Upgrade":"Using a Higher-Level Spell Slot. The extra damage increases by 1d6 for each spell slot level above 4","Spell Book":false,"Prepared":false,"Classes":["Paladin"]}
+{"publish":true,"created":"2025-11-13T20:13:36.411+01:00","modified":"2025-11-13T20:13:36.413+01:00","published":"2025-11-13T20:13:36.413+01:00","tags":["spell"],"cssclasses":"","Level":4,"School":"Enchantment","CastingTime":"#BonusAction, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike","Range":"Self","Components":["V"],"Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"4d6","Damage Type":"Psychic","Upgrade":"Using a Higher-Level Spell Slot. The extra damage increases by 1d6 for each spell slot level above 4","Spell Book":false,"Prepared":false,"Classes":["Paladin"]}
 ---
 
 

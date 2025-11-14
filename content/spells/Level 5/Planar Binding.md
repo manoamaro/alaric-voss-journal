@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.184+01:00","modified":"2025-11-14T10:10:23.184+01:00","published":"2025-11-14T10:10:23.184+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Abjuration","CastingTime":"1 hour","Range":"60 feet","Components":["V","S","M"],"Material":"a jewel worth 1,000+ GP, which the spell consumes","Concentration":false,"Duration":"24 hours","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. The duration increases with a spell slot of level 6 (10 days), 7 (30 days), 8 (180 days), and 9 (366 days)","Spell Book":false,"Prepared":false,"Classes":["Bard","Cleric","Druid","Warlock","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.422+01:00","modified":"2025-11-13T20:13:36.422+01:00","published":"2025-11-13T20:13:36.422+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Abjuration","CastingTime":"1 hour","Range":"60 feet","Components":["V","S","M"],"Material":"a jewel worth 1,000+ GP, which the spell consumes","Concentration":false,"Duration":"24 hours","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. The duration increases with a spell slot of level 6 (10 days), 7 (30 days), 8 (180 days), and 9 (366 days)","Spell Book":false,"Prepared":false,"Classes":["Bard","Cleric","Druid","Warlock","Wizard"]}
 ---
 
 

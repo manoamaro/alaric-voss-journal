@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.178+01:00","modified":"2025-11-14T10:10:23.178+01:00","published":"2025-11-14T10:10:23.178+01:00","tags":["spell"],"cssclasses":"","Level":3,"School":"Transmutation","CastingTime":"Action or #Ritual","Range":"Touch","Components":["V","S"],"Concentration":false,"Duration":"8 hours","Ritual":true,"Damage":"6d6","Damage Type":"Force","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric","Druid","Ranger"]}
+{"publish":true,"created":"2025-11-13T20:13:36.388+01:00","modified":"2025-11-13T20:13:36.388+01:00","published":"2025-11-13T20:13:36.388+01:00","tags":["spell"],"cssclasses":"","Level":3,"School":"Transmutation","CastingTime":"Action or #Ritual","Range":"Touch","Components":["V","S"],"Concentration":false,"Duration":"8 hours","Ritual":true,"Damage":"6d6","Damage Type":"Force","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric","Druid","Ranger"]}
 ---
 
 

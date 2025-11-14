@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.188+01:00","modified":"2025-11-14T10:10:23.188+01:00","published":"2025-11-14T10:10:23.188+01:00","tags":["spell"],"cssclasses":"","Level":8,"School":"Transmutation","CastingTime":"Action","Range":"500 feet","Components":["V","S","M"],"Material":"a fractured rock","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":"12d6","Damage Type":"Bludgeoning","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric","Druid","Sorcerer"]}
+{"publish":true,"created":"2025-11-13T20:13:36.444+01:00","modified":"2025-11-13T21:02:28.921+01:00","published":"2025-11-13T21:02:28.921+01:00","tags":["spell"],"cssclasses":"","Level":8,"School":"Transmutation","CastingTime":"Action","Range":"500 feet","Components":["V","S","M"],"Material":"a fractured rock","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":"12d6","Damage Type":"Bludgeoning","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric","Druid","Sorcerer"]}
 ---
 
 

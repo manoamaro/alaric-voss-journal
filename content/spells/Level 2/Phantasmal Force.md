@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.176+01:00","modified":"2025-11-14T10:10:23.176+01:00","published":"2025-11-14T10:10:23.176+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Illusion","CastingTime":"Action","Range":"60 feet","Components":["V","S","M"],"Material":"a bit of fleece","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":"2d8","Damage Type":"Psychic","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Sorcerer","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.376+01:00","modified":"2025-11-13T20:13:36.376+01:00","published":"2025-11-13T20:13:36.376+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Illusion","CastingTime":"Action","Range":"60 feet","Components":["V","S","M"],"Material":"a bit of fleece","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":"2d8","Damage Type":"Psychic","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Sorcerer","Wizard"]}
 ---
 
 

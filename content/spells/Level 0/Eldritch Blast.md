@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.167+01:00","modified":"2025-11-14T10:10:23.167+01:00","published":"2025-11-14T10:10:23.167+01:00","tags":["spell"],"cssclasses":"","Level":0,"School":"Evocation","CastingTime":"Action","Range":"120 feet","Components":["V","S"],"Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"1d10","Damage Type":"Force","Upgrade":"Cantrip Upgrade. The spell creates two beams at level 5, three beams at level 11, and four beams at level 17. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam","Spell Book":false,"Prepared":false,"Classes":["Warlock"]}
+{"publish":true,"created":"2025-11-13T20:13:36.354+01:00","modified":"2025-11-13T20:13:36.354+01:00","published":"2025-11-13T20:13:36.354+01:00","tags":["spell"],"cssclasses":"","Level":0,"School":"Evocation","CastingTime":"Action","Range":"120 feet","Components":["V","S"],"Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"1d10","Damage Type":"Force","Upgrade":"Cantrip Upgrade. The spell creates two beams at level 5, three beams at level 11, and four beams at level 17. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam","Spell Book":false,"Prepared":false,"Classes":["Warlock"]}
 ---
 
 

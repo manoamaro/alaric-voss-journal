@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.174+01:00","modified":"2025-11-14T10:10:23.174+01:00","published":"2025-11-14T10:10:23.174+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Transmutation","CastingTime":"Action","Range":"Touch","Components":["V","S","M"],"Material":"an ornamental braid","Concentration":false,"Duration":"8 hours","Ritual":false,"Damage":"2d4","Damage Type":"Piercing","Upgrade":"Using a Higher-Level Spell Slot. The amount of ammunition that can be affected increases by two for each spell slot level above 2.","Spell Book":false,"Prepared":false,"Classes":["Ranger"]}
+{"publish":true,"created":"2025-11-13T20:13:36.370+01:00","modified":"2025-11-13T20:13:36.370+01:00","published":"2025-11-13T20:13:36.370+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Transmutation","CastingTime":"Action","Range":"Touch","Components":["V","S","M"],"Material":"an ornamental braid","Concentration":false,"Duration":"8 hours","Ritual":false,"Damage":"2d4","Damage Type":"Piercing","Upgrade":"Using a Higher-Level Spell Slot. The amount of ammunition that can be affected increases by two for each spell slot level above 2.","Spell Book":false,"Prepared":false,"Classes":["Ranger"]}
 ---
 
 

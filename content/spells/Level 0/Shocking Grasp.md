@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.168+01:00","modified":"2025-11-14T10:10:23.168+01:00","published":"2025-11-14T10:10:23.168+01:00","tags":["spell"],"cssclasses":"","Level":0,"School":"Evocation","CastingTime":"Action","Range":"Touch","Components":["V","S"],"Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"1d8","Damage Type":"Lightning","Upgrade":"Cantrip Upgrade. The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8)","Spell Book":false,"Prepared":false,"Classes":["Sorcerer","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.356+01:00","modified":"2025-11-13T20:13:36.356+01:00","published":"2025-11-13T20:13:36.356+01:00","tags":["spell"],"cssclasses":"","Level":0,"School":"Evocation","CastingTime":"Action","Range":"Touch","Components":["V","S"],"Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"1d8","Damage Type":"Lightning","Upgrade":"Cantrip Upgrade. The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8)","Spell Book":false,"Prepared":false,"Classes":["Sorcerer","Wizard"]}
 ---
 
 

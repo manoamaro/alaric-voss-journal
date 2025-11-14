@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.174+01:00","modified":"2025-11-14T10:10:23.174+01:00","published":"2025-11-14T10:10:23.174+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Divination","CastingTime":"Action","Range":"120 feet","Components":["V","S"],"Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric","Druid","Ranger"]}
+{"publish":true,"created":"2025-11-13T20:13:36.372+01:00","modified":"2025-11-13T20:13:36.372+01:00","published":"2025-11-13T20:13:36.372+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Divination","CastingTime":"Action","Range":"120 feet","Components":["V","S"],"Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric","Druid","Ranger"]}
 ---
 
 

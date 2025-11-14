@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.187+01:00","modified":"2025-11-14T10:10:23.187+01:00","published":"2025-11-14T10:10:23.187+01:00","tags":["spell"],"cssclasses":"","Level":7,"School":"Illusion","CastingTime":"Action","Range":"500 miles","Components":["V","S","M"],"Material":"a statuette of yourself worth 5+ GP","Concentration":true,"Duration":"up to 1 day","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.437+01:00","modified":"2025-11-13T20:13:36.438+01:00","published":"2025-11-13T20:13:36.438+01:00","tags":["spell"],"cssclasses":"","Level":7,"School":"Illusion","CastingTime":"Action","Range":"500 miles","Components":["V","S","M"],"Material":"a statuette of yourself worth 5+ GP","Concentration":true,"Duration":"up to 1 day","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Wizard"]}
 ---
 
 

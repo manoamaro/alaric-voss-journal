@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.182+01:00","modified":"2025-11-14T10:10:23.182+01:00","published":"2025-11-14T10:10:23.182+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Transmutation","CastingTime":"8 hours","Range":"Touch","Components":["V","S","M"],"Material":"an agate worth 1,000+ GP, which the spell consumes","Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Druid"]}
+{"publish":true,"created":"2025-11-13T20:13:36.417+01:00","modified":"2025-11-13T20:13:36.417+01:00","published":"2025-11-13T20:13:36.417+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Transmutation","CastingTime":"8 hours","Range":"Touch","Components":["V","S","M"],"Material":"an agate worth 1,000+ GP, which the spell consumes","Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Druid"]}
 ---
 
 

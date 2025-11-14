@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.184+01:00","modified":"2025-11-14T10:10:23.184+01:00","published":"2025-11-14T10:10:23.184+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Evocation","CastingTime":"Action","Range":"120 feet","Components":["V","S","M"],"Material":"a cube of granite","Concentration":true,"Duration":"up to 10 minutes","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Druid","Sorcerer","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.425+01:00","modified":"2025-11-13T21:02:37.630+01:00","published":"2025-11-13T21:02:37.630+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Evocation","CastingTime":"Action","Range":"120 feet","Components":["V","S","M"],"Material":"a cube of granite","Concentration":true,"Duration":"up to 10 minutes","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Druid","Sorcerer","Wizard"]}
 ---
 
 

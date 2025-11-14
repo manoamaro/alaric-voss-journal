@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.171+01:00","modified":"2025-11-14T10:10:23.171+01:00","published":"2025-11-14T10:10:23.171+01:00","tags":["spell"],"cssclasses":"","Level":1,"School":"Conjuration","CastingTime":"1 hour or Ritual","Range":"10 feet","Components":["V","S","M"],"Material":"burning incense worth 10+ GP, which the spell consumes","Concentration":false,"Duration":"Instantaneous","Ritual":true,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":true,"Prepared":false,"Classes":["Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.361+01:00","modified":"2025-11-13T20:13:36.361+01:00","published":"2025-11-13T20:13:36.361+01:00","tags":["spell"],"cssclasses":"","Level":1,"School":"Conjuration","CastingTime":"1 hour or Ritual","Range":"10 feet","Components":["V","S","M"],"Material":"burning incense worth 10+ GP, which the spell consumes","Concentration":false,"Duration":"Instantaneous","Ritual":true,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":true,"Prepared":false,"Classes":["Wizard"]}
 ---
 
 

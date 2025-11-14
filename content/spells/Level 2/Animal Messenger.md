@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.173+01:00","modified":"2025-11-14T10:10:23.173+01:00","published":"2025-11-14T10:10:23.173+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Enchantment","CastingTime":"Action or Ritual","Range":"30 feet","Components":["V","S","M"],"Material":"a morsel of food","Concentration":false,"Duration":"24 hours","Ritual":true,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. The spell's duration increases by 48 hours for each spell slot level above 2.","Spell Book":false,"Prepared":false,"Classes":["Bard","Druid","Ranger"]}
+{"publish":true,"created":"2025-11-13T20:13:36.366+01:00","modified":"2025-11-13T20:13:36.366+01:00","published":"2025-11-13T20:13:36.366+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Enchantment","CastingTime":"Action or Ritual","Range":"30 feet","Components":["V","S","M"],"Material":"a morsel of food","Concentration":false,"Duration":"24 hours","Ritual":true,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. The spell's duration increases by 48 hours for each spell slot level above 2.","Spell Book":false,"Prepared":false,"Classes":["Bard","Druid","Ranger"]}
 ---
 
 

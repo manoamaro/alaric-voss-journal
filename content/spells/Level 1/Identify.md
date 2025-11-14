@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.171+01:00","modified":"2025-11-14T10:10:23.172+01:00","published":"2025-11-14T10:10:23.172+01:00","tags":["spell"],"cssclasses":"","Level":1,"School":"Divination","CastingTime":"1 minute or Ritual","Range":"Touch","Components":["V","S","M"],"Material":"a pearl worth 100+ GP","Concentration":false,"Duration":"Instantaneous","Ritual":true,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":true,"Prepared":true,"Classes":["Bard","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.362+01:00","modified":"2025-11-13T20:13:36.362+01:00","published":"2025-11-13T20:13:36.362+01:00","tags":["spell"],"cssclasses":"","Level":1,"School":"Divination","CastingTime":"1 minute or Ritual","Range":"Touch","Components":["V","S","M"],"Material":"a pearl worth 100+ GP","Concentration":false,"Duration":"Instantaneous","Ritual":true,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":true,"Prepared":true,"Classes":["Bard","Wizard"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.172+01:00","modified":"2025-11-14T10:10:23.172+01:00","published":"2025-11-14T10:10:23.172+01:00","tags":["spell"],"cssclasses":"","Level":1,"School":"Abjuration","CastingTime":"#BonusAction","Range":"30 feet","Components":["V","S","M"],"Material":"a shard of glass from a mirror","Concentration":false,"Duration":"1 minute","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric"]}
+{"publish":true,"created":"2025-11-13T20:13:36.363+01:00","modified":"2025-11-13T20:13:36.363+01:00","published":"2025-11-13T20:13:36.363+01:00","tags":["spell"],"cssclasses":"","Level":1,"School":"Abjuration","CastingTime":"#BonusAction","Range":"30 feet","Components":["V","S","M"],"Material":"a shard of glass from a mirror","Concentration":false,"Duration":"1 minute","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric"]}
 ---
 
 

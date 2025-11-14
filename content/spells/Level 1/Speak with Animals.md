@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.172+01:00","modified":"2025-11-14T10:10:23.172+01:00","published":"2025-11-14T10:10:23.172+01:00","tags":["spell"],"cssclasses":"","Level":1,"School":"Divination","CastingTime":"Action or Ritual","Range":"Self","Components":["V","S"],"Concentration":false,"Duration":"10 minutes","Ritual":true,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Druid","Ranger","Warlock"]}
+{"publish":true,"created":"2025-11-13T20:13:36.364+01:00","modified":"2025-11-13T20:13:36.364+01:00","published":"2025-11-13T20:13:36.364+01:00","tags":["spell"],"cssclasses":"","Level":1,"School":"Divination","CastingTime":"Action or Ritual","Range":"Self","Components":["V","S"],"Concentration":false,"Duration":"10 minutes","Ritual":true,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Druid","Ranger","Warlock"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.188+01:00","modified":"2025-11-14T10:10:23.188+01:00","published":"2025-11-14T10:10:23.188+01:00","tags":["spell"],"cssclasses":"","Level":8,"School":"Enchantment","CastingTime":"1 hour","Range":"60 feet","Components":["V","S","M"],"Material":"a mix of vinegar and honey","Concentration":false,"Duration":"10 days","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Druid","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.443+01:00","modified":"2025-11-13T23:02:12.006+01:00","published":"2025-11-13T23:02:12.006+01:00","tags":["spell"],"cssclasses":"","Level":8,"School":"Enchantment","CastingTime":"1 hour","Range":"60 feet","Components":["V","S","M"],"Material":"a mix of vinegar and honey","Concentration":false,"Duration":"10 days","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Druid","Wizard"]}
 ---
 
 

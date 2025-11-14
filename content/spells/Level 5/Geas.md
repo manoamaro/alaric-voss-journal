@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.183+01:00","modified":"2025-11-14T10:10:23.183+01:00","published":"2025-11-14T10:10:23.183+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Enchantment","CastingTime":"1 minute","Range":"60 feet","Components":["V"],"Concentration":false,"Duration":"30 days","Ritual":false,"Damage":"5d10","Damage Type":"Psychic","Upgrade":"Using a Higher-Level Spell Slot. If you use a level 7 or 8 spell slot, the duration is 365 days. If you use a level 9 spell slot, the spell lasts until it is ended by one of the spells mentioned above.","Spell Book":false,"Prepared":false,"Classes":["Bard","Cleric","Druid","Paladin","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.420+01:00","modified":"2025-11-13T20:13:36.420+01:00","published":"2025-11-13T20:13:36.420+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Enchantment","CastingTime":"1 minute","Range":"60 feet","Components":["V"],"Concentration":false,"Duration":"30 days","Ritual":false,"Damage":"5d10","Damage Type":"Psychic","Upgrade":"Using a Higher-Level Spell Slot. If you use a level 7 or 8 spell slot, the duration is 365 days. If you use a level 9 spell slot, the spell lasts until it is ended by one of the spells mentioned above.","Spell Book":false,"Prepared":false,"Classes":["Bard","Cleric","Druid","Paladin","Wizard"]}
 ---
 
 

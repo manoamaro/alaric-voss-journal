@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.177+01:00","modified":"2025-11-14T10:10:23.177+01:00","published":"2025-11-14T10:10:23.177+01:00","tags":["spell"],"cssclasses":"","Level":3,"School":"Divination","CastingTime":"10 minutes","Range":"1 mile","Components":["V","S","M"],"Material":"a focus worth 100+ GP, either a jeweled horn for hearing or a glass eye for seeing","Concentration":true,"Duration":"up to 10 minutes","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Cleric","Sorcerer","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.382+01:00","modified":"2025-11-13T20:13:36.383+01:00","published":"2025-11-13T20:13:36.383+01:00","tags":["spell"],"cssclasses":"","Level":3,"School":"Divination","CastingTime":"10 minutes","Range":"1 mile","Components":["V","S","M"],"Material":"a focus worth 100+ GP, either a jeweled horn for hearing or a glass eye for seeing","Concentration":true,"Duration":"up to 10 minutes","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Cleric","Sorcerer","Wizard"]}
 ---
 
 

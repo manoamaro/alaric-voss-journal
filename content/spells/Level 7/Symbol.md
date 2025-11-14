@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.188+01:00","modified":"2025-11-14T10:10:23.188+01:00","published":"2025-11-14T10:10:23.188+01:00","tags":["spell"],"cssclasses":"","Level":7,"School":"Abjuration","CastingTime":"1 minute","Range":"Touch","Components":["V","S","M"],"Material":"powdered diamond worth 1,000+ GP, which the spell consumes","Concentration":false,"Duration":"Until dispelled or triggered","Ritual":false,"Damage":"10d10","Damage Type":"Necrotic","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Cleric","Druid","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.442+01:00","modified":"2025-11-13T20:13:36.442+01:00","published":"2025-11-13T20:13:36.442+01:00","tags":["spell"],"cssclasses":"","Level":7,"School":"Abjuration","CastingTime":"1 minute","Range":"Touch","Components":["V","S","M"],"Material":"powdered diamond worth 1,000+ GP, which the spell consumes","Concentration":false,"Duration":"Until dispelled or triggered","Ritual":false,"Damage":"10d10","Damage Type":"Necrotic","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Cleric","Druid","Wizard"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.176+01:00","modified":"2025-11-14T10:10:23.176+01:00","published":"2025-11-14T10:10:23.176+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Abjuration","CastingTime":"10 minutes","Range":"30 feet","Components":["V"],"Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. The healing increases by 1d8 for each spell slot level above 2.","Spell Book":false,"Prepared":false,"Classes":["Cleric","Paladin"]}
+{"publish":true,"created":"2025-11-13T20:13:36.376+01:00","modified":"2025-11-13T20:13:36.377+01:00","published":"2025-11-13T20:13:36.377+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Abjuration","CastingTime":"10 minutes","Range":"30 feet","Components":["V"],"Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. The healing increases by 1d8 for each spell slot level above 2.","Spell Book":false,"Prepared":false,"Classes":["Cleric","Paladin"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.178+01:00","modified":"2025-11-14T10:10:23.178+01:00","published":"2025-11-14T10:10:23.178+01:00","tags":["spell"],"cssclasses":"","Level":3,"School":"Evocation","CastingTime":"Action","Range":"150 feet","Components":["V","S","M"],"Material":"a ball of bat guano and sulfur","Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"8d6","Damage Type":"Fire","Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 1d6 for each spell slot level above 3.","Spell Book":false,"Prepared":false,"Classes":["Sorcerer","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.385+01:00","modified":"2025-11-13T20:13:36.385+01:00","published":"2025-11-13T20:13:36.385+01:00","tags":["spell"],"cssclasses":"","Level":3,"School":"Evocation","CastingTime":"Action","Range":"150 feet","Components":["V","S","M"],"Material":"a ball of bat guano and sulfur","Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"8d6","Damage Type":"Fire","Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 1d6 for each spell slot level above 3.","Spell Book":false,"Prepared":false,"Classes":["Sorcerer","Wizard"]}
 ---
 
 

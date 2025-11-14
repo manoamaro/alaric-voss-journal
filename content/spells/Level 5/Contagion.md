@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.183+01:00","modified":"2025-11-14T10:10:23.183+01:00","published":"2025-11-14T10:10:23.183+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Necromancy","CastingTime":"Action","Range":"Touch","Components":["V","S"],"Concentration":false,"Duration":"7 days","Ritual":false,"Damage":"11d8","Damage Type":"Necrotic","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric","Druid"]}
+{"publish":true,"created":"2025-11-13T20:13:36.419+01:00","modified":"2025-11-13T20:13:36.419+01:00","published":"2025-11-13T20:13:36.419+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Necromancy","CastingTime":"Action","Range":"Touch","Components":["V","S"],"Concentration":false,"Duration":"7 days","Ritual":false,"Damage":"11d8","Damage Type":"Necrotic","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric","Druid"]}
 ---
 
 

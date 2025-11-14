@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.174+01:00","modified":"2025-11-14T10:10:23.174+01:00","published":"2025-11-14T10:10:23.174+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Transmutation","CastingTime":"Action","Range":"30 feet","Components":["V","S","M"],"Material":"a pinch of powdered iron","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":"1d4","Damage Type":"Less","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Artificer","Bard","Druid","Sorcerer","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.372+01:00","modified":"2025-11-13T20:13:36.372+01:00","published":"2025-11-13T20:13:36.372+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Transmutation","CastingTime":"Action","Range":"30 feet","Components":["V","S","M"],"Material":"a pinch of powdered iron","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":"1d4","Damage Type":"Less","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Artificer","Bard","Druid","Sorcerer","Wizard"]}
 ---
 
 

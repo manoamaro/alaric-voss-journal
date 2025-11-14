@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.175+01:00","modified":"2025-11-14T10:10:23.175+01:00","published":"2025-11-14T10:10:23.175+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Necromancy","CastingTime":"Action or Ritual","Range":"Touch","Components":["V","S","M"],"Material":"2 copper pieces, which the spell consume","Concentration":false,"Duration":"10 days","Ritual":true,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric","Paladin","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.373+01:00","modified":"2025-11-13T20:13:36.373+01:00","published":"2025-11-13T20:13:36.373+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Necromancy","CastingTime":"Action or Ritual","Range":"Touch","Components":["V","S","M"],"Material":"2 copper pieces, which the spell consume","Concentration":false,"Duration":"10 days","Ritual":true,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric","Paladin","Wizard"]}
 ---
 
 

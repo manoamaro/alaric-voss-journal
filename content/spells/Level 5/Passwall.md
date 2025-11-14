@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.183+01:00","modified":"2025-11-14T10:10:23.184+01:00","published":"2025-11-14T10:10:23.184+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Transmutation","CastingTime":"Action","Range":"30 feet","Components":["V","S","M"],"Material":"a pinch of sesame seads","Concentration":false,"Duration":"1 hour","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.422+01:00","modified":"2025-11-13T20:13:36.422+01:00","published":"2025-11-13T20:13:36.422+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Transmutation","CastingTime":"Action","Range":"30 feet","Components":["V","S","M"],"Material":"a pinch of sesame seads","Concentration":false,"Duration":"1 hour","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Wizard"]}
 ---
 
 

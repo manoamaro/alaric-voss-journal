@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.172+01:00","modified":"2025-11-14T10:10:23.172+01:00","published":"2025-11-14T10:10:23.172+01:00","tags":["spell"],"cssclasses":"","Level":1,"School":"Abjuration","CastingTime":"Action","Range":"Touch","Components":["V","S","M"],"Material":"a piece of cured leather","Concentration":false,"Duration":"8 hours","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":true,"Prepared":true,"Classes":["Sorcerer","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.363+01:00","modified":"2025-11-13T20:13:36.363+01:00","published":"2025-11-13T20:13:36.363+01:00","tags":["spell"],"cssclasses":"","Level":1,"School":"Abjuration","CastingTime":"Action","Range":"Touch","Components":["V","S","M"],"Material":"a piece of cured leather","Concentration":false,"Duration":"8 hours","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":true,"Prepared":true,"Classes":["Sorcerer","Wizard"]}
 ---
 
 

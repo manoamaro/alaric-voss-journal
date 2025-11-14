@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.185+01:00","modified":"2025-11-14T10:10:23.185+01:00","published":"2025-11-14T10:10:23.185+01:00","tags":["spell"],"cssclasses":"","Level":6,"School":"Transmutation","CastingTime":"Action","Range":"60 feet","Components":["V","S","M"],"Material":"a lodestone and dust","Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"10d6 + 40","Damage Type":"Force","Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 3d6 for each spell slot level above 6","Spell Book":false,"Prepared":false,"Classes":["Sorcerer","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.427+01:00","modified":"2025-11-13T20:13:36.427+01:00","published":"2025-11-13T20:13:36.427+01:00","tags":["spell"],"cssclasses":"","Level":6,"School":"Transmutation","CastingTime":"Action","Range":"60 feet","Components":["V","S","M"],"Material":"a lodestone and dust","Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"10d6 + 40","Damage Type":"Force","Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 3d6 for each spell slot level above 6","Spell Book":false,"Prepared":false,"Classes":["Sorcerer","Wizard"]}
 ---
 
 

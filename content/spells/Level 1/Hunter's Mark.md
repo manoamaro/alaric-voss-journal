@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.171+01:00","modified":"2025-11-14T10:10:23.171+01:00","published":"2025-11-14T10:10:23.171+01:00","tags":["spell"],"cssclasses":"","Level":1,"School":"Divination","CastingTime":"#BonusAction","Range":"90 feet","Components":["V"],"Concentration":true,"Duration":"up to 1 hour","Ritual":false,"Damage":"1d6","Damage Type":"Force","Upgrade":"Using a Higher-Level Spell Slot. Your #Concentration can last longer with a spell slot of level 3-4 (up to 8 hours) or 5+ (up to 24 hours).","Spell Book":false,"Prepared":false,"Classes":["Ranger"]}
+{"publish":true,"created":"2025-11-13T20:13:36.362+01:00","modified":"2025-11-13T21:02:41.694+01:00","published":"2025-11-13T21:02:41.694+01:00","tags":["spell"],"cssclasses":"","Level":1,"School":"Divination","CastingTime":"#BonusAction","Range":"90 feet","Components":["V"],"Concentration":true,"Duration":"up to 1 hour","Ritual":false,"Damage":"1d6","Damage Type":"Force","Upgrade":"Using a Higher-Level Spell Slot. Your #Concentration can last longer with a spell slot of level 3-4 (up to 8 hours) or 5+ (up to 24 hours).","Spell Book":false,"Prepared":false,"Classes":["Ranger"]}
 ---
 
 

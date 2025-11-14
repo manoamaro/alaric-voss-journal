@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.187+01:00","modified":"2025-11-14T10:10:23.188+01:00","published":"2025-11-14T10:10:23.188+01:00","tags":["spell"],"cssclasses":"","Level":7,"School":"Transmutation","CastingTime":"Action","Range":"Touch","Components":["V","S","M"],"Material":"gem dust worth 5,000+ GP, which the spell consumes","Concentration":false,"Duration":"Until dispelled","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.441+01:00","modified":"2025-11-13T20:13:36.441+01:00","published":"2025-11-13T20:13:36.441+01:00","tags":["spell"],"cssclasses":"","Level":7,"School":"Transmutation","CastingTime":"Action","Range":"Touch","Components":["V","S","M"],"Material":"gem dust worth 5,000+ GP, which the spell consumes","Concentration":false,"Duration":"Until dispelled","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Wizard"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.187+01:00","modified":"2025-11-14T10:10:23.187+01:00","published":"2025-11-14T10:10:23.187+01:00","tags":["spell"],"cssclasses":"","Level":7,"School":"Transmutation","CastingTime":"Action","Range":"100 feet","Components":["V","S","M"],"Material":"a lodestone and iron filings","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Druid","Sorcerer","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.441+01:00","modified":"2025-11-13T20:13:36.441+01:00","published":"2025-11-13T20:13:36.441+01:00","tags":["spell"],"cssclasses":"","Level":7,"School":"Transmutation","CastingTime":"Action","Range":"100 feet","Components":["V","S","M"],"Material":"a lodestone and iron filings","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Druid","Sorcerer","Wizard"]}
 ---
 
 

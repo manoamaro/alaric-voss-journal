@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.186+01:00","modified":"2025-11-14T10:10:23.186+01:00","published":"2025-11-14T10:10:23.186+01:00","tags":["spell"],"cssclasses":"","Level":6,"School":"Enchantment","CastingTime":"Action","Range":"60 feet","Components":["V","M"],"Material":"a snake's tongue","Concentration":false,"Duration":"24 hours","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. The duration is longer with a spell slot of level 7 (10 days), 8 (30 days), or 9 (366 days)","Spell Book":false,"Prepared":false,"Classes":["Bard","Sorcerer","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.429+01:00","modified":"2025-11-13T20:13:36.429+01:00","published":"2025-11-13T20:13:36.429+01:00","tags":["spell"],"cssclasses":"","Level":6,"School":"Enchantment","CastingTime":"Action","Range":"60 feet","Components":["V","M"],"Material":"a snake's tongue","Concentration":false,"Duration":"24 hours","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. The duration is longer with a spell slot of level 7 (10 days), 8 (30 days), or 9 (366 days)","Spell Book":false,"Prepared":false,"Classes":["Bard","Sorcerer","Wizard"]}
 ---
 
 

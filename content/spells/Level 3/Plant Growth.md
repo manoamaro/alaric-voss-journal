@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.179+01:00","modified":"2025-11-14T10:10:23.179+01:00","published":"2025-11-14T10:10:23.179+01:00","tags":["spell"],"cssclasses":"","Level":3,"School":"Transmutation","CastingTime":"Action (Overgrowth) or 8 hours (Enrichment)","Range":"150 feet","Components":["V","S"],"Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Druid","Ranger"]}
+{"publish":true,"created":"2025-11-13T20:13:36.388+01:00","modified":"2025-11-13T20:13:36.388+01:00","published":"2025-11-13T20:13:36.388+01:00","tags":["spell"],"cssclasses":"","Level":3,"School":"Transmutation","CastingTime":"Action (Overgrowth) or 8 hours (Enrichment)","Range":"150 feet","Components":["V","S"],"Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Druid","Ranger"]}
 ---
 
 

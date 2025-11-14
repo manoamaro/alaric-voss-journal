@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.189+01:00","modified":"2025-11-14T10:10:23.189+01:00","published":"2025-11-14T10:10:23.189+01:00","tags":["spell"],"cssclasses":"","Level":8,"School":"Conjuration","CastingTime":"1 minute","Range":"1 mile","Components":["V","S"],"Concentration":true,"Duration":"up to 6 rounds","Ritual":false,"Damage":"6d10","Damage Type":"Bludgeoning","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Druid"]}
+{"publish":true,"created":"2025-11-13T20:13:36.446+01:00","modified":"2025-11-13T20:13:36.446+01:00","published":"2025-11-13T20:13:36.446+01:00","tags":["spell"],"cssclasses":"","Level":8,"School":"Conjuration","CastingTime":"1 minute","Range":"1 mile","Components":["V","S"],"Concentration":true,"Duration":"up to 6 rounds","Ritual":false,"Damage":"6d10","Damage Type":"Bludgeoning","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Druid"]}
 ---
 
 

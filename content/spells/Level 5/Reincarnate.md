@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.184+01:00","modified":"2025-11-14T10:10:23.184+01:00","published":"2025-11-14T10:10:23.184+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Necromancy","CastingTime":"1 hour","Range":"Touch","Components":["V","S","M"],"Material":"rare oils worth 1,000+ GP, which the spell consumes","Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Druid"]}
+{"publish":true,"created":"2025-11-13T20:13:36.423+01:00","modified":"2025-11-13T23:04:17.539+01:00","published":"2025-11-13T23:04:17.539+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Necromancy","CastingTime":"1 hour","Range":"Touch","Components":["V","S","M"],"Material":"rare oils worth 1,000+ GP, which the spell consumes","Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Druid"]}
 ---
 
 

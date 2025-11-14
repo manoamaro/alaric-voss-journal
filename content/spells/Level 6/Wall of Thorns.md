@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.186+01:00","modified":"2025-11-14T10:10:23.186+01:00","published":"2025-11-14T10:10:23.186+01:00","tags":["spell"],"cssclasses":"","Level":6,"School":"Conjuration","CastingTime":"Action","Range":"120 feet","Components":["V","S","M"],"Material":"a handful of thorns","Concentration":true,"Duration":"up to 10 minutes","Ritual":false,"Damage":"7d8","Damage Type":"Piercing","Upgrade":"Using a Higher-Level Spell Slot. Both types of damage increase by 1d8 for each spell slot level above 6","Spell Book":false,"Prepared":false,"Classes":["Druid"]}
+{"publish":true,"created":"2025-11-13T20:13:36.431+01:00","modified":"2025-11-13T20:13:36.432+01:00","published":"2025-11-13T20:13:36.432+01:00","tags":["spell"],"cssclasses":"","Level":6,"School":"Conjuration","CastingTime":"Action","Range":"120 feet","Components":["V","S","M"],"Material":"a handful of thorns","Concentration":true,"Duration":"up to 10 minutes","Ritual":false,"Damage":"7d8","Damage Type":"Piercing","Upgrade":"Using a Higher-Level Spell Slot. Both types of damage increase by 1d8 for each spell slot level above 6","Spell Book":false,"Prepared":false,"Classes":["Druid"]}
 ---
 
 

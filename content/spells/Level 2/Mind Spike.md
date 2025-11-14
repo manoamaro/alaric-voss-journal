@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.175+01:00","modified":"2025-11-14T10:10:23.175+01:00","published":"2025-11-14T10:10:23.175+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Divination","CastingTime":"Action","Range":"120 feet","Components":["S"],"Concentration":true,"Duration":"up to 1 hour","Ritual":false,"Damage":"3d8","Damage Type":"Psychic","Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 1d8 for each spell slot level above 2","Spell Book":true,"Prepared":true,"Classes":["Sorcerer","Warlock","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.375+01:00","modified":"2025-11-13T20:13:36.375+01:00","published":"2025-11-13T20:13:36.375+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Divination","CastingTime":"Action","Range":"120 feet","Components":["S"],"Concentration":true,"Duration":"up to 1 hour","Ritual":false,"Damage":"3d8","Damage Type":"Psychic","Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 1d8 for each spell slot level above 2","Spell Book":true,"Prepared":true,"Classes":["Sorcerer","Warlock","Wizard"]}
 ---
 
 

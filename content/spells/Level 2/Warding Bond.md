@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.177+01:00","modified":"2025-11-14T10:10:23.177+01:00","published":"2025-11-14T10:10:23.177+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Abjuration","CastingTime":"Action","Range":"Touch","Components":["V","S","M"],"Material":"a pair of platinum rings worth 50+ GP each, which you and the target must wear for the duration","Concentration":false,"Duration":"1 hour","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric","Paladin"]}
+{"publish":true,"created":"2025-11-13T20:13:36.380+01:00","modified":"2025-11-13T20:13:36.380+01:00","published":"2025-11-13T20:13:36.380+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Abjuration","CastingTime":"Action","Range":"Touch","Components":["V","S","M"],"Material":"a pair of platinum rings worth 50+ GP each, which you and the target must wear for the duration","Concentration":false,"Duration":"1 hour","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric","Paladin"]}
 ---
 
 

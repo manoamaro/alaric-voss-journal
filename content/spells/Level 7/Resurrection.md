@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.187+01:00","modified":"2025-11-14T10:10:23.187+01:00","published":"2025-11-14T10:10:23.187+01:00","tags":["spell"],"cssclasses":"","Level":7,"School":"Necromancy","CastingTime":"1 hour","Range":"Touch","Components":["V","S","M"],"Material":"a diamond worth 1,000+ GP, which the spell consumes","Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Cleric"]}
+{"publish":true,"created":"2025-11-13T20:13:36.440+01:00","modified":"2025-11-13T20:13:36.441+01:00","published":"2025-11-13T20:13:36.441+01:00","tags":["spell"],"cssclasses":"","Level":7,"School":"Necromancy","CastingTime":"1 hour","Range":"Touch","Components":["V","S","M"],"Material":"a diamond worth 1,000+ GP, which the spell consumes","Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Cleric"]}
 ---
 
 

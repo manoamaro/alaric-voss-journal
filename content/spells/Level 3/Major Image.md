@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.178+01:00","modified":"2025-11-14T10:10:23.178+01:00","published":"2025-11-14T10:10:23.178+01:00","tags":["spell"],"cssclasses":"","Level":3,"School":"Illusion","CastingTime":"Action","Range":"120 feet","Components":["V","S","M"],"Material":"a bit of fleece","Concentration":true,"Duration":"up to 10 minutes","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. The spell lasts until dispelled, without requiring #Concentration, if cast with a level 4+ spell slot","Spell Book":false,"Prepared":false,"Classes":["Bard","Sorcerer","Warlock","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.387+01:00","modified":"2025-11-13T21:02:32.120+01:00","published":"2025-11-13T21:02:32.120+01:00","tags":["spell"],"cssclasses":"","Level":3,"School":"Illusion","CastingTime":"Action","Range":"120 feet","Components":["V","S","M"],"Material":"a bit of fleece","Concentration":true,"Duration":"up to 10 minutes","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. The spell lasts until dispelled, without requiring #Concentration, if cast with a level 4+ spell slot","Spell Book":false,"Prepared":false,"Classes":["Bard","Sorcerer","Warlock","Wizard"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.185+01:00","modified":"2025-11-14T10:10:23.185+01:00","published":"2025-11-14T10:10:23.185+01:00","tags":["spell"],"cssclasses":"","Level":6,"School":"Conjuration","CastingTime":"Action","Range":"60 feet","Components":["V","S"],"Concentration":true,"Duration":"up to 10 minutes","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 2d12 for each spell slot level above 6","Spell Book":false,"Prepared":false,"Classes":["Druid"]}
+{"publish":true,"created":"2025-11-13T20:13:36.427+01:00","modified":"2025-11-13T20:13:36.427+01:00","published":"2025-11-13T20:13:36.427+01:00","tags":["spell"],"cssclasses":"","Level":6,"School":"Conjuration","CastingTime":"Action","Range":"60 feet","Components":["V","S"],"Concentration":true,"Duration":"up to 10 minutes","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 2d12 for each spell slot level above 6","Spell Book":false,"Prepared":false,"Classes":["Druid"]}
 ---
 
 

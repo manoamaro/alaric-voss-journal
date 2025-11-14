@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.189+01:00","modified":"2025-11-14T10:10:23.189+01:00","published":"2025-11-14T10:10:23.189+01:00","tags":["spell"],"cssclasses":"","Level":8,"School":"Evocation","CastingTime":"Action","Range":"150 feet","Components":["V","S","M"],"Material":"piece of sunstone","Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"12d6","Damage Type":"Radiant","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric","Druid","Sorcerer","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.445+01:00","modified":"2025-11-13T20:13:36.446+01:00","published":"2025-11-13T20:13:36.446+01:00","tags":["spell"],"cssclasses":"","Level":8,"School":"Evocation","CastingTime":"Action","Range":"150 feet","Components":["V","S","M"],"Material":"piece of sunstone","Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"12d6","Damage Type":"Radiant","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric","Druid","Sorcerer","Wizard"]}
 ---
 
 

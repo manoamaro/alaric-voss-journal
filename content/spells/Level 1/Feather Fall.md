@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.171+01:00","modified":"2025-11-14T10:10:23.171+01:00","published":"2025-11-14T10:10:23.171+01:00","tags":["spell"],"cssclasses":"","Level":1,"School":"Transmutation","CastingTime":"#Reaction, which you take when you or a creature you can see within 60 feet of you falls","Range":"60 feet","Components":["V","M"],"Material":"a small feather or piece of down","Concentration":false,"Duration":"1 minute","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":true,"Prepared":false,"Classes":["Bard","Sorcerer","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.361+01:00","modified":"2025-11-13T20:13:36.361+01:00","published":"2025-11-13T20:13:36.361+01:00","tags":["spell"],"cssclasses":"","Level":1,"School":"Transmutation","CastingTime":"#Reaction, which you take when you or a creature you can see within 60 feet of you falls","Range":"60 feet","Components":["V","M"],"Material":"a small feather or piece of down","Concentration":false,"Duration":"1 minute","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":true,"Prepared":false,"Classes":["Bard","Sorcerer","Wizard"]}
 ---
 
 

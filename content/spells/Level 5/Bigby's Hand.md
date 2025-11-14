@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.182+01:00","modified":"2025-11-14T10:10:23.182+01:00","published":"2025-11-14T10:10:23.182+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Evocation","CastingTime":"Action","Range":"120 feet","Components":["V","S","M"],"Material":"an eggshell and a glove","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":"5d8","Damage Type":"Force","Upgrade":"Using a Higher-Level Spell Slot. The damage of the Clenched Fist increases by 2d8 and the damage of the Grasping Hand increases by 2d6 for each spell slot level above 5","Spell Book":false,"Prepared":false,"Classes":["Sorcerer","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.417+01:00","modified":"2025-11-13T20:13:36.418+01:00","published":"2025-11-13T20:13:36.418+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Evocation","CastingTime":"Action","Range":"120 feet","Components":["V","S","M"],"Material":"an eggshell and a glove","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":"5d8","Damage Type":"Force","Upgrade":"Using a Higher-Level Spell Slot. The damage of the Clenched Fist increases by 2d8 and the damage of the Grasping Hand increases by 2d6 for each spell slot level above 5","Spell Book":false,"Prepared":false,"Classes":["Sorcerer","Wizard"]}
 ---
 
 

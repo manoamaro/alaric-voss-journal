@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.168+01:00","modified":"2025-11-14T10:10:23.168+01:00","published":"2025-11-14T10:10:23.168+01:00","tags":["spell"],"cssclasses":"","Level":0,"School":"Necromancy","CastingTime":"Action","Range":"30 feet","Components":["V","S"],"Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"1d12","Damage Type":"Poison","Upgrade":"Cantrip Upgrade. The damage increases by 1d12 when you reach levels 5 (2d12), 11 (3d12), and 17 (4d12)","Spell Book":false,"Prepared":false,"Classes":["Druid","Sorcerer","Warlock","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.355+01:00","modified":"2025-11-13T20:13:36.355+01:00","published":"2025-11-13T20:13:36.355+01:00","tags":["spell"],"cssclasses":"","Level":0,"School":"Necromancy","CastingTime":"Action","Range":"30 feet","Components":["V","S"],"Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"1d12","Damage Type":"Poison","Upgrade":"Cantrip Upgrade. The damage increases by 1d12 when you reach levels 5 (2d12), 11 (3d12), and 17 (4d12)","Spell Book":false,"Prepared":false,"Classes":["Druid","Sorcerer","Warlock","Wizard"]}
 ---
 
 

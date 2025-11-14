@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.189+01:00","modified":"2025-11-14T10:10:23.189+01:00","published":"2025-11-14T10:10:23.189+01:00","tags":["spell"],"cssclasses":"","Level":9,"School":"Necromancy","CastingTime":"1 hour","Range":"10 feet","Components":["V","S","M"],"Material":"for each of the spell's targes, one jacinth worth 1,000+ GP, all of which the spell consumes","Concentration":false,"Duration":"Until dispelled","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric","Warlock","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.446+01:00","modified":"2025-11-13T21:02:01.298+01:00","published":"2025-11-13T21:02:01.298+01:00","tags":["spell"],"cssclasses":"","Level":9,"School":"Necromancy","CastingTime":"1 hour","Range":"10 feet","Components":["V","S","M"],"Material":"for each of the spell's targes, one jacinth worth 1,000+ GP, all of which the spell consumes","Concentration":false,"Duration":"Until dispelled","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric","Warlock","Wizard"]}
 ---
 
 

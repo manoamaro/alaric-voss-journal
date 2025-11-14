@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.178+01:00","modified":"2025-11-14T10:10:23.178+01:00","published":"2025-11-14T10:10:23.178+01:00","tags":["spell"],"cssclasses":"","Level":3,"School":"Conjuration","CastingTime":"Action","Range":"150 feet","Components":["V","S","M"],"Material":"a pickled tentacle","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":"2d6","Damage Type":"Cold","Upgrade":"Using a Higher-Level Spell Slot. The Cold or Acid damage (your choice) increases by 1d6 for each spell slot level above 3.","Spell Book":false,"Prepared":false,"Classes":["Warlock"]}
+{"publish":true,"created":"2025-11-13T20:13:36.386+01:00","modified":"2025-11-13T20:13:36.386+01:00","published":"2025-11-13T20:13:36.386+01:00","tags":["spell"],"cssclasses":"","Level":3,"School":"Conjuration","CastingTime":"Action","Range":"150 feet","Components":["V","S","M"],"Material":"a pickled tentacle","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":"2d6","Damage Type":"Cold","Upgrade":"Using a Higher-Level Spell Slot. The Cold or Acid damage (your choice) increases by 1d6 for each spell slot level above 3.","Spell Book":false,"Prepared":false,"Classes":["Warlock"]}
 ---
 
 

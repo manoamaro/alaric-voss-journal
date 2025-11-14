@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.187+01:00","modified":"2025-11-14T10:10:23.187+01:00","published":"2025-11-14T10:10:23.187+01:00","tags":["spell"],"cssclasses":"","Level":7,"School":"Evocation","CastingTime":"Action","Range":"90 feet","Components":["V","S","M"],"Material":"a miniature sword worth 250+ GP","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.434+01:00","modified":"2025-11-13T20:13:36.434+01:00","published":"2025-11-13T20:13:36.434+01:00","tags":["spell"],"cssclasses":"","Level":7,"School":"Evocation","CastingTime":"Action","Range":"90 feet","Components":["V","S","M"],"Material":"a miniature sword worth 250+ GP","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Wizard"]}
 ---
 
 

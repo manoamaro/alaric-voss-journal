@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.170+01:00","modified":"2025-11-14T10:10:23.170+01:00","published":"2025-11-14T10:10:23.170+01:00","tags":["spell"],"cssclasses":"","Level":1,"School":"Enchantment","CastingTime":"Action","Range":"60 feet","Components":["V"],"Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. You can affect one additional creature for each spell slot level above 1.","Spell Book":false,"Prepared":false,"Classes":["Bard","Cleric","Paladin"]}
+{"publish":true,"created":"2025-11-13T20:13:36.358+01:00","modified":"2025-11-13T20:13:36.359+01:00","published":"2025-11-13T20:13:36.359+01:00","tags":["spell"],"cssclasses":"","Level":1,"School":"Enchantment","CastingTime":"Action","Range":"60 feet","Components":["V"],"Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. You can affect one additional creature for each spell slot level above 1.","Spell Book":false,"Prepared":false,"Classes":["Bard","Cleric","Paladin"]}
 ---
 
 

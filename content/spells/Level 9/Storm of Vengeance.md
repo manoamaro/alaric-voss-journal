@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.190+01:00","modified":"2025-11-14T10:10:23.190+01:00","published":"2025-11-14T10:10:23.190+01:00","tags":["spell"],"cssclasses":"","Level":9,"School":"Conjuration","CastingTime":"Action","Range":"1 mile","Components":["V","S"],"Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":"2d6","Damage Type":"Thunder","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Druid"]}
+{"publish":true,"created":"2025-11-13T20:13:36.448+01:00","modified":"2025-11-13T20:13:36.448+01:00","published":"2025-11-13T20:13:36.448+01:00","tags":["spell"],"cssclasses":"","Level":9,"School":"Conjuration","CastingTime":"Action","Range":"1 mile","Components":["V","S"],"Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":"2d6","Damage Type":"Thunder","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Druid"]}
 ---
 
 

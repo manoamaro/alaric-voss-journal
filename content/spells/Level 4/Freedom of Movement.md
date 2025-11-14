@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.181+01:00","modified":"2025-11-14T10:10:23.181+01:00","published":"2025-11-14T10:10:23.181+01:00","tags":["spell"],"cssclasses":"","Level":4,"School":"Abjuration","CastingTime":"Action","Range":"Touch","Components":["V","S","M"],"Material":"a leather strap","Concentration":false,"Duration":"1 hour","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. You can target one additional creature for each spell slot level above 4.","Spell Book":false,"Prepared":false,"Classes":["Bard","Cleric","Druid","Ranger"]}
+{"publish":true,"created":"2025-11-13T20:13:36.406+01:00","modified":"2025-11-13T20:13:36.406+01:00","published":"2025-11-13T20:13:36.406+01:00","tags":["spell"],"cssclasses":"","Level":4,"School":"Abjuration","CastingTime":"Action","Range":"Touch","Components":["V","S","M"],"Material":"a leather strap","Concentration":false,"Duration":"1 hour","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. You can target one additional creature for each spell slot level above 4.","Spell Book":false,"Prepared":false,"Classes":["Bard","Cleric","Druid","Ranger"]}
 ---
 
 

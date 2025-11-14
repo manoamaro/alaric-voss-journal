@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.190+01:00","modified":"2025-11-14T10:10:23.190+01:00","published":"2025-11-14T10:10:23.190+01:00","tags":["spell"],"cssclasses":"","Level":9,"School":"Transmutation","CastingTime":"Action","Range":"30 feet","Components":["V","S","M"],"Material":"a drop of mercury, a dollop of gum arabic, and a wisp of smoke","Concentration":true,"Duration":"up to 1 hour","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Warlock","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.448+01:00","modified":"2025-11-13T21:02:39.613+01:00","published":"2025-11-13T21:02:39.613+01:00","tags":["spell"],"cssclasses":"","Level":9,"School":"Transmutation","CastingTime":"Action","Range":"30 feet","Components":["V","S","M"],"Material":"a drop of mercury, a dollop of gum arabic, and a wisp of smoke","Concentration":true,"Duration":"up to 1 hour","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Warlock","Wizard"]}
 ---
 
 

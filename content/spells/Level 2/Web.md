@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.177+01:00","modified":"2025-11-14T10:10:23.177+01:00","published":"2025-11-14T10:10:23.177+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Conjuration","CastingTime":"Action","Range":"60 feet","Components":["V","S","M"],"Material":"a bit of spiderweb","Concentration":true,"Duration":"up to 1 hour","Ritual":false,"Damage":"2d4","Damage Type":"Fire","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Sorcerer","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.380+01:00","modified":"2025-11-13T20:13:36.380+01:00","published":"2025-11-13T20:13:36.380+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Conjuration","CastingTime":"Action","Range":"60 feet","Components":["V","S","M"],"Material":"a bit of spiderweb","Concentration":true,"Duration":"up to 1 hour","Ritual":false,"Damage":"2d4","Damage Type":"Fire","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Sorcerer","Wizard"]}
 ---
 
 

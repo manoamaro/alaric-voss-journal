@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.184+01:00","modified":"2025-11-14T10:10:23.184+01:00","published":"2025-11-14T10:10:23.184+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Divination","CastingTime":"10 minutes","Range":"Self","Components":["V","S","M"],"Material":"a focus worth 1,000+ GP, such as a crystal ball, mirror, or water-filled font","Concentration":true,"Duration":"up to 10 minutes","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Cleric","Druid","Warlock","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.423+01:00","modified":"2025-11-13T20:13:36.423+01:00","published":"2025-11-13T20:13:36.423+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Divination","CastingTime":"10 minutes","Range":"Self","Components":["V","S","M"],"Material":"a focus worth 1,000+ GP, such as a crystal ball, mirror, or water-filled font","Concentration":true,"Duration":"up to 10 minutes","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Cleric","Druid","Warlock","Wizard"]}
 ---
 
 

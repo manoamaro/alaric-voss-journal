@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.176+01:00","modified":"2025-11-14T10:10:23.176+01:00","published":"2025-11-14T10:10:23.176+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Evocation","CastingTime":"Action","Range":"60 feet","Components":["V","S","M"],"Material":"a chip of mica","Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"3d8","Damage Type":"Thunder","Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 1d8 for each spell slot level above 2","Spell Book":false,"Prepared":false,"Classes":["Bard","Sorcerer","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.378+01:00","modified":"2025-11-13T20:13:36.378+01:00","published":"2025-11-13T20:13:36.378+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Evocation","CastingTime":"Action","Range":"60 feet","Components":["V","S","M"],"Material":"a chip of mica","Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":"3d8","Damage Type":"Thunder","Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 1d8 for each spell slot level above 2","Spell Book":false,"Prepared":false,"Classes":["Bard","Sorcerer","Wizard"]}
 ---
 
 

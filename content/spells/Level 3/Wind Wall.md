@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-14T10:10:23.180+01:00","modified":"2025-11-14T10:10:23.180+01:00","published":"2025-11-14T10:10:23.180+01:00","tags":["spell"],"cssclasses":"","Level":3,"School":"Evocation","CastingTime":"Action","Range":"120 feet","Components":["V","S","M"],"Material":"a fan and a feather","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":"4d8","Damage Type":"Bludgeoning","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Druid","Ranger"]}
+{"publish":true,"created":"2025-11-13T20:13:36.391+01:00","modified":"2025-11-13T20:13:36.391+01:00","published":"2025-11-13T20:13:36.391+01:00","tags":["spell"],"cssclasses":"","Level":3,"School":"Evocation","CastingTime":"Action","Range":"120 feet","Components":["V","S","M"],"Material":"a fan and a feather","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":"4d8","Damage Type":"Bludgeoning","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Druid","Ranger"]}
 ---
 
 
