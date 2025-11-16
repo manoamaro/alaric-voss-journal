@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Alaric"],"created":"2025-11-14T12:23:16.249+01:00","modified":"2025-11-14T12:23:16.249+01:00","published":"2025-11-14T12:23:16.249+01:00","cssclasses":""}
+{"publish":true,"aliases":["Alaric"],"created":"2025-11-14T12:23:16.249+01:00","modified":"2025-11-15T23:35:13.669+01:00","published":"2025-11-15T23:35:13.669+01:00","cssclasses":""}
 ---
 
 ![[media/alaric_voss_portrait_1.jpg|400]]
@@ -32,5 +32,5 @@ My visions reveal a dark truth only I can decipher
 
 I seek forbidden knowledge even when it endangers other
 
-![[media/alaric_voss_neverwinter_01.jpg|300]]
+
 ![[media/alaric_voss_neverwinter_02.jpg|300]]

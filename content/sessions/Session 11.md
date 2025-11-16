@@ -1,15 +1,15 @@
 ---
-{"publish":true,"created":"2025-11-07","modified":"2025-11-14T12:23:16.253+01:00","published":"2025-11-07","tags":["session"],"cssclasses":"","date":"2025-11-07"}
+{"publish":true,"created":"2025-11-07","modified":"2025-11-16T12:36:48.780+01:00","published":"2025-11-07","tags":["session"],"cssclasses":"","date":"2025-11-07"}
 ---
 
 
 A lone raven stood motionless on the road, about a hundred feet ahead of the party. [[Alaric Voss\|Alaric]], [[compendium/characters/Van]], and [[compendium/characters/Orianna]] advanced cautiously, stopping within thirty feet. Extending his focus, [[Alaric Voss\|Alaric]] cast [[spells/Level 1/Detect Magic\|Detect Magic]]—a faint gray aura shimmered around the bird, laced with threads of Transmutation. He shared his findings quietly with [[compendium/characters/Orianna]].
 
-![[media/Session11/raven_entangled.jpg|300]]
+![[media/Session11/raven_entangled.jpg]]
 
 Then, without warning, a massive shape plummeted from the sky—crashing into the ground fifty feet beyond the raven. A humanoid form, towering and unnatural. [[Alaric Voss\|Alaric]]’s trained eye recognized it as a [[compendium/study notes/Arcane Constructs\|Construct]]—an arcane entity animated by magical force rather than life. Yet this one differed from any he had studied at the [[compendium/locations/Neverwinter Academy]]. Its torso resembled a tree’s trunk wrapped in plates of bark, glowing veins pulsing beneath the surface. Its limbs were carved from ancient boughs, rooted feet gripping the earth, and broad wooden wings unfurled from its back, defying natural law. At its heart, nestled in the sacred fork of its body, pulsed a luminous core—the Crown-Core—the living heart of its magic.
 
-The Arboran Construct began to move, slow but deliberate, reaching an outstretched wooden arm toward the immobilized raven. Its hand opened, ready to seize the creature.
+The Arboran [[compendium/study notes/Arcane Constructs\|Construct]] began to move, slow but deliberate, reaching an outstretched wooden arm toward the immobilized raven. Its hand opened, ready to seize the creature.
 
 From the rear, [[compendium/characters/Brennick]]—standing about fifty feet behind—noticed a dark spiral forming above. A massive flock of ravens circled the construct, their wings blending with the mist. He tensed, drawing his sword in readiness.
 
@@ -17,13 +17,11 @@ From the rear, [[compendium/characters/Brennick]]—standing about fifty feet be
 
 Suddenly, the raven shot into the air—not of its own will. [[compendium/characters/Hugh]] had used Catapult, launching the creature skyward in a high arc toward [[compendium/characters/Brennick]]. Acting on instinct, [[compendium/characters/Orianna]] transformed into a lynx, sprinted forward, and leapt—catching the bird midair in her jaws before landing gracefully, unharmed.
 
-The construct reacted instantly. Its wooden form groaned as it turned toward the druid. The sky erupted in motion as two flocks of ravens dove to attack.
+The [[compendium/study notes/Arcane Constructs\|construct]] reacted instantly. Its wooden form groaned as it turned toward the druid. The sky erupted in motion as two flocks of ravens dove to attack.
 
-![[media/Session11/construct_2.jpg|600]]
+![[media/Session11/construct_2.jpg]]
 
 # Encounter begins
-
-
 
 Initiative Order: Construct, [[compendium/characters/Orianna]], [[compendium/characters/Hugh]], [[compendium/characters/Van]], [[Alaric Voss\|Alaric]], [[compendium/characters/Ireena Kolyana\|Ireena]], Flock 1, Flock 2, [[compendium/characters/Brennick]].
 

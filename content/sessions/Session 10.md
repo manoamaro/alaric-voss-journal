@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-26","modified":"2025-11-14T15:27:55.991+01:00","published":"2025-10-26","tags":["session"],"cssclasses":"","date":"2025-10-26"}
+{"publish":true,"created":"2025-10-26","modified":"2025-11-15T00:13:19.027+01:00","published":"2025-10-26","tags":["session"],"cssclasses":"","date":"2025-10-26"}
 ---
 
 
@@ -28,6 +28,8 @@ The [[compendium/world/Dragonborns\|dragonborn]] [[compendium/characters/Hugh]] 
 At Bildrath’s Mercantile, [[Alaric Voss\|Alaric]] buys a healing potion. The group plans to travel to [[compendium/locations/Village Vallaki]]; [[Alaric Voss\|Alaric]] offers to guide them, recalling the road from [[compendium/characters/Stanimir]]’s camp. Rain begins as they travel. They rest briefly before continuing.
 
 During the journey, [[Alaric Voss\|Alaric]] overhears talk of undead and [[compendium/study notes/Vampiric Entities\|vampires]]. He recalls ancient texts describing their nature and confirms his suspicions about the region’s curse.
+
+![[media/session10/short_rest.jpg]]
 
 At the crossroads again, the gallows stand empty. When [[compendium/characters/Van]] asks his interest, [[Alaric Voss\|Alaric]] deflects, directing attention toward the road leading to [[compendium/characters/Madame Eva]]’s camp.
 
