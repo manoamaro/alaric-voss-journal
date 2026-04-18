@@ -1,9 +1,8 @@
 ---
-{"publish":true,"created":"2025-11-07","modified":"2025-11-16T12:36:48.780+01:00","published":"2025-11-07","tags":["session"],"cssclasses":"","date":"2025-11-07"}
+{"publish":true,"created":"2025-11-07","modified":"2025-11-16T17:40:03.409+01:00","published":"2025-11-07","tags":["session"],"cssclasses":"","date":"2025-11-07"}
 ---
 
-
-A lone raven stood motionless on the road, about a hundred feet ahead of the party. [[Alaric Voss\|Alaric]], [[compendium/characters/Van]], and [[compendium/characters/Orianna]] advanced cautiously, stopping within thirty feet. Extending his focus, [[Alaric Voss\|Alaric]] cast [[spells/Level 1/Detect Magic\|Detect Magic]]—a faint gray aura shimmered around the bird, laced with threads of Transmutation. He shared his findings quietly with [[compendium/characters/Orianna]].
+A lone raven stood motionless on the road, tangled in silver wires, about a hundred feet ahead of the party. [[Alaric Voss\|Alaric]], [[compendium/characters/Van]], and [[compendium/characters/Orianna]] advanced cautiously, stopping within thirty feet. Extending his focus, [[Alaric Voss\|Alaric]] cast [[spells/Level 1/Detect Magic\|Detect Magic]]—a faint gray aura shimmered around the bird, laced with threads of Transmutation. He shared his findings quietly with [[compendium/characters/Orianna]].
 
 ![[media/Session11/raven_entangled.jpg]]
 
@@ -63,6 +62,12 @@ Then [[compendium/characters/Hugh]] raised his hand, his focus sharp, and unleas
 
 [[Alaric Voss\|Alaric]] lingered beside the body, feeling the lingering pulse of arcane energy. He placed his hand upon the head, sensing immense power emanating from within the Crown-Core. Drawing his dagger, he began carving through the hardened wood, the effort brutal and costly. Splinters tore his flesh, blood mixing with sap as he cut deeper (–9 HP). Finally, he reached the heart of the construct—a black, pulsing mass. With trembling hands, he extracted it and stored it carefully in his pouch.
 
+The piece of petrified wood roughly the size and shape of a human heart. It is dark, heavy, and cold to the touch, with a surface so incredibly gnarled and twisted it resembles a knot of dried veins and muscle fibbers. Embedded within the wood are several fine, shimmering splinters that catch the light like polished insect legs.
+
+It feels faintly hungry. It always remains slightly damp, smelling perpetually of rich, overturned soil and decaying leaves. The air around it seems heavier, and small patches of grass or moss near it often appear prematurely withered.
+
+![[media/items/construct_core.jpg]]
+
 [[compendium/characters/Orianna]], now steady, freed the raven from its bindings and healed it fully. Yet when it tried to flee, she held it firm. The creature cawed unnaturally, its sounds hollow—more mimicry than voice. When questioned, it refused to speak. Only after [[compendium/characters/Hugh]] threatened it did the raven’s tone shift, pleading in fear.
 
-“Please… don’t kill me.”
+“Alright alright… I speak, thanks for saving me” - Orianna heard through Animal Speaking.
