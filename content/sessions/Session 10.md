@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2025-10-26","modified":"2025-11-15T00:13:19.027+01:00","published":"2025-10-26","tags":["session"],"cssclasses":"","date":"2025-10-26"}
+{"publish":true,"created":"2025-10-26","modified":"2026-04-20T20:51:06.000+02:00","published":"2025-10-26","tags":["session"],"cssclasses":"","date":"2025-10-26"}
 ---
-
 
 [[Alaric Voss\|Alaric]] wakes early in [[compendium/characters/Madame Eva]]’s camp at [[compendium/locations/Tser Pool]], restless and unsettled by the previous night’s visions. Outside his tent, [[compendium/characters/Stanimir]] greets him again, asking about [[compendium/locations/Neverwinter]]—a place he claims never to have heard of. Still disoriented, [[Alaric Voss\|Alaric]] recounts his meeting with [[compendium/characters/Madame Eva]]. [[compendium/characters/Stanimir]] advises, “Then follow her words.”
 

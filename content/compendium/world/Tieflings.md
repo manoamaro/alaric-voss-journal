@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["tiefiling","tiefling"],"created":"2025-11-16T12:57:28.502+01:00","modified":"2025-11-16T12:57:28.502+01:00","published":"2025-11-16T12:57:28.502+01:00","cssclasses":""}
+{"publish":true,"aliases":["tiefiling","tiefling"],"created":"2025-11-16T12:57:28.000+01:00","modified":"2025-11-16T12:57:28.000+01:00","published":"2025-11-16T12:57:28.000+01:00","cssclasses":""}
 ---
 
 ![[media/compendium/tiefling_sketch.jpg]]

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.363+01:00","modified":"2025-11-13T20:13:36.363+01:00","published":"2025-11-13T20:13:36.363+01:00","tags":["spell"],"cssclasses":"","Level":1,"School":"Transmutation","CastingTime":"Action or Ritual","Range":"10 feet","Components":["V","S"],"Concentration":false,"Duration":"Instantaneous","Ritual":true,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric","Druid","Paladin"]}
+{"publish":true,"created":"2025-11-13T20:13:36.000+01:00","modified":"2025-11-13T20:13:36.000+01:00","published":"2025-11-13T20:13:36.000+01:00","tags":["spell"],"cssclasses":"","Level":1,"School":"Transmutation","CastingTime":"Action or Ritual","Range":"10 feet","Components":["V","S"],"Concentration":false,"Duration":"Instantaneous","Ritual":true,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric","Druid","Paladin"]}
 ---
 
 

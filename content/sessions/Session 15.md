@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-02-02","modified":"2026-04-18T11:42:38.063+02:00","published":"2026-02-02","cssclasses":"","date":"2026-02-02"}
+{"publish":true,"created":"2026-02-02","modified":"2026-04-18T11:42:38.000+02:00","published":"2026-02-02","cssclasses":"","date":"2026-02-02"}
 ---
 
 [[compendium/study notes/The Mists and the Domains of Dread\|The mists]] do not merely obscure—they **mute**. Sound, certainty, even reason seem dulled beneath their veil.

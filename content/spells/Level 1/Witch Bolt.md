@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.365+01:00","modified":"2025-11-13T20:13:36.365+01:00","published":"2025-11-13T20:13:36.365+01:00","tags":["spell"],"cssclasses":"","Level":1,"School":"Evocation","CastingTime":"Action","Range":"60 feet","Components":["V","S","M"],"Material":"a twig struck by lightning","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":"2d12","Damage Type":"Lightning","Upgrade":"Using a Higher-Level Spell Slot. The initial damage increases by 1d12 for each spell slot level above 1","Spell Book":false,"Prepared":false,"Classes":["Sorcerer","Warlock","Wizard"]}
+{"publish":true,"created":"2025-11-13T20:13:36.000+01:00","modified":"2025-11-13T20:13:36.000+01:00","published":"2025-11-13T20:13:36.000+01:00","tags":["spell"],"cssclasses":"","Level":1,"School":"Evocation","CastingTime":"Action","Range":"60 feet","Components":["V","S","M"],"Material":"a twig struck by lightning","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":"2d12","Damage Type":"Lightning","Upgrade":"Using a Higher-Level Spell Slot. The initial damage increases by 1d12 for each spell slot level above 1","Spell Book":false,"Prepared":false,"Classes":["Sorcerer","Warlock","Wizard"]}
 ---
 
 

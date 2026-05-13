@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-04-17","modified":"2026-04-20T20:16:49.820+02:00","published":"2025-04-17","cssclasses":"","date":"2025-04-17"}
+{"publish":true,"created":"2025-04-17","modified":"2026-04-20T20:16:49.000+02:00","published":"2025-04-17","cssclasses":"","date":"2025-04-17"}
 ---
 
 We came at last to the church.

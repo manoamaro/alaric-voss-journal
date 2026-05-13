@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Alaric"],"created":"2025-11-14T12:23:16.249+01:00","modified":"2025-11-15T23:35:13.669+01:00","published":"2025-11-15T23:35:13.669+01:00","cssclasses":""}
+{"publish":true,"aliases":["Alaric"],"created":"2025-11-14T12:23:16.000+01:00","modified":"2025-11-15T23:35:13.000+01:00","published":"2025-11-15T23:35:13.000+01:00","cssclasses":""}
 ---
 
 ![[media/alaric_voss_portrait_1.jpg|400]]

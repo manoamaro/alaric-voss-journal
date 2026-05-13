@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-07","modified":"2025-11-16T17:40:03.409+01:00","published":"2025-11-07","tags":["session"],"cssclasses":"","date":"2025-11-07"}
+{"publish":true,"created":"2025-11-07","modified":"2025-11-16T17:40:03.000+01:00","published":"2025-11-07","tags":["session"],"cssclasses":"","date":"2025-11-07"}
 ---
 
 A lone raven stood motionless on the road, tangled in silver wires, about a hundred feet ahead of the party. [[Alaric Voss\|Alaric]], [[compendium/characters/Van]], and [[compendium/characters/Orianna]] advanced cautiously, stopping within thirty feet. Extending his focus, [[Alaric Voss\|Alaric]] cast [[spells/Level 1/Detect Magic\|Detect Magic]]—a faint gray aura shimmered around the bird, laced with threads of Transmutation. He shared his findings quietly with [[compendium/characters/Orianna]].

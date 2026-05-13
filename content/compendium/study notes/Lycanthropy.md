@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["werewolf","werewolves","werebear","werebears","wererat","wererats","wereraven","wereravens"],"created":"2025-11-16T12:57:28.501+01:00","modified":"2025-11-16T12:57:28.501+01:00","published":"2025-11-16T12:57:28.501+01:00","cssclasses":""}
+{"publish":true,"aliases":["werewolf","werewolves","werebear","werebears","wererat","wererats","wereraven","wereravens"],"created":"2025-11-16T12:57:28.000+01:00","modified":"2025-11-16T12:57:28.000+01:00","published":"2025-11-16T12:57:28.000+01:00","cssclasses":""}
 ---
 
 ![[media/compendium/lycanthropy_sketch.jpg]]

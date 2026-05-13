@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-15T13:43:16.005+01:00","modified":"2025-11-15T13:43:16.005+01:00","published":"2025-11-15T13:43:16.005+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Transmutation","CastingTime":"Bonus Action","Range":"Touch","Components":["V","S","M"],"Material":"a hot pepper","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 1d6 for each spell slot level above 2.","Spell Book":false,"Prepared":false,"Classes":["Sorcerer","Wizard"]}
+{"publish":true,"created":"2025-11-15T13:43:16.000+01:00","modified":"2025-11-15T13:43:16.000+01:00","published":"2025-11-15T13:43:16.000+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Transmutation","CastingTime":"Bonus Action","Range":"Touch","Components":["V","S","M"],"Material":"a hot pepper","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":"Using a Higher-Level Spell Slot. The damage increases by 1d6 for each spell slot level above 2.","Spell Book":false,"Prepared":false,"Classes":["Sorcerer","Wizard"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Escher"],"created":"2025-11-16T12:57:28.527+01:00","modified":"2025-11-16T12:57:28.527+01:00","published":"2025-11-16T12:57:28.527+01:00","cssclasses":""}
+{"publish":true,"aliases":["Escher"],"created":"2025-11-16T12:57:28.000+01:00","modified":"2025-11-16T12:57:28.000+01:00","published":"2025-11-16T12:57:28.000+01:00","cssclasses":""}
 ---
 
 ![[media/compendium/escher_belasco_sketch.jpg]]
