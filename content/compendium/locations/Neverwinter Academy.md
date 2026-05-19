@@ -1,6 +1,6 @@
 _Arcane Institution of the Jewel of the North_
 
-![[media/compendium/Neverwinter_academy.webp]]
+![[media/compendium/Neverwinter_academy.jpg]]
 
 The Neverwinter Academy is the preeminent center of magical study on the Sword Coast, second in reputation only to Waterdeep’s Blackstaff Tower. Founded over four centuries ago by Archmage Edran Vaelor under the patronage of Lord Nasher Alagondar, the Academy stands as both a fortress of knowledge and a political institution, balancing civic duty with the pursuit of arcane mastery.
 

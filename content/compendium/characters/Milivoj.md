@@ -1,1 +1,1 @@
-![[media/compendium/milivoj.png]]
+![[media/compendium/milivoj.jpg]]

@@ -1,4 +1,4 @@
-![[tser_pool.avif]]
-![[media/compendium/Tser_Pool_Map.webp]]
+![[media/compendium/tser_pool.jpg]]
+![[media/compendium/Tser_Pool_Map.jpg]]
 
 #location 

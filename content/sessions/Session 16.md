@@ -1,16 +1,16 @@
 ---
-{"publish":true,"created":"2025-04-17","modified":"2026-04-20T20:16:49.000+02:00","published":"2025-04-17","cssclasses":"","date":"2025-04-17"}
+{"publish":true,"created":"2026-04-17","modified":"2026-05-19T13:53:04.092+02:00","published":"2026-04-17","tags":["session"],"cssclasses":"","date":"2026-04-17"}
 ---
 
 We came at last to the church.
 
-![[media/compendium/st_andral_church.png]]
+![[media/compendium/st_andral_church.jpg]]
 
 From a distance, St. Andral’s had appeared as all things in [[compendium/locations/Village Vallaki\|Vallaki]] seem to appear at first glance: tired, weather-worn, and leaning toward decay. Its stone was dark with age, its stained glass cracked, its yard enclosed by iron that looked more like confinement than protection. A graveyard crouched nearby. Across the street stood another building where children played beneath the shadow of the bell tower, as though innocence here survives only by refusing to look up.
 
 And yet, as with so much in this land, the first impression was not the true one.
 
-![[media/session16/st_andral_church_interior.png]]
+![[media/session16/st_andral_church_interior.jpg]]
 
 Inside, the church was cared for. The pews were sound. The symbols of devotion had been polished and preserved. Candles still burned. The sign of the Morninglord stood there in an older form, archaic but recognizable, as if faith itself had retreated into older shapes in order to endure. Only one thing openly disturbed that fragile order: a broken window, and a young man laboring to repair the damage.
 
@@ -40,7 +40,7 @@ There are hours in which action belongs to others, and one serves better by look
 
 I went down into the crypt alone.
 
-![[media/session16/st_andral_church_crypt.png]]
+![[media/session16/st_andral_church_crypt.jpg]]
 
 It was a cramped chamber of damp stone and old age, more honest than the church above it. The wooden door had plainly been forced. The resting place of the bones stood empty. More tellingly, someone had attempted to wipe away the traces of their passage. The floor had been swept, but not perfectly. In the moisture I found a **large adult footprint**, not a child’s. At the bier itself I found strands of **black hair**.
 
@@ -54,7 +54,7 @@ By the time I neared [[compendium/characters/Hendrik]]’s district, [[compendiu
 
 That, in [[compendium/locations/Village Vallaki\|Vallaki]], is a confession in itself.
 
-![[media/session16/hendriks_house.png]]
+![[media/session16/hendriks_house.jpg]]
 
 
 They entered in silence. [[compendium/characters/Hendrik]] was inside, drinking among his coffins, and when he saw them he did not cry out. Instead he made small, urgent motions for quiet, desperate as a drowning man trying not to splash. [[compendium/characters/Van]] handed him a scrap of paper. [[compendium/characters/Hendrik]] wrote only two words:
@@ -63,7 +63,7 @@ They entered in silence. [[compendium/characters/Hendrik]] was inside, drinking 
   
 [[compendium/characters/Van]] pointed, and the three of them withdrew without spectacle.
 
-![[media/session16/hendricks_house_interior.png]]
+![[media/session16/hendricks_house_interior.jpg]]
 
 That was when I reached them. [[compendium/characters/Van]] pulled me in close at once and told me not to speak loudly. Whatever little safety remained depended on quiet. We took [[compendium/characters/Hendrik]] farther off, into an alley well away from his house, and there, at last, the man began to speak.
 
