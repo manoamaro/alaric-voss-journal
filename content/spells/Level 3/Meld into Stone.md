@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.000+01:00","modified":"2025-11-13T20:13:36.000+01:00","published":"2025-11-13T20:13:36.000+01:00","tags":["spell"],"cssclasses":"","Level":3,"School":"Transmutation","CastingTime":"Action or #Ritual","Range":"Touch","Components":["V","S"],"Concentration":false,"Duration":"8 hours","Ritual":true,"Damage":"6d6","Damage Type":"Force","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric","Druid","Ranger"]}
+publish: true
+created: 2025-11-13T20:13:36.000+01:00
+modified: 2025-11-13T20:13:36.000+01:00
+tags:
+  - spell
 ---
-
 
 You step into a stone object or surface large enough to fully contain your body, merging yourself and your equipment with the stone for the duration. You must touch the stone to do so. Nothing of your presence remains visible or otherwise detectable by nonmagical senses.
 While merged with the stone, you can't see what occurs outside it, and any Wisdom (Perception) checks you make to hear sounds outside it are made with Disadvantage. You remain aware of the passage of time and can cast spells on yourself while merged in the stone. You can use 5 feet of movement to leave the stone where you entered it, which ends the spell. You otherwise can't move.

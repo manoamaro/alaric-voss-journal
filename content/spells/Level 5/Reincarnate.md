@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.000+01:00","modified":"2025-11-13T23:04:17.000+01:00","published":"2025-11-13T23:04:17.000+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Necromancy","CastingTime":"1 hour","Range":"Touch","Components":["V","S","M"],"Material":"rare oils worth 1,000+ GP, which the spell consumes","Concentration":false,"Duration":"Instantaneous","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Druid"]}
+publish: true
+created: 2025-11-13T20:13:36.000+01:00
+modified: 2025-11-13T23:04:17.000+01:00
+tags:
+  - spell
 ---
-
 
 You touch a dead Humanoid or a piece of one. If the creature has been dead no longer than 10 days, the spell forms a new body for it and calls the soul to enter that body. Roll 1d10 and consult the table below to determine the body’s species, or the DM chooses another playable species.
 

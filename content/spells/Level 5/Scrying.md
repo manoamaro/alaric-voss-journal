@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.000+01:00","modified":"2025-11-13T20:13:36.000+01:00","published":"2025-11-13T20:13:36.000+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Divination","CastingTime":"10 minutes","Range":"Self","Components":["V","S","M"],"Material":"a focus worth 1,000+ GP, such as a crystal ball, mirror, or water-filled font","Concentration":true,"Duration":"up to 10 minutes","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Cleric","Druid","Warlock","Wizard"]}
+publish: true
+created: 2025-11-13T20:13:36.000+01:00
+modified: 2025-11-13T20:13:36.000+01:00
+tags:
+  - spell
 ---
-
 
 You can see and hear a creature you choose that is on the same plane of existence as you. The target makes a Wisdom saving throw, which is modified (see the tables below) by how well you know the target and the sort of physical connection you have to it. The target doesn’t know what it is making the save against, only that it feels uneasy.
 

@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.000+01:00","modified":"2025-11-13T20:13:36.000+01:00","published":"2025-11-13T20:13:36.000+01:00","tags":["spell"],"cssclasses":"","Level":5,"School":"Abjuration","CastingTime":"Action","Range":"Self","Components":["V","S","M"],"Material":"powdered silver and iron","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric","Paladin"]}
+publish: true
+created: 2025-11-13T20:13:36.000+01:00
+modified: 2025-11-13T20:13:36.000+01:00
+tags:
+  - spell
 ---
-
 
 For the duration, Celestials, Elementals, Fey, Fiends, and Undead have Disadvantage on attack rolls against you. You can end the spell early by using either of the following special functions.
 **Break Enchantment.** As a Magic action, you touch a creature that is possessed by or has the Charmed or Frightened condition from one or more creatures of the types above. The target is no longer possessed, Charmed, or Frightened by such creatures.

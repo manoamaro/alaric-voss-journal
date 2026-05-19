@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.000+01:00","modified":"2025-11-13T20:13:36.000+01:00","published":"2025-11-13T20:13:36.000+01:00","tags":["spell"],"cssclasses":"","Level":2,"School":"Illusion","CastingTime":"Action","Range":"60 feet","Components":["V","S","M"],"Material":"a bit of fleece","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":"2d8","Damage Type":"Psychic","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Sorcerer","Wizard"]}
+publish: true
+created: 2025-11-13T20:13:36.000+01:00
+modified: 2025-11-13T20:13:36.000+01:00
+tags:
+  - spell
 ---
-
 
 You attempt to craft an illusion in the mind of a creature you can see within range. The target makes an Intelligence saving throw. On a failed save, you create a phantasmal object, creature, or other phenomenon that is no larger than a 10-foot Cube and that is perceivable only to the target for the duration. The phantasm includes sound, temperature, and other stimuli.
 The target can take a Study action to examine the phantasm with an Intelligence (Investigation) check against your spell save DC. If the check succeeds, the target realizes that the phantasm is an illusion, and the spell ends.

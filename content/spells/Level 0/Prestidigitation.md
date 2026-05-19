@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.000+01:00","modified":"2025-11-13T20:13:36.000+01:00","published":"2025-11-13T20:13:36.000+01:00","tags":["spell"],"cssclasses":"","Level":0,"School":"Transmutation","CastingTime":"Action","Range":"10 feet","Components":["V","S"],"Concentration":false,"Duration":"Up to 1 hour","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":true,"Prepared":true,"Classes":["Bard","Sorcerer","Warlock","Wizard"]}
+publish: true
+created: 2025-11-13T20:13:36.000+01:00
+modified: 2025-11-13T20:13:36.000+01:00
+tags:
+  - spell
 ---
-
 
 You create a magical effect within range. Choose the effect from the options below. If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time.
 **Sensory Effect**. You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.

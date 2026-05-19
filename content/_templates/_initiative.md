@@ -1,4 +1,5 @@
 ## Initiative
+
 - **{{PC/NPC}}**: {{roll}}
 - **{{PC/NPC}}**: {{roll}}
 - **{{PC/NPC}}**: {{roll}}

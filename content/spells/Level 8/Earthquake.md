@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.000+01:00","modified":"2025-11-13T21:02:28.000+01:00","published":"2025-11-13T21:02:28.000+01:00","tags":["spell"],"cssclasses":"","Level":8,"School":"Transmutation","CastingTime":"Action","Range":"500 feet","Components":["V","S","M"],"Material":"a fractured rock","Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":"12d6","Damage Type":"Bludgeoning","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Cleric","Druid","Sorcerer"]}
+publish: true
+created: 2025-11-13T20:13:36.000+01:00
+modified: 2025-11-13T21:02:28.000+01:00
+tags:
+  - spell
 ---
-
 
 Choose a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 100- foot-radius circle centered on that point. The ground there is Difficult Terrain.
 When you cast this spell and at the end of each of your turns for the duration, each creature on the ground in the area makes a Dexterity saving throw. On a failed save, a creature has the Prone condition, and its Concentration is broken. You can also cause the effects below.

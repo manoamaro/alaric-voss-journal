@@ -1,4 +1,7 @@
 ---
-{"publish":true,"created":"2025-11-08T00:55:21.000+01:00","modified":"2025-11-08T00:55:38.000+01:00","published":"2025-11-08T00:55:38.000+01:00","tags":["session"],"cssclasses":"","date":null}
+publish: true
+created: 2025-11-08T00:55:21.000+01:00
+modified: 2025-11-08T00:55:38.000+01:00
+tags:
+  - session
 ---
-

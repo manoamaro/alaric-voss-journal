@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.000+01:00","modified":"2025-11-13T21:02:39.000+01:00","published":"2025-11-13T21:02:39.000+01:00","tags":["spell"],"cssclasses":"","Level":9,"School":"Transmutation","CastingTime":"Action","Range":"30 feet","Components":["V","S","M"],"Material":"a drop of mercury, a dollop of gum arabic, and a wisp of smoke","Concentration":true,"Duration":"up to 1 hour","Ritual":false,"Damage":null,"Damage Type":null,"Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Bard","Warlock","Wizard"]}
+publish: true
+created: 2025-11-13T20:13:36.000+01:00
+modified: 2025-11-13T21:02:39.000+01:00
+tags:
+  - spell
 ---
-
 
 Choose one creature or nonmagical object that you can see within range. The creature shape-shifts into a different creature or a nonmagical object, or the object shape-shifts into a creature (the object must be neither worn nor carried). The transformation lasts for the duration or until the target dies or is destroyed, but if you maintain Concentration on this spell for the full duration, the spell lasts until dispelled.
 An unwilling creature can make a Wisdom saving throw, and if it succeeds, it isn't affected by this spell.

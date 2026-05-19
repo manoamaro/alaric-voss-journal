@@ -1,5 +1,9 @@
 ---
-{"publish":true,"aliases":["dragonborn"],"created":"2025-11-16T12:57:28.000+01:00","modified":"2025-11-16T12:57:28.000+01:00","published":"2025-11-16T12:57:28.000+01:00","cssclasses":""}
+publish: true
+aliases:
+  - dragonborn
+created: 2025-11-16T12:57:28.000+01:00
+modified: 2025-11-16T12:57:28.000+01:00
 ---
 
 ![[media/compendium/dragonborn_sketch.jpg]]

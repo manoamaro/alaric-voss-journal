@@ -1,5 +1,8 @@
 ---
-{"publish":true,"title":"Alaric Voss' Journal","created":"2025-11-13T20:13:36.000+01:00","modified":"2025-11-16T13:11:44.000+01:00","published":"2025-11-16T13:11:44.000+01:00","cssclasses":""}
+publish: true
+title: Alaric Voss' Journal
+created: 2025-11-13T20:13:36.000+01:00
+modified: 2025-11-16T13:11:44.000+01:00
 ---
 
 ![[media/alaric_voss_mist.jpg]]

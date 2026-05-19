@@ -2,4 +2,4 @@
 
 Fortune teller.
 
-#character 
+#character

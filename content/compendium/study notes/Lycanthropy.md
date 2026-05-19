@@ -1,5 +1,16 @@
 ---
-{"publish":true,"aliases":["werewolf","werewolves","werebear","werebears","wererat","wererats","wereraven","wereravens"],"created":"2025-11-16T12:57:28.000+01:00","modified":"2025-11-16T12:57:28.000+01:00","published":"2025-11-16T12:57:28.000+01:00","cssclasses":""}
+publish: true
+aliases:
+  - werewolf
+  - werewolves
+  - werebear
+  - werebears
+  - wererat
+  - wererats
+  - wereraven
+  - wereravens
+created: 2025-11-16T12:57:28.000+01:00
+modified: 2025-11-16T12:57:28.000+01:00
 ---
 
 ![[media/compendium/lycanthropy_sketch.jpg]]
@@ -55,9 +66,9 @@ Each strain aligns with a unique primal signature in the Weave, suggesting origi
 # Philosophical Notes
 
 - Lycanthropy is not undeath but imbalance: life in conflict with its own nature. 
-- Unlike [[compendium/study notes/Vampiric Entities\|vampires]], lycanthropes belong to the natural order, though twisted by curse.
+- Unlike [[Vampiric Entities|vampires]], lycanthropes belong to the natural order, though twisted by curse.
 - The beast is neither purely evil nor good—it is freedom without conscience.
 
 # Summary Thought
 
-“_Lycanthropy is not a theft of life but a fracture of self. Where a [[compendium/study notes/Vampiric Entities\|vampire]] defies death, a lycanthrope defies identity.”_
+“_Lycanthropy is not a theft of life but a fracture of self. Where a [[Vampiric Entities|vampire]] defies death, a lycanthrope defies identity.”_

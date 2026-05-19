@@ -1,11 +1,13 @@
 ---
-{"publish":true,"draft":true,"created":"2025-11-13T20:13:36.000+01:00","modified":"2025-11-13T20:13:36.000+01:00","published":"2025-11-13T20:13:36.000+01:00","cssclasses":""}
+publish: true
+draft: true
+created: 2025-11-13T20:13:36.000+01:00
+modified: 2025-11-13T20:13:36.000+01:00
 ---
-
 
 **Overview**
 
-- Obsidian vault for a D&D 5e character and campaign journal: Alaric Voss in Curse of Strahd.
+- Obsidian vault for a D\&D 5e character and campaign journal: Alaric Voss in Curse of Strahd.
 - Tracks backstory, session logs, world/character compendium, and a spellbook using Obsidian’s Bases views.
 - Start with `index.md` (title page) or open `Alaric Voss.md` for the character sheet and backstory.
 

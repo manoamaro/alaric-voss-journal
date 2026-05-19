@@ -1,12 +1,16 @@
 ---
-{"publish":true,"aliases":["Alaric"],"created":"2025-11-14T12:23:16.000+01:00","modified":"2025-11-15T23:35:13.000+01:00","published":"2025-11-15T23:35:13.000+01:00","cssclasses":""}
+publish: true
+aliases:
+  - Alaric
+created: 2025-11-14T12:23:16.000+01:00
+modified: 2025-11-15T23:35:13.000+01:00
 ---
 
 ![[media/alaric_voss_portrait_1.jpg|400]]
 
 # Backstory
 
-Born and raised in [[compendium/locations/Neverwinter]], Alaric Voss found himself during childhood always locating small lost objects from his friends and families, discovering early the [[compendium/world/Gift of Omens]]. Driven by curiosity about this power, seeking to understand and how to control them, he joined the [[compendium/locations/Neverwinter Academy]], diving into the Arcane arts and later on, the School of Divination. He finished his studies with a thesis titled *“Threads of the Unseen: A Theoretical Framework for Predictive Weaving through Controlled Divinatory Resonance”*, guided by his mentor [[compendium/characters/Archmage Kale Thandrel]] passed with distinction. To survive beyond the university’s gates, he turned his research toward practical ends.
+Born and raised in [[Neverwinter]], Alaric Voss found himself during childhood always locating small lost objects from his friends and families, discovering early the [[Gift of Omens]]. Driven by curiosity about this power, seeking to understand and how to control them, he joined the [[Neverwinter Academy]], diving into the Arcane arts and later on, the School of Divination. He finished his studies with a thesis titled _“Threads of the Unseen: A Theoretical Framework for Predictive Weaving through Controlled Divinatory Resonance”_, guided by his mentor [[Archmage Kale Thandrel]] passed with distinction. To survive beyond the university’s gates, he turned his research toward practical ends.
 
 ![[media/alaric_voss_kale.jpg]]
 
@@ -31,6 +35,5 @@ My visions reveal a dark truth only I can decipher
 ## Flaws
 
 I seek forbidden knowledge even when it endangers other
-
 
 ![[media/alaric_voss_neverwinter_02.jpg|300]]

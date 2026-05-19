@@ -1,5 +1,9 @@
 ---
-{"publish":true,"created":"2025-10-25","modified":"2026-05-19T13:53:04.074+02:00","published":"2025-10-25","tags":["session"],"cssclasses":"","date":"2025-10-25"}
+publish: true
+created: 2025-10-25
+modified: 2026-05-19T13:53:04.074+02:00
+tags:
+  - session
 ---
 
 I record this entry while the memory is still warm, because I have already learned that visions of this kind do not survive a full night of sleep intact.
@@ -24,9 +28,9 @@ Then darkness, and waking.
 
 ---
 
-I sat up in my own bed in [[compendium/locations/Neverwinter]], pulse still hammering. For a full minute I would have sworn the pressure of that chamber pressed against the walls of my room before it withdrew. I composed myself. I have had omens before. This was of another order entirely.
+I sat up in my own bed in [[Neverwinter]], pulse still hammering. For a full minute I would have sworn the pressure of that chamber pressed against the walls of my room before it withdrew. I composed myself. I have had omens before. This was of another order entirely.
 
-I went at once to [[compendium/characters/Archmage Kale Thandrel]] and told him everything. He listened without interruption, which is unusual for him, and at the end he asked me—quietly, almost gently—to forget what I had seen. *"Some truths,"* he said, *"should remain unknown. For your sake, and for ours."*
+I went at once to [[Archmage Kale Thandrel]] and told him everything. He listened without interruption, which is unusual for him, and at the end he asked me—quietly, almost gently—to forget what I had seen. _"Some truths,"_ he said, _"should remain unknown. For your sake, and for ours."_
 
 I did not accept that.
 
@@ -42,7 +46,7 @@ Our eyes met.
 
 The pressure in that room was the same pressure I had felt before, magnified, and now directed. I would not call it attention. Attention is too small a word.
 
-Then, mercifully, another flash. A tent. A wooden sign at the edge of a settlement bearing the name [[compendium/locations/Village Vallaki]].
+Then, mercifully, another flash. A tent. A wooden sign at the edge of a settlement bearing the name [[Village Vallaki]].
 
 I woke trembling on my own floor. I resumed work because work is what one does when one cannot afford to stop, but the man's face and that village's name would not leave me.
 
@@ -50,7 +54,7 @@ I woke trembling on my own floor. I resumed work because work is what one does w
 
 The following day, a customer came to the shop. He had lost a small possession, he said, and wished my help in recovering it. I quoted him five gold. He smiled and said he would settle with me later at the tavern, over drinks. The item, he claimed, was a small round token engraved with a raven.
 
-I obliged him, as I would any client. I cast [[spells/Level 2/Detect Thoughts\|Detect Thoughts]] and let him picture the object—copper, coin-shaped, a raven in relief—and then followed with [[spells/Level 2/Locate Object\|Locate Object]]. The spell pointed unmistakably at his own belongings, still on his person.
+I obliged him, as I would any client. I cast [[spells/Level 2/Detect Thoughts|Detect Thoughts]] and let him picture the object—copper, coin-shaped, a raven in relief—and then followed with [[spells/Level 2/Locate Object|Locate Object]]. The spell pointed unmistakably at his own belongings, still on his person.
 
 When I told him, he laughed. Forgetful, he said. He repeated his invitation for the evening.
 
@@ -58,19 +62,19 @@ When I told him, he laughed. Forgetful, he said. He repeated his invitation for 
 
 I went, of course. Curiosity is a vice I have stopped pretending to manage.
 
-At the tavern he introduced himself as [[compendium/characters/Anton]]. He let me sit. He let me drink. Then, with the air of a man asking the weather, he said: *"Do you enjoy meddling in other people's affairs?"*
+At the tavern he introduced himself as [[Anton]]. He let me sit. He let me drink. Then, with the air of a man asking the weather, he said: _"Do you enjoy meddling in other people's affairs?"_
 
-I said no. He smiled, faintly. *"Good. I'm seeking someone to help a friend—a man beloved by his village, now imprisoned for dark magic. You might be perfect for it."*
+I said no. He smiled, faintly. _"Good. I'm seeking someone to help a friend—a man beloved by his village, now imprisoned for dark magic. You might be perfect for it."_
 
-The phrase *dark magic* did exactly what such phrases do: it stopped me. He noticed. Of course he noticed. And yet beneath my reluctance a far older instinct stirred—curiosity, again, and the half-acknowledged suspicion that this man and my vision were not unrelated.
+The phrase _dark magic_ did exactly what such phrases do: it stopped me. He noticed. Of course he noticed. And yet beneath my reluctance a far older instinct stirred—curiosity, again, and the half-acknowledged suspicion that this man and my vision were not unrelated.
 
-I pressed for details. He stood up. *"Better not to know. You said you don't pry into others' business."* And he left.
+I pressed for details. He stood up. _"Better not to know. You said you don't pry into others' business."_ And he left.
 
-The same vice that had brought me to the tavern then betrayed me further. I cast [[spells/Level 2/Detect Thoughts\|Detect Thoughts]] after him, quietly, in a way no one at the next table could have noticed.
+The same vice that had brought me to the tavern then betrayed me further. I cast [[spells/Level 2/Detect Thoughts|Detect Thoughts]] after him, quietly, in a way no one at the next table could have noticed.
 
 He noticed.
 
-*"Don't ever do that again,"* he said. The tone was not anger. It was something worse, and colder.
+_"Don't ever do that again,"_ he said. The tone was not anger. It was something worse, and colder.
 
 I left ashamed. I do not enjoy that emotion, and I have not been free of it since.
 
@@ -88,11 +92,11 @@ The first thing I saw was an empty gallows by the road, just visible through the
 
 ![[media/session0/crossroad_gallows.jpg]]
 
-I remembered the name from the vision—[[compendium/locations/Village Vallaki]], the tent—and, having no better orientation, I followed that road.
+I remembered the name from the vision—[[Village Vallaki]], the tent—and, having no better orientation, I followed that road.
 
-A man fell in beside me along the way: a large fellow with a goatee who introduced himself as [[compendium/characters/Stanimir]]. He read my disorientation at a glance and, without being asked, led me to a camp where, he said, others like me were waiting.
+A man fell in beside me along the way: a large fellow with a goatee who introduced himself as [[Stanimir]]. He read my disorientation at a glance and, without being asked, led me to a camp where, he said, others like me were waiting.
 
-There, inside a large tent, I met a woman who called herself [[compendium/characters/Madame Eva]]. She spoke as though she had been expecting me, though she also remarked that I had arrived earlier than she anticipated. She told me others, too, had been drawn here by the [[compendium/study notes/The Mists and the Domains of Dread\|mists]]. *"Rest for now,"* she said. *"In the morning, go to the [[compendium/locations/Village of Barovia]]. Perhaps you will find your answers there."*
+There, inside a large tent, I met a woman who called herself [[Madame Eva]]. She spoke as though she had been expecting me, though she also remarked that I had arrived earlier than she anticipated. She told me others, too, had been drawn here by the [[The Mists and the Domains of Dread|mists]]. _"Rest for now,"_ she said. _"In the morning, go to the [[Village of Barovia]]. Perhaps you will find your answers there."_
 
 ---
 
@@ -100,6 +104,6 @@ I am writing this from the cot she has given me. The fog outside the tent does n
 
 I do not yet know where I am. I know only that something opened in me when I performed that ritual, and that something on the other side of it appears, now, to have opened in return.
 
-I will go to the [[compendium/locations/Village of Barovia]] in the morning.
+I will go to the [[Village of Barovia]] in the morning.
 
 I do not see what other choice there is.

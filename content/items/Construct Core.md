@@ -4,4 +4,4 @@ It feels faintly hungry. It always remains slightly damp, smelling perpetually o
 
 ![[media/items/construct_core.jpg]]
 
-#item 
+#item

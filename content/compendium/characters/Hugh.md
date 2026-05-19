@@ -1,1 +1,1 @@
-#character/party 
+#character/party

@@ -1,11 +1,14 @@
 ---
-{"publish":true,"draft":true,"created":"2026-05-19T13:41:36.582+02:00","modified":"2026-05-19T13:54:21.669+02:00","published":"2026-05-19T13:54:21.669+02:00","cssclasses":""}
+publish: true
+draft: true
+created: 2026-05-19T13:41:36.582+02:00
+modified: 2026-05-19T13:54:21.669+02:00
 ---
 
 # Copilot Instructions — Alaric Voss Vault
 
-This repository is an **Obsidian vault**, not a code project. It is a D&D 5e
-character journal and campaign log for *Alaric Voss* in *Curse of Strahd*.
+This repository is an **Obsidian vault**, not a code project. It is a D\&D 5e
+character journal and campaign log for _Alaric Voss_ in _Curse of Strahd_.
 There is no build, test, or lint step — content is plain Markdown rendered by
 Obsidian. Edits should preserve Obsidian-specific conventions below.
 
@@ -29,12 +32,14 @@ Obsidian. Edits should preserve Obsidian-specific conventions below.
 ## Conventions
 
 ### Links and media
+
 - Use Obsidian **wiki links** (`[[Note Name]]`, `[[Note Name|alias]]`) for
   every cross-reference, not standard Markdown links.
 - Embed images with `![[filename.jpg]]` (optionally `|400` for width). Place
   images under `media/` (per-session subfolder when tied to a session).
 
 ### Frontmatter (YAML)
+
 Properties drive Obsidian views, so match existing keys exactly — Bases
 filters are case- and spelling-sensitive.
 
@@ -51,6 +56,7 @@ filters are case- and spelling-sensitive.
 - **Character** (`Alaric Voss.md`): uses `aliases:` so `[[Alaric]]` resolves.
 
 ### Style of prose
+
 - Session notes and the journal are written **in-character** as Alaric's
   first-person ledger — reflective, scholarly, slightly literary. Preserve
   that voice when extending existing entries; out-of-character mechanics
@@ -58,6 +64,7 @@ filters are case- and spelling-sensitive.
 - Use `---` thematic breaks to separate scenes inside a session.
 
 ### Bases (`*.base`) files
+
 - Plain YAML consumed by Obsidian's Bases plugin. Top-level keys:
   `filters`, `formulas`, `properties`, `views`, `summaries`.
 - Filters reference note properties (e.g. `note["Spell Book"] == true`,

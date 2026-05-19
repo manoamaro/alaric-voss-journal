@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2025-11-13T20:13:36.000+01:00","modified":"2025-11-13T20:13:36.000+01:00","published":"2025-11-13T20:13:36.000+01:00","tags":["spell"],"cssclasses":"","Level":9,"School":"Conjuration","CastingTime":"Action","Range":"1 mile","Components":["V","S"],"Concentration":true,"Duration":"up to 1 minute","Ritual":false,"Damage":"2d6","Damage Type":"Thunder","Upgrade":null,"Spell Book":false,"Prepared":false,"Classes":["Druid"]}
+publish: true
+created: 2025-11-13T20:13:36.000+01:00
+modified: 2025-11-13T20:13:36.000+01:00
+tags:
+  - spell
 ---
-
 
 A churning storm cloud forms for the duration, centered on a point within range and spreading to a radius of 300 feet. Each creature under the cloud when it appears must succeed on a Constitution saving throw or take 2d6 Thunder damage and have the Deafened condition for the duration.
 At the start of each of your later turns, the storm produces different effects, as detailed below.

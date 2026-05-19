@@ -1,3 +1,3 @@
-A [[compendium/world/Tieflings\|Tiefling]] Druid.
+A [[Tieflings|Tiefling]] Druid.
 
-#character/party 
+#character/party

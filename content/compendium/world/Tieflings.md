@@ -1,12 +1,17 @@
 ---
-{"publish":true,"aliases":["tiefiling","tiefling"],"created":"2025-11-16T12:57:28.000+01:00","modified":"2025-11-16T12:57:28.000+01:00","published":"2025-11-16T12:57:28.000+01:00","cssclasses":""}
+publish: true
+aliases:
+  - tiefiling
+  - tiefling
+created: 2025-11-16T12:57:28.000+01:00
+modified: 2025-11-16T12:57:28.000+01:00
 ---
 
 ![[media/compendium/tiefling_sketch.jpg]]
 
-# Origin 
+# Origin
 
-Descendants of mortals whose bloodlines were touched by infernal or fiendish power—typically through ancient pacts, curses, or planar exposure. The taint endures across generations. 
+Descendants of mortals whose bloodlines were touched by infernal or fiendish power—typically through ancient pacts, curses, or planar exposure. The taint endures across generations.
 
 # Appearance
 

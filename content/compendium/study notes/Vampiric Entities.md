@@ -1,7 +1,11 @@
 ---
-{"publish":true,"aliases":["vampires","vampire"],"created":"2025-11-16T12:57:28.000+01:00","modified":"2025-11-16T12:57:28.000+01:00","published":"2025-11-16T12:57:28.000+01:00","cssclasses":""}
+publish: true
+aliases:
+  - vampires
+  - vampire
+created: 2025-11-16T12:57:28.000+01:00
+modified: 2025-11-16T12:57:28.000+01:00
 ---
-
 
 Undead of the Second Order — retain intellect, emotion, and will. Not reanimated corpses but sustained by negative energy.
 

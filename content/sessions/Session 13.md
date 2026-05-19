@@ -1,5 +1,9 @@
 ---
-{"publish":true,"created":"2025-12-01","modified":"2026-05-19T13:53:04.088+02:00","published":"2025-12-01","tags":["session"],"cssclasses":"","date":"2025-12-01"}
+publish: true
+created: 2025-12-01
+modified: 2026-05-19T13:53:04.088+02:00
+tags:
+  - session
 ---
 
 We came again to the gallows.
@@ -14,13 +18,13 @@ Toward the castle.
 
 No hesitation. No divergence. A procession defined not by life but by conclusion. Failed attempts given form, and set again upon the same path. I have rarely seen anything more disquieting.
 
-The [[compendium/world/Vistani]] woman beside us spoke as we watched. Not with surprise. With certainty.
+The [[Vistani]] woman beside us spoke as we watched. Not with surprise. With certainty.
 
-*"What may be. Not what will."*
+_"What may be. Not what will."_
 
 Accurate, as far as it goes. Divination does not reveal outcomes. Only possibilities constrained by pattern.
 
-*"I can tell you what you must do, but I cannot ensure that you will succeed."*
+_"I can tell you what you must do, but I cannot ensure that you will succeed."_
 
 Also accurate.
 
@@ -42,7 +46,7 @@ I observed the structure rather than the mysticism. Each position corresponded t
 
 **First — History.**
 
-An heir. A noble lineage. An ancient enemy. Redundant with variables already known: [[compendium/characters/Count Strahd von Zarovich\|Strahd]] remains the central axis. The new element was the mention of lost souls as guides, which admits either of two interpretations—literal interaction with the dead, or a recursive pattern in which prior failure informs each new attempt.
+An heir. A noble lineage. An ancient enemy. Redundant with variables already known: [[Count Strahd von Zarovich|Strahd]] remains the central axis. The new element was the mention of lost souls as guides, which admits either of two interpretations—literal interaction with the dead, or a recursive pattern in which prior failure informs each new attempt.
 
 Neither interpretation suggested advantage.
 
@@ -64,11 +68,11 @@ Retrieval will require force or disruption. Not discovery.
 
 **Third — The Marionette.**
 
-*"Find the beating heart of the castle."*
+_"Find the beating heart of the castle."_
 
 This is not metaphor.
 
-I have seen this before. Not here, but prior to entering the [[compendium/study notes/The Mists and the Domains of Dread\|Mists]]—the chamber, elevated and cold, holding something sustained beyond natural limit. I had previously catalogued the vision as abstraction.
+I have seen this before. Not here, but prior to entering the [[The Mists and the Domains of Dread|Mists]]—the chamber, elevated and cold, holding something sustained beyond natural limit. I had previously catalogued the vision as abstraction.
 
 Reclassification required.
 
@@ -76,9 +80,9 @@ Reclassification required.
 
 **Final Statement.**
 
-*"He waits nearby. This is where you will find the Devil."*
+_"He waits nearby. This is where you will find the Devil."_
 
-Conclusion: proximity. [[compendium/characters/Count Strahd von Zarovich\|Strahd]] is not distant. He is already within operational reach.
+Conclusion: proximity. [[Count Strahd von Zarovich|Strahd]] is not distant. He is already within operational reach.
 
 I would have preferred almost any other phrasing.
 
@@ -100,13 +104,13 @@ We accepted.
 
 We were directed between two trees.
 
-I examined the boundary before stepping near it. Arcane saturation was present—dense, unstable, unanchored. No identifiable destination. No fixed point of reference. The conclusion was unwelcome: uncontrolled displacement through [[compendium/study notes/The Mists and the Domains of Dread\|mist]]-mediated transition.
+I examined the boundary before stepping near it. Arcane saturation was present—dense, unstable, unanchored. No identifiable destination. No fixed point of reference. The conclusion was unwelcome: uncontrolled displacement through [[The Mists and the Domains of Dread|mist]]-mediated transition.
 
 I advised caution.
 
 The group proceeded.
 
-[[compendium/characters/Brennick]] entered first and vanished immediately. [[compendium/characters/Van]] followed. Then [[compendium/characters/Orianna]]. At that stage, refusal would have produced isolation, and isolation is not survivable in this land.
+[[Brennick]] entered first and vanished immediately. [[Van]] followed. Then [[Orianna]]. At that stage, refusal would have produced isolation, and isolation is not survivable in this land.
 
 I entered.
 
@@ -120,7 +124,7 @@ No movement.
 
 Only discontinuity.
 
-Reality resumed in a different configuration. The mechanism remains undefined, but the effect is consistent with [[compendium/study notes/The Mists and the Domains of Dread\|mist]]-mediated spatial manipulation, of a kind I will need to study under safer conditions—if such conditions are ever again available to me.
+Reality resumed in a different configuration. The mechanism remains undefined, but the effect is consistent with [[The Mists and the Domains of Dread|mist]]-mediated spatial manipulation, of a kind I will need to study under safer conditions—if such conditions are ever again available to me.
 
 ---
 
@@ -134,13 +138,13 @@ We talked, briefly. I disclosed the prior vision of the castle's heart. Reaction
 
 ### Conclusion
 
-We proceed toward [[compendium/locations/Village Vallaki\|Vallaki]].
+We proceed toward [[Village Vallaki|Vallaki]].
 
 Three threads remain identified:
 
 - A relic within territory claimed by wolves.
-- A structure within [[compendium/locations/Castle Ravenloft]] containing, in literal terms, a heart.
-- A child tied to the [[compendium/world/Vistani]] through obligation.
+- A structure within [[Castle Ravenloft]] containing, in literal terms, a heart.
+- A child tied to the [[Vistani]] through obligation.
 
 These are not separate problems. They will converge. I would stake what little I can stake on it.
 

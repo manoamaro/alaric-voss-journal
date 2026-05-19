@@ -1,14 +1,18 @@
 ---
-{"publish":true,"created":"2025-12-19T16:00:43.000+01:00","modified":"2026-05-19T13:53:04.090+02:00","published":"2026-05-19T13:53:04.090+02:00","tags":["session"],"cssclasses":"","date":null}
+publish: true
+created: 2025-12-19T16:00:43.000+01:00
+modified: 2026-05-19T13:53:04.090+02:00
+tags:
+  - session
 ---
 
-We resumed our journey toward [[compendium/locations/Village Vallaki\|Vallaki]] with incomplete knowledge and insufficient certainty—an increasingly common condition in this land.
+We resumed our journey toward [[Village Vallaki|Vallaki]] with incomplete knowledge and insufficient certainty—an increasingly common condition in this land.
 
 ## On Maps and Unreliable Guidance
 
 Attempts were made to acquire a proper map. They failed.
 
-[[The Land of Barovia\|Barovia]] does not require maps, it seems. Its inhabitants navigate by memory, by habit, or by resignation. Directions were given to us verbally—fragmented, imprecise, and offered with the air of someone discharging an obligation rather than a kindness:
+[[The Land of Barovia|Barovia]] does not require maps, it seems. Its inhabitants navigate by memory, by habit, or by resignation. Directions were given to us verbally—fragmented, imprecise, and offered with the air of someone discharging an obligation rather than a kindness:
 
 - A wooded stretch.
 - A gate we had already seen.
@@ -26,7 +30,7 @@ The others noticed. They suspect necromancy. They are not entirely wrong to ques
 
 A final warning was given before we left.
 
-*Do not follow cries. Do not trust what calls from the mist.*
+_Do not follow cries. Do not trust what calls from the mist._
 
 Sound advice. Likely insufficient.
 
@@ -56,13 +60,13 @@ One wolf seized my leg and pulled. The fall was immediate. There was no time to 
 
 I recall nothing between the moment of falling and the sensation of forced breath returning to my lungs.
 
-[[compendium/characters/Brennick]] had descended after me and restored me through divine means. His magic remains… altered. Functional, but not pure. I owe him my life. I have written that sentence once before in this notebook; I expect to write it again.
+[[Brennick]] had descended after me and restored me through divine means. His magic remains… altered. Functional, but not pure. I owe him my life. I have written that sentence once before in this notebook; I expect to write it again.
 
 ### Aftermath of Violence
 
 Upon regaining awareness, I acted without restraint.
 
-I cast [[spells/Level 2/Mind Spike\|Mind Spike]]. Not as a calculation, but as anger.
+I cast [[spells/Level 2/Mind Spike|Mind Spike]]. Not as a calculation, but as anger.
 
 The effect was excessive. The wolf's mind collapsed under the force. Termination was instantaneous.
 
@@ -75,7 +79,7 @@ Post-engagement, the pattern was unmistakable.
 - They coordinated their positioning.
 - They anticipated movement.
 - They used terrain deliberately.
-- They avoided [[compendium/characters/Ireena Kolyana\|Ireena]].
+- They avoided [[Ireena Kolyana|Ireena]].
 
 This last point is the critical one. They could have targeted her. They did not.
 
@@ -91,9 +95,9 @@ Only confirmation: the wolves hunt this road repeatedly. This is an ambush site,
 
 We withdrew from the road to recover. Wounds were treated, a fire lit, food prepared. Morale stabilised, briefly.
 
-I used the interval to examine the spellbook we had recovered earlier. Through [[spells/Level 1/Identify\|Identify]], I forced comprehension. The script reorganised itself under observation. Several of its spells can, with effort, be transcribed into my own notation. The methodology behind them is foreign—structured, but alien.
+I used the interval to examine the spellbook we had recovered earlier. Through [[spells/Level 1/Identify|Identify]], I forced comprehension. The script reorganised itself under observation. Several of its spells can, with effort, be transcribed into my own notation. The methodology behind them is foreign—structured, but alien.
 
-This reinforces a pattern I have been reluctant to name. Magic in [[The Land of Barovia\|Barovia]] is not merely different. It is distorted at a foundational level.
+This reinforces a pattern I have been reluctant to name. Magic in [[The Land of Barovia|Barovia]] is not merely different. It is distorted at a foundational level.
 
 ---
 
@@ -105,7 +109,7 @@ Auditory anomaly first. Footsteps behind us. Matching our pace. No visible sourc
 
 Visual anomaly second. Figures ahead of us. Identical to our party. Mimicking posture and equipment.
 
-I identified the most likely mechanism: a spatial loop construct, arcane in nature, possibly bound to the [[compendium/study notes/The Mists and the Domains of Dread\|mist]] itself.
+I identified the most likely mechanism: a spatial loop construct, arcane in nature, possibly bound to the [[The Mists and the Domains of Dread|mist]] itself.
 
 We confirmed it by marking the ground and observing the marks return. We were not advancing. We were contained.
 
@@ -115,11 +119,11 @@ We reversed direction.
 
 Key observations followed quickly. The footsteps adjusted dynamically. The loop persisted regardless. A specific location began to register as familiar.
 
-At that location we discovered a set of [[Tarokka]] cards and a fragment of a map indicating a place called *Master's Mercy*. There was no active magic on the objects themselves. The mist carried the enchantment.
+At that location we discovered a set of [[Tarokka]] cards and a fragment of a map indicating a place called _Master's Mercy_. There was no active magic on the objects themselves. The mist carried the enchantment.
 
 We chose, on that basis, to leave the road.
 
-The [[compendium/study notes/The Mists and the Domains of Dread\|mist]] receded as we advanced into the forest. The road had been the trap. The forest was the exit.
+The [[The Mists and the Domains of Dread|mist]] receded as we advanced into the forest. The road had been the trap. The forest was the exit.
 
 ### Return to the Road
 
@@ -135,9 +139,9 @@ Not a statue. Not alive. Something else.
 
 ### Preliminary Assessment
 
-[[compendium/characters/Brennick]] confirmed it first. An undead presence. A strong aura. No immediate hostility.
+[[Brennick]] confirmed it first. An undead presence. A strong aura. No immediate hostility.
 
-Likely classification: a [[Revenants\|Revenant]]. A being bound by oath beyond death. Purpose-driven. Persistent. Dangerous.
+Likely classification: a [[Revenants|Revenant]]. A being bound by oath beyond death. Purpose-driven. Persistent. Dangerous.
 
 But not, of itself, hostile.
 
@@ -147,9 +151,9 @@ But not, of itself, hostile.
 
 Key learnings:
 
-- Terrain in [[The Land of Barovia\|Barovia]] is as lethal as its inhabitants.
+- Terrain in [[The Land of Barovia|Barovia]] is as lethal as its inhabitants.
 - Creatures here exhibit intelligence beyond expectation.
-- The [[compendium/study notes/The Mists and the Domains of Dread\|mist]] is not environmental. It is active.
+- The [[The Mists and the Domains of Dread|mist]] is not environmental. It is active.
 - Magic behaves unpredictably, but not without structure.
 - Death is not always an ending.
 

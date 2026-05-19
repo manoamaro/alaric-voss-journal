@@ -1,8 +1,12 @@
 ---
-{"publish":true,"created":"2026-02-02","modified":"2026-05-19T13:53:04.091+02:00","published":"2026-02-02","tags":["session"],"cssclasses":"","date":"2026-02-02"}
+publish: true
+created: 2026-02-02
+modified: 2026-05-19T13:53:04.091+02:00
+tags:
+  - session
 ---
 
-[[compendium/study notes/The Mists and the Domains of Dread\|The mists]] do not merely obscure—they **mute**. Sound, certainty, even reason seem dulled beneath their veil.
+[[The Mists and the Domains of Dread|The mists]] do not merely obscure—they **mute**. Sound, certainty, even reason seem dulled beneath their veil.
 
 ---
 
@@ -10,7 +14,7 @@ We came upon a clearing marked by a crude symbol—five points etched in stone, 
 
 I could not place it. No known order, no script, no sigil I recognized. That alone was enough to unsettle me.
 
-[[compendium/characters/Ireena Kolyana\|Ireena]] saw nothing of meaning in it. Yet her mind was elsewhere—fractured by recent events. She spoke of a man in armor, of lost love and resurrection. Ramblings, perhaps. Or echoes of something older than reason. In Barovia, madness and truth share an uncomfortable proximity.
+[[Ireena Kolyana|Ireena]] saw nothing of meaning in it. Yet her mind was elsewhere—fractured by recent events. She spoke of a man in armor, of lost love and resurrection. Ramblings, perhaps. Or echoes of something older than reason. In Barovia, madness and truth share an uncomfortable proximity.
 
 We left the place behind. I did not argue.
 
@@ -20,7 +24,7 @@ The forest pressed in as we traveled—quiet in a way that denied life itself. E
 
 Eventually, the trees broke.
 
-Below us: a lake, a distant city—[[compendium/locations/Village Vallaki\|Vallaki]]—and a windmill standing alone, like a broken tooth in the landscape. I remembered [[compendium/characters/Count Strahd von Zarovich\|Strahd]]’s amusement when he mentioned such places. That alone was reason enough to avoid it.
+Below us: a lake, a distant city—[[Village Vallaki|Vallaki]]—and a windmill standing alone, like a broken tooth in the landscape. I remembered [[Count Strahd von Zarovich|Strahd]]’s amusement when he mentioned such places. That alone was reason enough to avoid it.
 
 Yet the land did not allow us the comfort of simple decisions.
 
@@ -30,7 +34,7 @@ We encountered her on the road.
 
 An old woman. Alone. Pulling a cart that no such body should have been capable of moving. Her voice was warm, her demeanor false. I did not require magic to see through it.
 
-She spoke of refugees denied entry to Vallaki. Offered pastries—those same unnatural creations we had already consumed. [[compendium/characters/Ireena Kolyana\|Ireena]] confirmed what instinct already warned me: addiction, disappearance, quiet horror hidden beneath civility.
+She spoke of refugees denied entry to Vallaki. Offered pastries—those same unnatural creations we had already consumed. [[Ireena Kolyana|Ireena]] confirmed what instinct already warned me: addiction, disappearance, quiet horror hidden beneath civility.
 
 We let her pass.
 
@@ -38,7 +42,7 @@ A calculated decision. Not a comfortable one.
 
 ---
 
-Further along, the land shifted again. A meadow by the lake stirred memory in [[compendium/characters/Ireena Kolyana\|Ireena]]—childhood dreams of something [[compendium/study notes/The Mists and the Domains of Dread\|mist]]-formed pursuing her. I attempted to interpret it through known frameworks: divine influence, arcane imprint, extraplanar interference.
+Further along, the land shifted again. A meadow by the lake stirred memory in [[Ireena Kolyana|Ireena]]—childhood dreams of something [[The Mists and the Domains of Dread|mist]]-formed pursuing her. I attempted to interpret it through known frameworks: divine influence, arcane imprint, extraplanar interference.
 
 The conclusion was… inconclusive.
 
@@ -58,7 +62,7 @@ A tension. The sense of being observed.
 
 Through my familiar, I saw it before we reached it:
 
-[[compendium/characters/Hugh]].
+[[Hugh]].
 
 Dead.
 
@@ -67,14 +71,14 @@ Displayed.
 By the time we arrived, the reality surpassed the vision. His body torn, blood fresh, the scent metallic and overwhelming. I could not maintain composure. Contact with the corpse—through magic, no less—forced a reaction I could not suppress.
 
 I lost control, briefly.
-[[compendium/characters/Van]] did not.
-[[compendium/characters/Brennick]] did not.
+[[Van]] did not.
+[[Brennick]] did not.
 
 That distinction matters.
 
 ---
 
-The attack followed immediately. [[compendium/study notes/Lycanthropy\|Werewolves]]. Coordinated. Intelligent.
+The attack followed immediately. [[Lycanthropy|Werewolves]]. Coordinated. Intelligent.
 
 Not beasts—**hunters**.
 
@@ -86,7 +90,7 @@ Combat was immediate and brutal. Silver proved effective, as expected. My spells
 
 I felt it immediately—not merely pain, but implication.
 
-**[[compendium/study notes/Lycanthropy]].**
+**[[Lycanthropy]].**
 
 A curse, not a disease. One that does not wait for consent.
 
@@ -100,9 +104,9 @@ The second we subdued.
 
 That decision fractured the group more than the battle itself.
 
-[[compendium/characters/Van]] argued for restraint. Information. Utility.
+[[Van]] argued for restraint. Information. Utility.
 
-[[compendium/characters/Brennick]] chose vengeance.
+[[Brennick]] chose vengeance.
 
 I attempted mediation—logic, leverage, potential cure—but ultimately, I failed to prevent the outcome.
 
@@ -114,15 +118,15 @@ Cycle acknowledged. Cycle continued.
 
 ---
 
-We recovered [[compendium/characters/Hugh]]’s body. Found a scroll among his belongings—useful, though the cost is… inelegant.
+We recovered [[Hugh]]’s body. Found a scroll among his belongings—useful, though the cost is… inelegant.
 
-[[compendium/characters/Ireena Kolyana\|Ireena]] remains unstable, though alive. Notably, one of the creatures chose **not** to kill her when given the opportunity. This is not chance. It implies interference—either internal or external.
+[[Ireena Kolyana|Ireena]] remains unstable, though alive. Notably, one of the creatures chose **not** to kill her when given the opportunity. This is not chance. It implies interference—either internal or external.
 
 I do not yet understand which.
 
 ---
 
-Approaching [[compendium/locations/Village Vallaki\|Vallaki]], we prepared as best we could.
+Approaching [[Village Vallaki|Vallaki]], we prepared as best we could.
 
 Weapons concealed. Blood removed through minor arcane manipulation. Appearances matter, even here.
 
@@ -137,8 +141,8 @@ We bribed our way inside. Efficiency over principle.
 **Observations**
 
 - The land resists coherence. Symbols, dreams, and encounters lack clear alignment.
-- The [[compendium/study notes/Lycanthropy\|werewolves]] exhibit organized behavior and memory. Not purely feral.
-- [[compendium/characters/Ireena Kolyana\|Ireena]] is increasingly central to unfolding events. Passive causality no longer applies.
+- The [[Lycanthropy|werewolves]] exhibit organized behavior and memory. Not purely feral.
+- [[Ireena Kolyana|Ireena]] is increasingly central to unfolding events. Passive causality no longer applies.
 - The bite remains unresolved. Immediate action required before the next full moon.
 - Internal party cohesion is… deteriorating.
 

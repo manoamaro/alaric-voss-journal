@@ -1,5 +1,10 @@
 ---
-{"publish":true,"aliases":["Construct","Constructs"],"created":"2025-11-13T20:13:36.000+01:00","modified":"2025-11-13T23:01:18.000+01:00","published":"2025-11-13T23:01:18.000+01:00","cssclasses":""}
+publish: true
+aliases:
+  - Construct
+  - Constructs
+created: 2025-11-13T20:13:36.000+01:00
+modified: 2025-11-13T23:01:18.000+01:00
 ---
 
 ![[media/compendium/constructs_sketch.jpg]]
